@@ -18,7 +18,7 @@ export function CoroaneFunerare() {
         const productMaximumSize = document.querySelectorAll(`.${STYLE.productMaximumSize}>*`)
         const productMid = document.querySelectorAll(`.${STYLE.productMid}>*`)
         const productMin = document.querySelectorAll(`.${STYLE.productMin}>*`)
-        const button = document.querySelectorAll(`.${STYLE.button}`)
+        const showMoreBtn = document.querySelectorAll(`.${STYLE.showMoreBtn}`)
         const showMoreText = document.querySelectorAll(`.${STYLE.showMoreText}`)
         let i
         let index = 11
@@ -38,7 +38,7 @@ export function CoroaneFunerare() {
             index = index + 12
         }
         showMore()
-        button[0].addEventListener("click", showMore)
+        showMoreBtn[0].addEventListener("click", showMore)
 
     })
 
@@ -101,7 +101,7 @@ export function CoroaneFunerare() {
             </div>
             <div className={STYLE.showMore}>
                 <div className={STYLE.showMoreText}></div>
-                <div><button className={STYLE.button}>ARATA MAI MULT</button></div>
+                <div><button className={STYLE.showMoreBtn}>ARATA MAI MULT</button></div>
             </div>
             <div className={STYLE.information}>
                 <div className={STYLE.informationTitle}>Comandă Online Coroane Jerbe cu Livrare la Domiciliu</div>
