@@ -38,7 +38,7 @@ export function Header() {
 
         const searchForm = document.querySelectorAll(`.${STYLE.searchForm}`)
         const searchContent = document.querySelectorAll(`.${STYLE.searchContent}`)
-        const deleteSearch = document.querySelectorAll(`.${STYLE.deleteSearch}`)
+        const deleteSearchInput = document.querySelectorAll(`.${STYLE.deleteSearchInput}`)
         const searchInput = document.querySelectorAll(`.${STYLE.searchInput}`)
         const searchInputMinSize = document.querySelectorAll(`.${STYLE.searchInputMinSize}`)
         const cartFormButton = document.querySelectorAll(`.${STYLE.cartFormButton}`)
@@ -51,7 +51,7 @@ export function Header() {
         document.addEventListener("click", click)
         searchForm[0].addEventListener("mouseenter", enter)
         searchForm[0].addEventListener("mouseleave", leave)
-        deleteSearch[0].addEventListener("click", deleteSearchText)
+        deleteSearchInput[0].addEventListener("click", deleteSearchText)
         cartFormButton[0].addEventListener("click", setBackground(isOpen))
         menuButton[0].addEventListener("click", setBackgroundMenu(isOpenMenu))
 
@@ -107,16 +107,16 @@ export function Header() {
         function deleteSearchText() {
             searchInput[0].focus()
             searchInput[0].value = ""
-            deleteSearch[0].style.color = "transparent"
-            deleteSearch[0].style.cursor = "default"
+            deleteSearchInput[0].style.color = "transparent"
+            deleteSearchInput[0].style.cursor = "default"
         }
 
         if (!inputTerm) {
-            deleteSearch[0].style.color = "transparent"
-            deleteSearch[0].style.cursor = "default"
+            deleteSearchInput[0].style.color = "transparent"
+            deleteSearchInput[0].style.cursor = "default"
         } else {
-            deleteSearch[0].style.color = "black"
-            deleteSearch[0].style.cursor = "pointer"
+            deleteSearchInput[0].style.color = "black"
+            deleteSearchInput[0].style.cursor = "pointer"
         }
 
         if (window.innerWidth >= 1024) {
@@ -230,7 +230,7 @@ export function Header() {
                                 />
 
                                 <button
-                                    className={STYLE.deleteSearch}
+                                    className={STYLE.deleteSearchInput}
                                     onClick={deleteTerm}
                                 >
                                     <VscClose />
