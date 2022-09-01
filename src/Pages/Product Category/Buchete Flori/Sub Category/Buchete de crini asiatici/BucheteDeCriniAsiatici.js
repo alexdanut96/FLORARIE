@@ -16,7 +16,7 @@ export function BucheteDeCriniAsiatici() {
 
     useEffect(() => {
         const productMax = document.querySelectorAll(`.${STYLE.productMax}>*`)
-        const productMidSize = document.querySelectorAll(`.${STYLE.productMidSize}>*`)
+        const productMedium = document.querySelectorAll(`.${STYLE.productMedium}>*`)
         const productMinSize = document.querySelectorAll(`.${STYLE.productMinSize}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
         const showMoreText = document.querySelectorAll(`.${STYLE.showMoreText}`)
@@ -27,7 +27,7 @@ export function BucheteDeCriniAsiatici() {
             for (i = 0; i <= productMax.length - 1; i++) {
                 if (i <= index) {
                     productMax[i].style.display = "flex"
-                    productMidSize[i].style.display = "flex"
+                    productMedium[i].style.display = "flex"
                     productMinSize[i].style.display = "flex"
                 }
             }
@@ -75,7 +75,7 @@ export function BucheteDeCriniAsiatici() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMidSize}>
+            <div className={STYLE.productMedium}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {

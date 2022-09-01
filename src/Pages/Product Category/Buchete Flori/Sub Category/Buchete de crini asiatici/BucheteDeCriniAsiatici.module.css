@@ -178,7 +178,7 @@
         padding-left: 1rem;
     }
 
-    .productMidSize {
+    .productMedium {
         display: none;
     }
 
@@ -275,7 +275,7 @@
         display: none;
     }
 
-    .productMidSize {
+    .productMedium {
         width: 100%;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -299,7 +299,7 @@
         display: none;
     }
 
-    .productMidSize {
+    .productMedium {
         display: none;
     }
 
