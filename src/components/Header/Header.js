@@ -272,7 +272,7 @@ export function Header() {
             </div>
             <div className={STYLE.bottomMinSize}>
                 <div className={STYLE.text}>
-                    <div>Pe Kriceps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                    <div>Cauta orasul de livrare &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
                     <BsFillPencilFill />
                 </div>
             </div>
