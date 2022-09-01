@@ -17,7 +17,7 @@ export function Sampanie() {
     useEffect(() => {
         const productMaximumSize = document.querySelectorAll(`.${STYLE.productMaximumSize}>*`)
         const productMediumSize = document.querySelectorAll(`.${STYLE.productMediumSize}>*`)
-        const productMin = document.querySelectorAll(`.${STYLE.productMin}>*`)
+        const productMinimum = document.querySelectorAll(`.${STYLE.productMinimum}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
         const showMoreItems = document.querySelectorAll(`.${STYLE.showMoreItems}`)
         let i
@@ -28,7 +28,7 @@ export function Sampanie() {
                 if (i <= index) {
                     productMaximumSize[i].style.display = "flex"
                     productMediumSize[i].style.display = "flex"
-                    productMin[i].style.display = "flex"
+                    productMinimum[i].style.display = "flex"
                 }
             }
             if (index >= productMaximumSize.length - 1) {
@@ -87,7 +87,7 @@ export function Sampanie() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMin}>
+            <div className={STYLE.productMinimum}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {
