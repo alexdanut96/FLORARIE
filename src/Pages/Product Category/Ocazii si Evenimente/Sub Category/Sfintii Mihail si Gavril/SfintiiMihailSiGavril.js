@@ -19,7 +19,7 @@ export function SfintiiMihailSiGavril() {
         const productMidSize = document.querySelectorAll(`.${STYLE.productMidSize}>*`)
         const productMin = document.querySelectorAll(`.${STYLE.productMin}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
-        const showMoreText = document.querySelectorAll(`.${STYLE.showMoreText}`)
+        const showMoreTxT = document.querySelectorAll(`.${STYLE.showMoreTxT}`)
         let i
         let index = 11
 
@@ -34,7 +34,7 @@ export function SfintiiMihailSiGavril() {
             if (index >= productMaxSize.length - 1) {
                 index = productMaxSize.length - 1
             }
-            showMoreText[0].innerHTML = `Afiseaza ${index + 1} din ${productMaxSize.length}`
+            showMoreTxT[0].innerHTML = `Afiseaza ${index + 1} din ${productMaxSize.length}`
             index = index + 12
         }
         showMore()
@@ -100,7 +100,7 @@ export function SfintiiMihailSiGavril() {
                 })}
             </div>
             <div className={STYLE.showMore}>
-                <div className={STYLE.showMoreText}></div>
+                <div className={STYLE.showMoreTxT}></div>
                 <div><button className={STYLE.button}>ARATA MAI MULT</button></div>
             </div>
             <div className={STYLE.information}>
