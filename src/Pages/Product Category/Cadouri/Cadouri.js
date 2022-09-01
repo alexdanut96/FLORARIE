@@ -26,7 +26,7 @@ export function Cadouri() {
 
     useEffect(() => {
         const categoryOne = document.querySelectorAll(`.${STYLE.categoryOne}`)
-        const categoryTwo = document.querySelectorAll(`.${STYLE.categoryTwo}`)
+        const categoryDois = document.querySelectorAll(`.${STYLE.categoryDois}`)
         const categoryThree = document.querySelectorAll(`.${STYLE.categoryThree}`)
         const categoryFour = document.querySelectorAll(`.${STYLE.categoryFour}`)
         const categoryFive = document.querySelectorAll(`.${STYLE.categoryFive}`)
@@ -78,11 +78,11 @@ export function Cadouri() {
         categoryOne[0].addEventListener("mouseleave", () => {
             imageBackgroundUne[0].style.transform = "scale(1)"
         })
-        categoryTwo[0].addEventListener("mouseenter", () => {
+        categoryDois[0].addEventListener("mouseenter", () => {
             imageBackgroundTwo[0].style.transform = "scale(1.1)"
         })
 
-        categoryTwo[0].addEventListener("mouseleave", () => {
+        categoryDois[0].addEventListener("mouseleave", () => {
             imageBackgroundTwo[0].style.transform = "scale(1)"
         })
         categoryThree[0].addEventListener("mouseenter", () => {
@@ -131,7 +131,7 @@ export function Cadouri() {
                         <div className={STYLE.imageBackgroundUne}></div>
                         <div className={STYLE.categoryTitle}><div>Dulciuri</div></div>
                     </Link>
-                    <Link to={cadouri[1].path} className={STYLE.categoryTwo}>
+                    <Link to={cadouri[1].path} className={STYLE.categoryDois}>
                         <div className={STYLE.imageBackgroundTwo}></div>
                         <div className={STYLE.categoryTitle}><div>Parfumuri</div></div>
                     </Link>
