@@ -17,7 +17,7 @@ export function SfintiiMihailSiGavril() {
     useEffect(() => {
         const productMaxSize = document.querySelectorAll(`.${STYLE.productMaxSize}>*`)
         const productMidSize = document.querySelectorAll(`.${STYLE.productMidSize}>*`)
-        const productMin = document.querySelectorAll(`.${STYLE.productMin}>*`)
+        const productMinimum = document.querySelectorAll(`.${STYLE.productMinimum}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
         const showMoreTxT = document.querySelectorAll(`.${STYLE.showMoreTxT}`)
         let i
@@ -28,7 +28,7 @@ export function SfintiiMihailSiGavril() {
                 if (i <= index) {
                     productMaxSize[i].style.display = "flex"
                     productMidSize[i].style.display = "flex"
-                    productMin[i].style.display = "flex"
+                    productMinimum[i].style.display = "flex"
                 }
             }
             if (index >= productMaxSize.length - 1) {
@@ -87,7 +87,7 @@ export function SfintiiMihailSiGavril() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMin}>
+            <div className={STYLE.productMinimum}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {
