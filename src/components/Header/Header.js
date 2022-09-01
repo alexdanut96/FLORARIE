@@ -36,7 +36,7 @@ export function Header() {
 
     useEffect(() => {
 
-        const searchForm = document.querySelectorAll(`.${STYLE.searchForm}`)
+        const searchFormContainer = document.querySelectorAll(`.${STYLE.searchFormContainer}`)
         const searchContent = document.querySelectorAll(`.${STYLE.searchContent}`)
         const deleteSearchInput = document.querySelectorAll(`.${STYLE.deleteSearchInput}`)
         const searchInput = document.querySelectorAll(`.${STYLE.searchInput}`)
@@ -49,8 +49,8 @@ export function Header() {
 
         window.addEventListener("resize", setToFalse)
         document.addEventListener("click", click)
-        searchForm[0].addEventListener("mouseenter", enter)
-        searchForm[0].addEventListener("mouseleave", leave)
+        searchFormContainer[0].addEventListener("mouseenter", enter)
+        searchFormContainer[0].addEventListener("mouseleave", leave)
         deleteSearchInput[0].addEventListener("click", deleteSearchText)
         cartFormButton[0].addEventListener("click", setBackground(isOpen))
         menuButton[0].addEventListener("click", setBackgroundMenu(isOpenMenu))
@@ -93,13 +93,13 @@ export function Header() {
 
         function click(event) {
             if (InputContainerRef.current.contains(event.target)) {
-                searchForm[0].removeEventListener("mouseenter", enter)
-                searchForm[0].removeEventListener("mouseleave", leave)
+                searchFormContainer[0].removeEventListener("mouseenter", enter)
+                searchFormContainer[0].removeEventListener("mouseleave", leave)
             } else if (!InputContainerRef.current.contains(event.target)) {
                 if (showButton) {
                     searchContent[0].style.transform = "translateX(-100%)"
-                    searchForm[0].addEventListener("mouseenter", enter)
-                    searchForm[0].addEventListener("mouseleave", leave)
+                    searchFormContainer[0].addEventListener("mouseenter", enter)
+                    searchFormContainer[0].addEventListener("mouseleave", leave)
                 }
             }
         }
@@ -191,7 +191,7 @@ export function Header() {
 
                     <div
                         ref={InputContainerRef}
-                        className={STYLE.searchForm}>
+                        className={STYLE.searchFormContainer}>
 
 
 
