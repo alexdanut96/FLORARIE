@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHMIR1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img1_BS.jpg",
+        "title": "Buchet de mireasa Blue Touch",
+        "price": "425",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Blue-Touch",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Something old, something new, something borrowed, something blue? Cum ar fi ca something blue sa fie chiar cateva fire de floare albastre, in buchetul tau de mireasa? Putina traditie si un pic mai mult glam.",
+            "composition": "Acest buchet este compus din: eucalipt, pittosporum,1 hortensia bleu / alba, 10 trandafiri albi, 6 heleborus, 6 oxipetalum, 6 veronica alba",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHMIR2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img2_BS.jpg",
+        "title": "Buchet de mireasa Clasic",
+        "price": "599",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Clasic",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Sigur, cu totii apreciem trend-urile. Dar peste ani, cand o sa te uiti la fotografiile de la nunta ta, ce o sa apreciezi mai mult? Trend-urile sau eleganta? Noi spunem ca eleganta si stilul clasic vor fi mereu cea mai buna alegere. Ca acest buchet de mireasa clasic, cu trandafiri si flori albe.",
+            "composition": "Contine: eucalipt, trandafiri albi de gradina - 10, minirosa roz pal - 7, trandafiri albi - 7, brunia - 6, lisianthus alb - 4",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHMIR3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img3_BS.jpg",
+        "title": "Buchet de mireasa cu eucalipt",
+        "price": "349",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-cu-eucalipt",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "In ziua nuntii tale ai nevoie de o gura de aer proaspat. Cand emotiile te coplesesc, aroma de eucalipt poate fi gura ta de aer proaspat si revigorant. Nu e doar aspectuos, ci si cu un miros placut, puternic, fresh.",
+            "composition": "Acest buchet contine: 6 garoafe roz, 5 trandafiri albi, 4 frezii albe, 4 hypericum alb, 5 fire de eucalypt, pistachia.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHMIR4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img4_BS.jpg",
+        "title": "Buchet de mireasa diafan",
+        "price": "455",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-diafan",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Rochie de mireasa din organza, foarte fluida? Bijuterii minimaliste? Avem buchetul care iti poate completa perfect look-ul. Buchet de mireasa diafan, din flori albe, cu mici accente roz fraise.",
+            "composition": "Contine: ruscus long, eucalipt, aspidistra, lisianthus alb 10 fire, trandafiri roz 5 fire, minirosa roz 4 fire, hypericum alb 5 fire, cupe de vanda alba - 3",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHMIR5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img5_BS.jpg",
+        "title": "Buchet de mireasa Inedit",
+        "price": "290",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Inedit",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Nu sunt pentru tine rochiile pe crinolina, nici trenele, nici voalul pana in pamant. Vrei o nunta nonconformista pana in toate detaliile. Iar buchetul tau va fi la fel: cu multa verdeata aromata, cu flori ce se aseamana cu florile de camp, langa care ai pus... orhidee.",
+            "composition": "Acest buchet contine: 3 cupe de cymbidiun, verdeata mixt, flori uscate de camp.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHMIR6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img6_BS.jpg",
+        "title": "Buchet de mireasa Simplu",
+        "price": "375",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Simplu",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Eleganta inseamna simplitate. Si e cel mai greu de obtinut. Mai ales cand vine vorba de detalii. Care conteaza enorm in ziua nuntii tale! Alege un buchet simplu si elegant, in acord cu stilul tau.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHMIR7",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img7_BS.jpg",
+        "title": "Buchet de mireasa Duo",
+        "price": "459",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Duo",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Tu esti jumatatea mea. Asa decizi in cea mai importanta zi din viata ta. Asa ca e normal ca si buchetul tau de mireasa sa arate clar cele doua jumatati: jumatatea alba, si pura, si jumatatea portocalie, vesela si vibranta.",
+            "composition": "Acest buchet este compus din: 5 bujori, 3 lisianthus alb, 2 minirosa portocalii, 9 trandafiri portocalii, verdeata.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHMIR8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img8_BS.jpg",
+        "title": "Buchet de mireasa cu bujori",
+        "price": "449",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-cu-bujori",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Daca exista buchetul de mireasa perfect, acela este buchetul cu bujori. Fiecare din noi am visat macar o data la acest buchet: rafinat, cu un parfum delicat si de o eleganta desavarsita.",
+            "composition": "Acest buchet este compus din: 19 bujori si verdeata.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHMIR9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img9_BS.jpg",
+        "title": "Buchet de mireasa Ice Queen",
+        "price": "455",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Ice-Queen",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Daca visezi la o nunta iarna, cu peisaj superb si decoruri de gheata, acesta este buchetul perfect pentru tine! Vei fi o veritabila regina a ghetii si a nuntii! Cu flori albe si funze de eucalipt, este alegerea perfecta pentru orice nunta ce are loc iarna.",
+            "composition": "Contine: eucalipt, 20 frezii albe, 10 lisianthus alb, 5 garoafe somon.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "BUCHMIR10",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img10.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img10_BS.jpg",
+        "title": "Buchet de mireasa Boho",
+        "price": "499",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Boho",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de mireasa Boho Nunta in aer liber? Pe o pajiste plina de flori, asa cum ai visat mereu? Inspirata de peisajele din Toscana? Ti-am pregatit buchetul de mireasa perfect, pentru a completa acest tablou.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "BUCHMIR11",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img11.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img11_BS.jpg",
+        "title": "Buchet de mireasa - Pictura",
+        "price": "545",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Pictura",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Asemeni unui tablou pictat in cele mai fine culori, am ales cele mai delicate si viu colorate flori pentru o zi de neuitat!",
+            "composition": "Contine: 1 Verdeata - 7 Trandafiri peach, 7 Minirosa peach, 9 gentiana",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "BUCHMIR12",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img12.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img12_BS.jpg",
+        "title": "Buchet de mireasa - Poveste alba",
+        "price": "359",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Poveste-alba",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Pentru o nunta de vis, alege buchetul de mireasa Poveste alba, alcatuit din 7 trandafiri albi, 2 minirosa albi, 7 frezia alba, 3 alstroemeria alba, 1 hortensia alba si 1 hortensia verde.",
+            "composition": "Contine: 3 Alstroemeria alb, 1 Verdeata - 7 Frezii alb, 1 Hortensia alb, 1 Hortensia verde, 7 Trandafiri alb, 2 Minirosa alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "BUCHMIR13",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img13.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img13_BS.jpg",
+        "title": "Buchet de mireasa cu trandafiri si frezii",
+        "price": "295",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-cu-trandafiri-si-frezii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Diafan si delicat, asa se caracterizeaza acest buchet rotund de mireasa alcatuit din 11 trandafiri roz, 12 frezia alba si 1 santini.",
+            "composition": "Contine: 1 Verdeata - 12 Frezii alb, 11 Trandafiri roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 14,
+        "productCode": "BUCHMIR14",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img14.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img14_BS.jpg",
+        "title": "Buchet de mireasa - Bulgaras de culoare",
+        "price": "305",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Bulgaras-de-culoare",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Nuantele de roz, galben si un strop de rosu se completeaza perfect cu rochia diafana de mireasa. Alege acest buchet rotund de mireasa, alcatuit din: 1 hortensie roz, 3 trandafiri peach, 3 trandafiri roz, 2 minirosa roz, 2 minirosa crem, 2 hypericum rosu si 1 viburnum.",
+            "composition": "Contine: 1 Verdeata - 1 Hortensia roz, 2 Hypericum rosu, 3 Trandafiri peach, 3 Trandafiri roz, 2 Minirosa roz pal, 2 Minirosa roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 15,
+        "productCode": "BUCHMIR15",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img15.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img15_BS.jpg",
+        "title": "Buchet de mireasa - Pasiune",
+        "price": "295",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Pasiune",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Pasiune, dragoste, rafinament. Elementele care formeaza povestea voastra. Alege un buchet rotund de mireasa, alcatuit din 7 minirosa piano, 3 minirosa albi, 3 mure, 3 astilbe grena si 5 lisianthus crem, pentru a spune povestea voastra.",
+            "composition": "Contine: 1 Verdeata - 5 Lisianthus crem, 3 Minirosa alb, 7 Minirosa rosu, 3 Astilbe grena,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 16,
+        "productCode": "BUCHMIR1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img16.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img16_BS.jpg",
+        "title": "Buchet de mireasa - Suras",
+        "price": "389",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Suras",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cea mai frumoasa zi este cea in care spui DA. Alege buchetul rotund de mireasa Suras, alcatuit din 1 hortensia alba, 7 craspedia, 5 bujori albi, 5 frezia alba, 3 frezia galbena, 3 lisianthus alb.",
+            "composition": "Contine: 5 Frezii alb, 3 Frezii galben, 1 Hortensia alb, 3 Lisianthus alb, 7 Craspedia galbena, 5 Bujor alb",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 17,
+        "productCode": "BUCHMIR17",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img17.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img17_BS.jpg",
+        "title": "Buchet de mireasa - Poveste Roz",
+        "price": "399",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Poveste-Roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Povestea de dragoste este cea care ne inspira in creearea celor mai delicate buchete de mireasa.",
+            "composition": "Contine: 1 Verdeata - 5 Lisianthus alb, 9 Trandafiri roz",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 18,
+        "productCode": "BUCHMIR18",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img18.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img18_BS.jpg",
+        "title": "Buchet de mireasa - Dragoste",
+        "price": "305",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Dragoste",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Alege sa ai un buchet de poveste pentru nunta de vis pe care o planuiesti.",
+            "composition": "Acest buchet contine: 1 hortensie alba, 5 trandafiri albi, 1 hipericum verde, 5 frezia alba, 3 lisiantus alb, 1 viburnum.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 19,
+        "productCode": "BUCHMIR19",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img19.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img19_BS.jpg",
+        "title": "Buchet de mireasa - Pastel",
+        "price": "510",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Pastel",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Printesa din povestea cu bujori si trandafiri esti chiar tu! Alege pentru nunta ta de vis un buchet rotund alcatuit din 4 bujori albi, 7 trandafiri david austin roz, 3 astilbe alb, 3 minirosa alb, 1 boombastic.",
+            "composition": "4 bujori albi, 7 trandafiri david austin roz, 3 astilbe alb, 3 minirosa alb, 1 boombastic.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 20,
+        "productCode": "BUCHMIR20",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img20.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete Mireasa/img20_BS.jpg",
+        "title": "Buchet de mireasa Marsala",
+        "price": "349",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-mireasa-Marsala",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Fii o mireasa chic! Alege acest buchet rotund de mireasa Marsala, alcatuit din 5 astilbe grena, 3 lisianthus alb, 3 minirosa ivoire, 6 minirosa piano, 5 minirosa rosii si eucalipt. Marsala este culoarea anului 2015.",
+            "composition": "Contine: 1 Verdeata Eucalipt, 1 Verdeata - 3 Lisianthus alb, 5 Minirosa rosu, 6 Minirosa grena, 5 Astilbe grena,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

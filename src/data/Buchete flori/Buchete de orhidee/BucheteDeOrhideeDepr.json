@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHOR1",
+        "discount": "10",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet cu orhidee cymbidium.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet cu orhidee cymbidium_BG.jpg",
+        "title": "Buchet cu orhidee cymbidium",
+        "price": "225",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-orhidee-cymbidium",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un buchet de flori exotic şi un „La mulţi ani!” perfect pentru toate femeile care poarta numele de Vanda. Creat special pentru a-i sărbători ziua de naştere, buchetul de flori conţine 4 cupe de orhidee Cymbidium alb, 7 trandafiri rosii şi verdeaţă.Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului) *In perioada august - septembrie stocul orhideei cymbidium este limitat.",
+            "composition": "Contine: 4 Orhidee alb, Specia: Cymbidium, 7 Trandafiri rosii",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHOR2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium albe cu esarfa.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium albe cu esarfa_BS.jpg",
+        "title": "Buchet de 15 orhidee dendrobium albe",
+        "price": "235",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-orhidee-dendrobium-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 orhidee dendrobium albe, un buchet perfect pentru a lumina ziua unei persoane dragi.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHOR3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium albe.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium albe_BS.jpg",
+        "title": "Buchet de 21 orhidee dendrobium albe",
+        "price": "305",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-21-orhidee-dendrobium-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 21 orhidee dendrobium albe un elogiu perfect pentru persoana iubita.",
+            "composition": "Buchet de 21 orhidee dendrobium albe",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHOR4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium albe.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium albe_BS.jpg",
+        "title": "Buchet de 25 orhidee dendrobium albe",
+        "price": "335",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-25-orhidee-dendrobium-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 25 orhidee dendrobium albe un elogiu perfect pentru persoana iubita.",
+            "composition": "Buchet de 25 orhidee dendrobium albe",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHOR5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium albe.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium albe_BS.jpg",
+        "title": "Buchet de 49 orhidee dendrobium albe",
+        "price": "335",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-49-orhidee-dendrobium-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 49 orhidee dendrobium albe un elogiu perfect pentru persoana iubita.",
+            "composition": "Buchet de 49 orhidee dendrobium albe",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHOR6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium albe cu esarfa.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium albe cu esarfa_BS.jpg",
+        "title": "Buchet de 19 orhidee dendrobium albe",
+        "price": "285",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-orhidee-dendrobium-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 orhidee dendrobium albe, un buchet perfect pentru a lumina ziua unei persoane dragi.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHOR7",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium mov.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium mov_BS.jpg",
+        "title": "Buchet de 19 orhidee dendrobium mov",
+        "price": "285",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-orhidee-dendrobium-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 orhidee dendrobium mov. Perfect pentru persoana pe care o admiri.",
+            "composition": "Contine: 10 Verdeata BearGrass, 3 Verdeata Aspidistra, 19 Orhidee Dendrobium Cupa mov, Specia: Dendrobium Purple,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHOR8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium mov.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de orhidee dendrobium mov_BS.jpg",
+        "title": "Buchet de 15 orhidee dendrobium mov",
+        "price": "235",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-orhidee-dendrobium-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 orhidee dendrobium mov. Perfect pentru persoana pe care o admiri.",
+            "composition": "Contine: 10 Verdeata BearGrass, 3 Verdeata Aspidistra, 15 Orhidee Dendrobium Cupa mov, Specia: Dendrobium Purple,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHOR9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 7 orhidee dendrobium mov.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 7 orhidee dendrobium mov_BS.jpg",
+        "title": "Buchet de 7 orhidee dendrobium mov",
+        "price": "139",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-orhidee-dendrobium-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 orhidee dendrobium mov. Flori elegante cu stil ce pot surprinde in fiecare zi persoana draga. Mov este o culoare puternica, intr-un contrast elegant cu aceste flori delicate.",
+            "composition": "Buchet de 7 orhidee dendrobium mov",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "BUCHOR10",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 9 orhidee dendrobium mov.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 9 orhidee dendrobium mov_BS.jpg",
+        "title": "Buchet de 9 orhidee dendrobium mov",
+        "price": "165",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-9-orhidee-dendrobium-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 9 orhidee dendrobium mov. Flori elegante cu stil ce pot surprinde in fiecare zi persoana draga. Mov este o culoare puternica, intr-un contrast elegant cu aceste flori delicate.",
+            "composition": "Buchet de 9 orhidee dendrobium mov",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "BUCHOR11",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 5 orhidee dendrobium mov.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 5 orhidee dendrobium mov_BS.jpg",
+        "title": "Buchet de 5 orhidee dendrobium mov",
+        "price": "110",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-5-orhidee-dendrobium-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 5 orhidee dendrobium mov. Flori elegante cu stil ce pot surprinde in fiecare zi persoana draga. Mov este o culoare puternica, intr-un contrast elegant cu aceste flori delicate.",
+            "composition": "Buchet de 5 orhidee dendrobium mov",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "BUCHOR12",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 49 orhidee dendrobium mov.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 49 orhidee dendrobium mov_BS.jpg",
+        "title": "Buchet de 49 orhidee dendrobium mov",
+        "price": "605",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-49-orhidee-dendrobium-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 49 orhidee dendrobium, un buchet senin ce inspira gratie si frumusete.",
+            "composition": "Buchet de 49 orhidee dendrobium mov",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "BUCHOR13",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet cu orhidee si tort de bezea.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet cu orhidee si tort de bezea_BS.jpg",
+        "title": "Buchet cu orhidee si tort de bezea",
+        "price": "415",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-orhidee-si-tort-de-bezea",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Ce surpriza ar fi mai placuta? Un buchet de flori sau ceva dulce? De ce sa te opresti doar la una din ele? Trimite un buchet de flori si trandafiri si orhidee, si un tort delicios de bezea, cu ciocolata!Portia standard pentru o persoana este de 120 - 150 de grame. Tortul de Bezea se pastreaza la frigider la temperaturi intre 2 si 4 grade C. Toate torturile sunt produse in ziua livrarii si nu contin conservanti, amelioratori sau aditivi. Recomandam consumul in aceeasi zi si nu mai mult de 48 de ore de la data comenzii.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 14,
+        "productCode": "BUCHOR14",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet mixt cu orhidee.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet mixt cu orhidee_BS.jpg",
+        "title": "Buchet mixt cu orhidee",
+        "price": "299",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-mixt-cu-orhidee",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un buchet plin de culoare si... pasiune. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Contine: 2 Alstroemeria rosu, 3 Orhidee Cymbidium Cupa grena, 2 Hypericum rosu, 5 Trandafiri rosu, 2 Minirosa rosu, 2 Leucadendron grena,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 15,
+        "productCode": "BUCHOR15",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Orhidee Phalaenopsis mov.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Orhidee Phalaenopsis mov_BS.jpg",
+        "title": "Orhidee Phalaenopsis mov",
+        "price": "285",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Orhidee-Phalaenopsis-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Eleganta si potrivita pentru orice ocazie. Alege sa faci un cadou deosebit, alege orhideea Phalaenopsis mov in ghiveci. NOTA: Fotografie cu titlu informativ. Produsul final poate fi diferit, respectandu-se raportul de pret. La cerere expresa, produsul poate fi executat dupa cerintele de culoare ale clientului, insa doar in limita stocului disponibil, cu acordul prealabil al furnizorului.",
+            "composition": "NOTA: Fotografie cu titlu informativ. Produsul final poate fi diferit, respectandu-se raportul de pret. La cerere expresa, produsul poate fi executat dupa cerintele de culoare ale clientului, insa doar in limita stocului disponibil, cu acordul prealabil al furnizorului.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 16,
+        "productCode": "BUCHOR16",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Orhidee Phalaenopsis alba.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Orhidee Phalaenopsis alba_BS.jpg",
+        "title": "Orhidee Phalaenopsis alba",
+        "price": "285",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Orhidee-Phalaenopsis-alba",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Chiar daca esti departe, florile pot transmite mesajul tau de dragoste sau de dor. Alege Orhideea Phalaenopsis alba! NOTA: Fotografie cu titlu informativ. Produsul final poate fi diferit, respectandu-se raportul de pret. La cerere expresa, produsul poate fi executat dupa cerintele de culoare ale clientului, insa doar in limita stocului disponibil, cu acordul prealabil al furnizorului.",
+            "composition": "NOTA: Fotografie cu titlu informativ. Produsul final poate fi diferit, respectandu-se raportul de pret. La cerere expresa, produsul poate fi executat dupa cerintele de culoare ale clientului, insa doar in limita stocului disponibil, cu acordul prealabil al furnizorului.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 17,
+        "productCode": "BUCHOR17",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 7 orhidee dendrobium albe.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 7 orhidee dendrobium albe_BS.jpg",
+        "title": "Buchet de 7 orhidee dendrobium albe",
+        "price": "139",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-orhidee-dendrobium-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 orhidee dendrobium albe. Flori elegante, albe ce inspira sinceritatea, pot fi oferite usor ca un gest de multumire.",
+            "composition": "Contine: 10 Verdeata BearGrass, 2 Verdeata Aralia, 3 Verdeata Aspidistra, 7 Orhidee Dendrobium Cupa alb, Specia: Dendrobium Whit",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 18,
+        "productCode": "BUCHOR18",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 5 orhidee dendrobium albe.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 5 orhidee dendrobium albe_BS.jpg",
+        "title": "Buchet de 5 orhidee dendrobium albe",
+        "price": "110",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-5-orhidee-dendrobium-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 5 orhidee dendrobium albe. Finute, elegante si accesibile, orhideele sunt un cadou potrivit in fiecare zi. Culoarea alba sugereaza puritate, inocenta, sinceritate.",
+            "composition": "Contine: 5 Orhidee Dendrobium Cupa alb, Specia: Dendrobium White,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 19,
+        "productCode": "BUCHOR19",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 11 orhidee dendrobium albe.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 11 orhidee dendrobium albe_BS.jpg",
+        "title": "Buchet de 11 orhidee dendrobium albe",
+        "price": "185",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-orhidee-dendrobium-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 11 orhidee dendrobium, pentru a nu lasa aceasta zi minunata sa treaca neobservata daruieste acest buchet elegant.",
+            "composition": "Contine: 15 Verdeata BearGrass, 4 Verdeata Aspidistra, 11 Orhidee Dendrobium Cupa alb, Specia: Dendrobium White,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 20,
+        "productCode": "BUCHOR20",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 9 orhidee dendrobium albe.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet de 9 orhidee dendrobium albe_BS.jpg",
+        "title": "Buchet de 9 orhidee dendrobium albe",
+        "price": "165",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-9-orhidee-dendrobium-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 9 orhidee dendrobium, transmite un mesaj elegant de simpatie prin intermediul acestui buchet.",
+            "composition": "Buchet de 9 orhidee dendrobium albe",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

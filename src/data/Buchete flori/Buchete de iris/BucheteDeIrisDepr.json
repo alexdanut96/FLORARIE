@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHCIRIS1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img1_BS.jpg",
+        "title": "Buchet de 25 irisi albi",
+        "price": "195",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-25-irisi-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 25 irisi albi, rasfatati-va simturile cu acest buchet plin de optimism.",
+            "composition": "Contine: 10 Verdeata BearGrass, 8 Verdeata Aspidistra, 25 Iris alb alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHCIRIS2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img2_BS.jpg",
+        "title": "Buchet de 25 irisi mov",
+        "price": "195",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-25-irisi-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 25 irisi mov, plin de noblete si farmec, pentru o intalnire deosebita care va crea momente magice.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHCIRIS3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img3_BS.jpg",
+        "title": "Buchet de 55 irisi mov",
+        "price": "365",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-55-irisi-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 55 irisi mov, un buchet care cu siguranta va naste uimiri in gandul persoanelor care il primesc.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHCIRIS4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img4_BS.jpg",
+        "title": "Buchet de 55 irisi albi",
+        "price": "365",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-55-irisi-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 55 irisi albi, aducator de seninatate si voie buna.",
+            "composition": "Contine: 8 Verdeata Aspidistra, 55 Iris alb alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHCIRIS5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img5_BS.jpg",
+        "title": "Buchet de 101 irisi mov",
+        "price": "620",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-101-irisi-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 101 irisi mov, oferit cu dragoste si tandrete, cu ocazia aniversarii a inca unui an minunat de casatorie.",
+            "composition": "Contine: 13 Verdeata Aspidistra, 101 Iris mov mov,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHCIRIS6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img6_BS.jpg",
+        "title": "Buchet de 19 irisi albi",
+        "price": "159",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-irisi-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 irisi albi, un buchet rafinat plin de inocenta si puritate.",
+            "composition": "Contine: 2 Verdeata Ruscus, 6 Verdeata Aspidistra, 19 Iris alb alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHCIRIS7",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img7_BS.jpg",
+        "title": "Buchet de 45 irisi mov",
+        "price": "305",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-45-irisi-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 45 irisi mov, inspirand prospetime si respect, ascest buchet se potriveste oricui.",
+            "composition": "Contine: 6 Verdeata Aspidistra, 45 Iris mov mov,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHCIRIS8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img8_BS.jpg",
+        "title": "Buchet de 15 irisi mov",
+        "price": "138",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-irisi-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 irisi mov, delicati si eleganti prin care ai ocazia sa exprimi sentimentele de apreciere, dragoste si prietenie.",
+            "composition": "Contine: 4 Verdeata Aspidistra, 15 Iris mov mov,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHCIRIS9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img9_BS.jpg",
+        "title": "Buchet de 19 irisi mov",
+        "price": "159",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-irisi-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 irisi mov, plin de rafinament, remarcabil prin perfectiunea liniei si tinutei sale elegante va surprinde orice femeie.",
+            "composition": "Contine: 19 Iris mov mov,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "BUCHCIRIS10",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img10.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img10_BS.jpg",
+        "title": "Buchet de 65 irisi mov",
+        "price": "420",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-65-irisi-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 65 irisi mov, un buchet ca o adiere de primavara mult asteptata.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "BUCHCIRIS11",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img11.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img11_BS.jpg",
+        "title": "Buchet de 45 irisi albi",
+        "price": "315",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-45-irisi-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 45 irisi albi, un buchet ce iti aminteste de timpul minunat petrecut impreuna cu persoana iubita.",
+            "composition": "Contine: 10 Verdeata BearGrass, 2 Verdeata Asparagus, 45 Iris alb alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "BUCHCIRIS12",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img12.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img12_BS.jpg",
+        "title": "Buchet de 11 irisi albi",
+        "price": "115",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-irisi-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 11 irisi albi, un buchet plin de speranta si gingasie.",
+            "composition": "Contine: 11 Iris alb alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "BUCHCIRIS13",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img13.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img13_BS.jpg",
+        "title": "Buchet de 11 irisi mov",
+        "price": "115",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-irisi-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 11 irisi mov, un mix simplu dar atragator din flori absolut remarcabile datorita frumusetii lor. 11 irisi fragili si totodata de efect!",
+            "composition": "Contine: 4 Verdeata Aspidistra, 11 Iris mov mov,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 14,
+        "productCode": "BUCHCIRIS14",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img14.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img14_BS.jpg",
+        "title": "Buchet de 35 irisi albi",
+        "price": "245",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-irisi-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 irisi albi, prin care iti poti arata afectiunea fata de o persoana draga.",
+            "composition": "Contine: 8 Verdeata Aspidistra, 35 Iris alb alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 15,
+        "productCode": "BUCHCIRIS15",
+        "discount": "8",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img15.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img15_BS.jpg",
+        "title": "Buchet de 35 irisi mov",
+        "price": "245",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-irisi-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 irisi mov, elegant si suav, gata sa fie pus in bratele persoanei iubite pentru a-i transmite dragostea ta toata.",
+            "composition": "Contine: 15 Verdeata Salal, 35 Iris mov mov,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 16,
+        "productCode": "BUCHCIRIS16",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de iris/img16.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de iris/img16_BS.jpg",
+        "title": "Buchet de flori - Buchet pentru Iris",
+        "price": "229.08",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Buchet-pentru-Iris",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Despre cea care poarta numele Iris se spune ca este delicata, fina, eleganta si foarte feminina, asemenea florii. Pentru ea am creat un buchet suav, gata sa fie pus in bratele ei si sa-i transmita dragostea ta toata. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul aranjamentului)",
+            "composition": "Contine: 35 Iris mov mov,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

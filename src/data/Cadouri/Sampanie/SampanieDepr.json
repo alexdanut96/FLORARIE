@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "productCode": "CADSAM1",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Sampanie/img1.jpg",
+        "productImageBs": "/Product Images/CADOURI/Sampanie/img1_BS.jpg",
+        "title": "Dom Perignon Gift Box Champagne",
+        "price": "1299",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Dom-Perignon-Gift-Box-Champagne",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Dom Perignon se caracterizeaza prin linia fina a perfectiunii exclusiviste. Poate fi completarea perfetcta pentru un cadru business dar si pentru un cadou deosebit. Este alegerea unui gentleman!Aroma are un buchet bogat, cu tente florale fine combinate cu o senzatie minerala puternica. Gustul sau deosebit aminteste de fructele glazurate amestecate cu un ulei camforat extrem de fin care se transforma treptat intr-o senzatie aspra, intepatoare de lemn dulce.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "CADSAM2",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Sampanie/img2.jpg",
+        "productImageBs": "/Product Images/CADOURI/Sampanie/img2_BS.jpg",
+        "title": "Moet Brut Gift Box Champagne",
+        "price": "399",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Moet-Brut-Gift-Box-Champagne",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Moet & Chandon Brut Imperial este sampania cea mai adorata si mai dorita din lume. Este punctul de referinta in domeniul sampaniei, de peste 160 de ani. Este singura sampanie rezultata din “assemblage”-ul a peste 200 de vinuri.Intalnim aici 3 soiuri de struguri: Pinot Noir, Pinot Meunier si Chardonnay.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "CADSAM3",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Sampanie/img3.jpg",
+        "productImageBs": "/Product Images/CADOURI/Sampanie/img3_BS.jpg",
+        "title": "Martini Asti Gift Box",
+        "price": "109",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Martini-Asti-Gift-Box",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Martini Asti este pentru orice ocazie. Nu trebuie sa ai un motiv intemeiat pentru a face o surpriza.Vin spumant plin de prospetime, floral si fructat (soc, mere verzi, pere, caise), cu accente de citrice. GUST: Gustul lejer, foarte proaspat, puternic fructat (intens de grapefruit si lamaie, si subtil de caise si mere verzi), cu un gust final ce lasa o senzatie placuta de fructe zaharisite.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

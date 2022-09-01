@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHCRA1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img1_BS.jpg",
+        "title": "Buchet de 35 crini asiatici galbeni",
+        "price": "499",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-crini-asiatici-galbeni",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 crini asiatici galbeni, un buchet perfect pentru a spune multumesc sau a exprima recunostinta.",
+            "composition": "Contine: 35 Crin asiatic galben,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHCRA2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img2_BS.jpg",
+        "title": "Buchet de 25 crini asiatici galbeni",
+        "price": "359",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-25-crini-asiatici-galbeni",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 25 crini asiatici galbeni, un buchet ce te surprinde prin mireasma si frumusete.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHCRA3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img3_BS.jpg",
+        "title": "Buchet de 45 crini asiatici galbeni",
+        "price": "659",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-45-crini-asiatici-galbeni",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 45 crini asiatici galbeni, un buchet plin de viata si stralucire prin care poti sa transmiti tot ceea ce doresti unei persoane dragi.",
+            "composition": "Contine: 45 Crin asiatic galben,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHCRA4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img4_BS.jpg",
+        "title": "Buchet de 9 crini asiatici galbeni",
+        "price": "169.58",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-9-crini-asiatici-galbeni",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 9 crini asiatici galbeni, ofera acest buchet alesului care pretinde atentie.",
+            "composition": "Contine: 9 Crin asiatic galben,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHCRA5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img5_BS.jpg",
+        "title": "Buchet de 15 crini asiatici galbeni",
+        "price": "249",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-crini-asiatici-galbeni",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 crini asiatici galbeni, un buchet perfect pentru orice ocazie.",
+            "composition": "Contine: 15 Crin asiatic galben,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHCRA6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img6_BS.jpg",
+        "title": "Buchet de 7 crini asiatici portocalii",
+        "price": "149",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-crini-asiatici-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 crini asiatici portocalii, seducator, daruieste-l cu ocazia primaverii.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHCRA7",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img7_BS.jpg",
+        "title": "Buchet de 21 crini asiatici galbeni",
+        "price": "320",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-21-crini-asiatici-galbeni",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 21 crini asiatici galbeni va colora coltisorul preferat al casei.",
+            "composition": "Contine: 21 Crin asiatic galben,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHCRA8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img8_BS.jpg",
+        "title": "Buchet de 19 crini asiatici galbeni",
+        "price": "295",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-crini-asiatici-galbeni",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 crini asiatici galbeni, un buchet proaspat pentru a face o zi minunata persoanei pe care o pretuiesti.",
+            "composition": "Contine: 5 Verdeata Eucalipt, 19 Crin asiatic galben,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHCRA9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini asiatici/img9_BS.jpg",
+        "title": "Buchet de 55 crini asiatici galbeni",
+        "price": "790",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-55-crini-asiatici-galbeni",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 55 crini asiatici galbeni, un buchet ideal pentru a sugera gratie si respect.",
+            "composition": "Contine: 55 Crin asiatic galben,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

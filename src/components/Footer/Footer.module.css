@@ -1,0 +1,236 @@
+.maxSizeContainer {
+    grid-area: f;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 85rem;
+    width: 100%;
+}
+
+.downloadApp {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #dddddd;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px 0 15px 0;
+}
+
+.downloadAppLinks {
+    display: inline-block;
+    line-height: 0;
+}
+
+.downloadAppLinks>:nth-child(1) {
+    margin-right: 30px;
+}
+
+.googlePlayImage {
+    height: 50px;
+    width: 200px;
+}
+
+.appStoreImage {
+    height: 50px;
+    width: 200px;
+}
+
+.utilityTitle {
+    font-weight: bold;
+    border-bottom: 1px solid red;
+    margin-bottom: 20px;
+    width: fit-content;
+}
+
+.navigationCategories {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.downloadAppTitle {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.utilities {
+    display: flex;
+    gap: 50px;
+}
+
+.utilities>*>.titles {
+    gap: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.aboutUtility,
+.accountUtility,
+.helpUtility,
+.linksUtility {
+    font-size: 15px;
+}
+
+.aboutUtility>.titles>.title>a,
+.accountUtility>.titles>.title>a,
+.helpUtility>.titles>.title>a,
+.linksUtility>.titles>.title>a {
+    text-decoration: none;
+    color: black;
+}
+
+.aboutUtility>.titles>.title>a:hover,
+.accountUtility>.titles>.title>a:hover,
+.helpUtility>.titles>.title>a:hover,
+.linksUtility>.titles>.title>a:hover {
+    color: #fa7d7d;
+    font-weight: bold;
+}
+
+.socialMedia {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.socialMedia>.logo {
+    max-width: 100px;
+    height: auto;
+    object-fit: cover;
+}
+
+.socialMediaButtons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.socialMediaButtons>a {
+    color: black;
+}
+
+.socialMediaButtons>.facebookButton:hover {
+    color: #3b579d;
+}
+
+.socialMediaButtons>.instagramButton:hover {
+    color: #bd378b;
+}
+
+.socialMediaButtons>.twitterButton:hover {
+    color: #179cf0;
+}
+
+.socialMediaButtons>.youtubeButton:hover {
+    color: #ff0000;
+}
+
+.minSizeContainer {
+    display: none;
+}
+
+.socialMediaButtons>a>i {
+    font-size: 25px;
+}
+
+.bottom {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px 0 10px 0;
+    border-top: solid 1px #dddddd;
+}
+
+.bottom>* {
+    font-size: 13px;
+}
+
+
+@media all and (max-width: 1023px) {
+    .maxSizeContainer {
+        display: none;
+    }
+
+    .minSizeContainer {
+        grid-area: f;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 50px;
+    }
+
+    .minSizeContainer>:nth-child(1),
+    .minSizeContainer>:nth-child(2) {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 85rem;
+        width: 100%;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .minSizeContainer>.phoneLogo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        margin-top: 10px;
+    }
+
+    .minSizeContainer>.phoneLogo>img {
+        margin-bottom: 25px;
+        max-width: 100px;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .minSizeContainer>.phoneLogo>.socialMediaIcons {
+        display: flex;
+        gap: 25px;
+        font-size: 25px;
+    }
+
+    .phoneNumber {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        margin-top: 10px;
+    }
+
+    .phoneNumber>:nth-child(1) {
+        font-size: 20px;
+    }
+
+    .minSizeContainer>div>div>.youtubeButton>i:hover {
+        color: #ff0000;
+    }
+
+    .minSizeContainer>div>div>.facebookButton>i:hover {
+        color: #3b579d;
+    }
+
+    .minSizeContainer>div>div>.twitterButton>i:hover {
+        color: #179cf0;
+    }
+
+    .minSizeContainer>div>div>.instagramButton>i:hover {
+        color: #bd378b;
+    }
+
+    .socialMediaIcons>a>i {
+        color: black;
+    }
+}

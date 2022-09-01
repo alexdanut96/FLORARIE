@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHCUTIE1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img1_BS.jpg",
+        "title": "Buchet cu floarea soarelui in cutie",
+        "price": "159",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-floarea-soarelui-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs face parte dintr-o categorie speciala. Te rugam sa citesti atent descrierea de mai jos inainte sa il comanzi! Pentru putina veselie in casa: buchetul galben mov, livrat in cutie, prin curier rapid, direct la tine acasa!",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHCUTIE2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img2_BS.jpg",
+        "title": "Buchet mixt cu gerbera si eryngium in cutie",
+        "price": "185",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-mixt-cu-gerbera-si-eryngium-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs face parte dintr-o categorie speciala. Te rugam sa citesti atent descrierea de mai jos inainte sa il comanzi! Pentru putina veselie in casa: buchetul mixt, livrat in cutie, prin curier rapid, direct la tine acasa!",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHCUTIE3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img3_BS.jpg",
+        "title": "Buchet roz intens in cutie",
+        "price": "165",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-roz-intens-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs face parte dintr-o categorie speciala. Te rugam sa citesti atent descrierea de mai jos inainte sa il comanzi! Pentru putina veselie in casa: buchetul in nuante de mov si roz, livrat in cutie, prin curier rapid, direct la tine acasa!",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHCUTIE4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img4_BS.jpg",
+        "title": "Buchet cu lisianthus si garoafe in cutie",
+        "price": "149",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-lisianthus-si-garoafe-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs face parte dintr-o categorie speciala. Te rugam sa citesti atent descrierea de mai jos inainte sa il comanzi! Pentru putina veselie in casa: buchetul bicolor, livrat in cutie, prin curier rapid, direct la tine acasa!",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHCUTIE5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img5_BS.jpg",
+        "title": "Buchet cu minirosa si frezii in cutie",
+        "price": "149",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-minirosa-si-frezii-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs face parte dintr-o categorie speciala. Te rugam sa citesti atent descrierea de mai jos inainte sa il comanzi! Pentru putina veselie in casa: buchetul bicolor, livrat in cutie, prin curier rapid, direct la tine acasa!",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHCUTIE6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img6_BS.jpg",
+        "title": "Buchet de 9 minirosa multicolor in cutie",
+        "price": "195",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-9-minirosa-multicolor-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs face parte dintr-o categorie speciala. Te rugam sa citesti atent descrierea de mai jos inainte sa il comanzi. Nimic mai placut decat un buchet simplu de flori in nuante multicolore, de care sa te bucuri acasa. Sau, cu ajutorul carora sa bucuri ziua cuiva.",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHCUTIE7",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img7_BS.jpg",
+        "title": "Buchet de 11 minirosa alb roz in cutie",
+        "price": "235",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-minirosa-alb-roz-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs face parte dintr-o categorie speciala. Te rugam sa citesti atent descrierea de mai jos inainte sa il comanzi! Pentru putina veselie in casa: buchetul alb roz, livrat in cutie, prin curier rapid, direct la tine acasa!",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHCUTIE8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img8_BS.jpg",
+        "title": "Buchet de 11 trandafiri mov in cutie",
+        "price": "215",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-trandafiri-mov-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs face parte dintr-o categorie speciala. Te rugam sa citesti atent descrierea de mai jos inainte sa il comanzi! Pentru putina veselie in casa: buchetul mov, livrat in cutie, prin curier rapid, direct la tine acasa!",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHCUTIE9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img9_BS.jpg",
+        "title": "Buchet de 11 trandafiri portocalii in cutie",
+        "price": "215",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-trandafiri-portocalii-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs face parte dintr-o categorie speciala. Te rugam sa citesti atent descrierea de mai jos inainte sa il comanzi! Pentru putina veselie in casa: buchetul portocaliu, livrat in cutie, prin curier rapid, direct la tine acasa!",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "BUCHCUTIE10",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img10.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img10_BS.jpg",
+        "title": "Buchet de 13 trandafiri galbeni in cutie",
+        "price": "255",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-13-trandafiri-galbeni-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs face parte dintr-o categorie speciala. Te rugam sa citesti atent descrierea de mai jos inainte sa il comanzi! Pentru putina veselie in casa: buchetul galben, livrat in cutie, prin curier rapid, direct la tine acasa!",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "BUCHCUTIE11",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img11.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img11_BS.jpg",
+        "title": "Buchet de 13 trandafiri roz in cutie",
+        "price": "255",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-13-trandafiri-roz-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs face parte dintr-o categorie speciala. Te rugam sa citesti atent descrierea de mai jos inainte sa il comanzi! Pentru putina veselie in casa: buchetul roz, livrat in cutie, prin curier rapid, direct la tine acasa",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "BUCHCUTIE12",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img12.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete ambalate in cutie/img12_BS.jpg",
+        "title": "Buchet de 15 trandafiri albi in cutie",
+        "price": "299",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-trandafiri-albi-in-cutie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aceasta cutie este compusa din: 15 trandafiri albi si cutie. Ce inseamna flori cu livrare 24-48 ore? Inseamna ca florile tale vor fi livrate prin intermediul unei firme de curierat rapid. In functie de momentul zilei in care plasezi comanda, florile pot sa ajunga chiar in ziua urmatoare la tine. De exemplu, daca plasezi comanda pana la ora 15.00, colegii nostri au timp sa faca buchetul, sa il ambaleze corespunzator si sa fie ridicat de curier pentru a fi livrat a doua zi. In schimb, daca comanda va fi plasata mai tarziu, vom astepta urmatoarea zi pentru a o putea preda curierului. Ce inseamna flori in cutie? Buchetul ales de tine va fi ambalat corespunzator intr-o cutie de carton, pe care o vom sigila si o vom trimite catre tine prin intermediul serviciilor de curierat rapid. Vor ajunge florile in stare buna la mine? Nu iti face griji pentru prospetimea florilor. Le ambalam cu grija, astfel incat sa nu se rupa si sa nu se deterioreze. In plus, tulpinile au si rezerva de apa pentru a ajunge cat mai proaspete la tine. De ce sa aleg acest tip de produs? Buchetele din aceasta categorie sunt realizate din flori rezistente, de sezon. Aceste buchete au fost gandite sa fie cat mai economice si mai avantajoase ca pret. Vei cumpara acest buchet de flori la un pret competitiv, semnificativ mai mic fata de alte produse asemanatoare. Buchetul va arata exact ca in poza? Da, ne straduim ca fiecare buchet sa fie identic cu cel prezentat in poza. Totusi, te rugam sa tii cont de faptul ca lucram cu flori naturale, deci forma si nuanta lor pot fi usor diferite. De multe ori, preferam sa trimitem florile sub forma de boboci, pentru ca tu sa le poti pastra cat mai mult in vaza. Pot sa ofer aceste flori cadou? Poti, insa daca vrei sa faci o surpriza cat mai deosebita, te sfatuim sa alegi un produs din celelalte categorii: un curier ii va inmana personal buchetul persoanei dragi, in doar doua ore.",
+            "composition": "ATENTIE! Acest produs face parte dintr-o categorie speciala. Aceste buchete se livreaza ambalate in cutie de carton de transport, prin servicii de curierat rapid. Termenul estimat de livrare este de 24-48 de ore, in functie de ora la care a fost plasata comanda si de gradul de incarcare al firmei de curierat ce urmeaza sa faca livrarea.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

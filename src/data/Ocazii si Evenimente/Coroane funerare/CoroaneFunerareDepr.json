@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "productCode": "EVENFUN1",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img1.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img1_BS.jpg",
+        "title": "Aranjament funerar cu crizanteme si garoafe",
+        "price": "300",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-funerar-cu-crizanteme-si-garoafe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aranjament funerar, dimensiune: 40 cm inaltime",
+            "composition": "Contine: 1 Burete, 1 Gaspou, 6 Garoafe rosu, 2 Crizanteme alb, 1 Gypsophila alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "EVENFUN2",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img2.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img2_BS.jpg",
+        "title": "Coroana funerara mica",
+        "price": "159",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coroana-funerara-mica",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Diametrul coroanei este de 30 cm.",
+            "composition": "Compozitie: 2 anthurium verde, 1 hypericum verde, 2 crizanteme albe, 1 santini verde, verdeata, coroana din burete oasis",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "EVENFUN3",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img3.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img3_BS.jpg",
+        "title": "Jerba funerara cu crizanteme albe si anthurium rosu",
+        "price": "409",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Jerba-funerara-cu-crizanteme-albe-si-anthurium-rosu",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Jerba funerara, dimensiune: 50 cm inaltime",
+            "composition": "Jerba funerara compusa din 30 flori de crizantema alba, 4 anthurium rosu, suport de jerba si verdeata decorativa.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "EVENFUN4",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img4.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img4_BS.jpg",
+        "title": "Coroana funerara Eternitate",
+        "price": "1059",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coroana-funerara-Eternitate",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Coroana funerara deosebita - Eternitate. Coroana are diametrul de aproximativ 70 cm.",
+            "composition": "Contine: 1 Burete oasis 50 cm, 1 Verdeata verde, Specia: Salal, 20 Verdeata Aspidistra, 20 Cala alb, 20 Trandafiri lila, 20 Orhidee Dendrobium Cupa alb, 24 gladiola alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "EVENFUN5",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img5.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img5_BS.jpg",
+        "title": "Coroana funerara cu crizanteme albe si grena",
+        "price": "610",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coroana-funerara-cu-crizanteme-albe-si-grena",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Coroana funerara compusa din 55 crizanteme albe si 19 crizanteme grena, suport coroana si brad natural.",
+            "composition": "Contine: 1 Suport coroana brad mare, 55 Crizanteme alb, 19 Crizanteme grena,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "EVENFUN6",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img6.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img6_BS.jpg",
+        "title": "Coroana funerara cu crizantema mov",
+        "price": "450",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coroana-funerara-cu-crizantema-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Coroana funerara, dimensiune: 50 cm diametru",
+            "composition": "Coroana funerara compusa din 5 crizanteme mov, 5 trandafiri roz, 7 crizanteme albe, 5 fire limonium, burete si verdeata.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "EVENFUN7",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img7.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img7_BS.jpg",
+        "title": "Coroana funerara circulara cu garoafe",
+        "price": "550",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coroana-funerara-circulara-cu-garoafe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Coroana funerara circulara, dimensiune: 60 cm diametru",
+            "composition": "Contine: 1 Burete, 1 Verdeata verde, Specia: Salal, 25 Garoafe alb, 15 Garoafe rosu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "EVENFUN8",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img8.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img8_BS.jpg",
+        "title": "Jerba funerara cu garoafe albe si rosii",
+        "price": "325",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Jerba-funerara-cu-garoafe-albe-si-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Jerba funerara, dimensiune: 50 cm inaltime",
+            "composition": "Jerba funerara compusa din 10 garoafe albe si 20 rosii, suport de jerba si verdeata decorativa.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "EVENFUN9",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img9.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img9_BS.jpg",
+        "title": "Coroana funerara cu crizanteme albe si crini roz",
+        "price": "799",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coroana-funerara-cu-crizanteme-albe-si-crini-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Coroana funerara traditionala. ATENTIE! Fotografia este cu titlu de prezentare. Coroana este realizata din flori si brad, ambele naturale, astfel incat pot aparea modificari in aspectul general, in functie de forma si culoarea acestora. Dimensiune: 1 m inaltime",
+            "composition": "Contine: 1 Suport coroana brad mare, 11 Crin imperial roz, 65 Crizanteme alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "EVENFUN10",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img10.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Coroane funerare/img10_BS.jpg",
+        "title": "Aranjament funerar cu gerbera",
+        "price": "755",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-funerar-cu-gerbera",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aranjament funerar cu gerbera, trandafiri, bouvardia si wax flower. Florile sunt fixate in suport de burete hidratat, pentru a se mentine proaspete.",
+            "composition": "Acest aranjament este compus din: 19 gerbera alb/ crem, 15 trandafiri roz, 6 bouvardia roz, 6 wax, mixt de verdeata, vas.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

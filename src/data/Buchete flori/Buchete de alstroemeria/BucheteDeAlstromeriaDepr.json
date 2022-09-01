@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHCALS1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img1_BS.jpg",
+        "title": "Buchet de 15 alstroemeria roz",
+        "price": "185",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-alstroemeria-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 alstroemeria roz, un buchet minunat, simbolizand armonie si fericire, ofera-l in semn de recunostinta si multumire.",
+            "composition": "Contine: 15 Alstroemeria roz, 9 Verdeata Aspidistra",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHCALS2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img2_BS.jpg",
+        "title": "Buchet de 15 alstroemeria galbene",
+        "price": "185",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-alstroemeria-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 alstroemeria galbene, luminos si surprinzator care dezvolta trairi diferite pentru fiecare persoana.",
+            "composition": "Contine: 15 Alstroemeria galbene, 1 Verdeata Asparagus, 8 Verdeata Aspidistra",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHCALS3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img3_BS.jpg",
+        "title": "Buchet de 11 alstroemeria roz",
+        "price": "155",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-alstroemeria-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 11 alstroemeria roz, daruieste-l unei persoane dragi tie si va zambi intreaga zi! Ofera un buchet vesel si plin de speranta!",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHCALS4",
+        "discount": "7",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img4_BS.jpg",
+        "title": "Buchet de 19 alstroemeria albe",
+        "price": "229",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-alstroemeria-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "!Buchet de 19 alstroemeria albe - o marturie a prieteniei si devotamentului. Daruieste acest buchet unui prieten drag ca semn al legaturii sincere dintre voi. Alstroemeria este o floare eleganta si totodata spectaculoasa si se daruieste de obicei unor persoane apropiate. Acest buchet contine 19 alstroemeria albe si verdeata",
+            "composition": "Contine: 19 Alstroemeria albe, 5 Verdeata Aspidistra",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHCALS5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img5_BS.jpg",
+        "title": "Buchet de 7 alstroemeria roz",
+        "price": "110",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-alstroemeria-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 alstroemeria roz, un buchet plin de voiosie si fericire.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHCALS6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img6_BS.jpg",
+        "title": "Buchet de 7 alstroemeria albe",
+        "price": "110",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-alstroemeria-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 alstroemeria albe, transmite bucurie si optimism persoanei careia il daruiesti.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHCALS7",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img7_BS.jpg",
+        "title": "Buchet de 7 alstroemeria galbene",
+        "price": "110",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-alstroemeria-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 alstroemeria galbene, un buchet ce transmite un mesaj calduros de ganduri bune si veselie.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHCALS8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img8_BS.jpg",
+        "title": "Buchet de 15 alstroemeria albe",
+        "price": "185",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-alstroemeria-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 alstroemeria albe, gingase, o decoratie splendida care aduce lumina si voie buna pentru oricine il primeste.",
+            "composition": "Contine: 15 Alstroemeria albee, 1 Verdeata Asparagus, 4 Verdeata Aspidistra",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHCALS9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img9_BS.jpg",
+        "title": "Buchet de 11 alstroemeria albe",
+        "price": "155",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-alstroemeria-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 11 alstroemeria albe, o solutie excelenta pentru a sarbatori ocazii speciale",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "BUCHCALS10",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img10.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de alstroemeria/img10_BS.jpg",
+        "title": "Buchet de 11 alstroemeria galbene",
+        "price": "155",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-alstroemeria-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 11 alstroemeria galbene, un buchet delicat ce exprima puritate si gingasie.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

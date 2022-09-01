@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHHOR1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img1_BS.jpg",
+        "title": "Buchet cu hortensie mov si orhidee",
+        "price": "279",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-hortensie-mov-si-orhidee",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cele mai iubite flori puse impreuna in acelasi buchet: hortensie, orhidee cymbidium si trandafiri, impreuna cu alstroemeria. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Contine: 5 Alstroemeria roz, 1 Verdeata verde, Specia: Salal, 1 Hortensia mov, 5 Trandafiri roz, 2 Wa roz, 3 Cymbidium roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHHOR2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img2_BS.jpg",
+        "title": "Buchet cu Aspidistra Black Tie",
+        "price": "245",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-Aspidistra-Black-Tie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Esti gata de un eveniment... black tie? Specia de verdeata aspidistra Black Tie este una dintre cele mai deosebite, deci merita sa marchezi o ocazie speciala cu acest buchet.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHHOR3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img3_BS.jpg",
+        "title": "Buchet cu hortensie si crin",
+        "price": "315",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-hortensie-si-crin",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Flori delicate precum minirosa, parfumate precum crinul, alaturi de alstroemeria, trandafiri, gerbera si un mix de verdeata. Texturi aparte, intr-un buchet predominant alb, potrivit pentru aniversari din sfera de business.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHHOR4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img4_BS.jpg",
+        "title": "Exuberanta",
+        "price": "230",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Exuberanta",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Atunci cand iubesti, nici un gest nu e prea mare, prea larg sau prea spontan. Nici un gest nu e suficient de exuberant. Desi, daca ii trimiti, la birou, un buchet ”Exuberanta”, prin curierul Floria, va spune ”WOW!” nu doar ea, ci și toate colegele ei. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHHOR5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img5_BS.jpg",
+        "title": "Buchet de flori - Petale de fericire",
+        "price": "219",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Petale-de-fericire",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cea mai frumoasă supriză atunci când vrei să o faci fericită... un buchet dăruit cu dragoste! Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului) *In perioada august - septembrie, stocul orhideei cymbidium este limitat.",
+            "composition": "Acest buchet contine: 1 hortensia verde/roz, 3 dalii roz, 4 irisi mov, 3 dianthus cyclam, 2 trandafiri rosii, 3 cupe orhidee cymbidium roz și verdeață.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHHOR6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img6_BS.jpg",
+        "title": "Valuri de dragoste",
+        "price": "265",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Valuri-de-dragoste",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Vrei să-i arati cat de mult o iubesti? Trimite-i valuri de dragoste! Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Contine: 4 Verdeata Aralia, 2 Verdeata Tipha, 5 Verdeata Salal, 1 Verdeata Asparagus, 1 Hortensia mov, 2 Lisianthus alb, 1 Lisianthus roz, 7 Trandafiri roz",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHHOR7",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img7_BS.jpg",
+        "title": "Buchet de flori - Iubirea perfecta",
+        "price": "298",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Iubirea-perfecta",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Iubirea perfecta e puternica si mistuitoare, ca o flacara, dar pura si inocenta, ca un nor alb. De aceea, pentru a o sarbatori, designerii nostri au creat acest buchet.",
+            "composition": "Buchetul contine: 1 hortensia alba, 10 frezii rosii, 5 cale mango, verdeata.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHHOR8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img8_BS.jpg",
+        "title": "Buchet de flori - Paradis tropical",
+        "price": "279",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Paradis-tropical",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Niciun paradis tropical nu este mai viu colorat decat trandafirii si hortensia care alcatuiesc maiestuos acest buchet. Surprinde-o chiar acum cu dragoste!",
+            "composition": "Acest buchet contine: 1 hortensia albastra, 2 alstroemeria galbena, 7 trandafiri portocalii, 3 minirosa galbena.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

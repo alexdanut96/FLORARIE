@@ -1,0 +1,31 @@
+.container {
+    width: 100%;
+    overflow: hidden;
+    background-color: white;
+    margin: 40px 0;
+    display: block;
+}
+
+.slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    width: 100%;
+    font-weight: bold;
+}
+
+.slide>:nth-child(1) {
+    font-size: 30px;
+}
+
+.title {
+    font-size: 14px;
+}
+
+.slides {
+    width: 400%;
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

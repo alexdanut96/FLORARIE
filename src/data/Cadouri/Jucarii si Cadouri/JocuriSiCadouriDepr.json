@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "productCode": "CADJUC1",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Jucarii si Cadouri/img1.jpg",
+        "productImageBs": "/Product Images/CADOURI/Jucarii si Cadouri/img1_BS.jpg",
+        "title": "Jucarie de plus Ursulet",
+        "price": "59",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Jucarie-de-plus-Ursulet",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Jucarie de plus sub forma unui ursulet, cel mai mic din categoria sa, dar cu inima cea mai mare, un aducator de zambete. Produsul este recomandat copiilor de peste 3 ani.Fotografiile produselor au caracter strict informativ si pot diferi în culoare şi aspect fata de fotografie. Dimensiune: 20 cm Ursuletul se livreaza pe diferite culori (crem, maro, roz, albastru), in functie de stocul disponibil.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "CADJUC2",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Jucarii si Cadouri/img2.jpg",
+        "productImageBs": "/Product Images/CADOURI/Jucarii si Cadouri/img2_BS.jpg",
+        "title": "Lumanare Roses are Red",
+        "price": "115",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lumanare-Roses-are-Red",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Exista mai multe feluri prin care poti aprinde scanteia dragostei. Poti trimite un buchet de trandafiri, ciocolata si aceasta lumanare cu mesaj. Daca destinatara scaneaza eticheta cu Spotify, poate asculta o frumoasa melodie de dragoste.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "CADJUC3",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Jucarii si Cadouri/img3.jpg",
+        "productImageBs": "/Product Images/CADOURI/Jucarii si Cadouri/img3_BS.jpg",
+        "title": "Lumanare Will you be my Valentine?",
+        "price": "115",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lumanare-Will-you-be-my-Valentine",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Intrebarea e simpla, dar e atat de complicat de adresat. Lasa-ne pe noi sa fim mesagerii! Trimite un buchet de flori si lumanarea cu mesaj Will you be my Valentine? Eticheta lumanarii poate fi scanata cu Spotify astfel incat ea sa poata asculta cea mai frumoasa de dragoste.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

@@ -1,0 +1,115 @@
+.submenu {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+    position: absolute;
+    background-color: white;
+    left: 0;
+    width: 100%;
+    padding: 40px 0 40px 0;
+    border-bottom: 1px solid #fa7d7d;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+.nav-dropdown {
+    background-color: white;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.submenu-promo {
+    grid-area: a;
+}
+
+.submenu-promo-item {
+    padding: 10px 0 10px 0;
+    color: black;
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.backgroundImageOne {
+    background-image: url("../navbar-components/Category/category_images/buchete_flori.jpg");
+    background-size: cover;
+    width: 16.25rem;
+    height: 12.75rem;
+    margin-top: 1rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+}
+
+.backgroundImageTwo {
+    background-image: url("../navbar-components/Category/category_images/aranjamente_florale.jpg");
+    background-size: cover;
+    width: 16.25rem;
+    height: 12.75rem;
+    margin-top: 1rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+}
+
+.backgroundImageThree {
+    background-image: url("../navbar-components/Category/category_images/ocazii_si_evenimente.jpg");
+    background-size: cover;
+    width: 16.25rem;
+    height: 12.75rem;
+    margin-top: 1rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+}
+
+.backgroundImageFour {
+    background-image: url("../navbar-components/Category/category_images/cadouri.jpg");
+    background-size: cover;
+    width: 16.25rem;
+    height: 12.75rem;
+    margin-top: 1rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+}
+
+.title {
+    width: 40%;
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+    color: black;
+}
+
+.collection-link {
+    width: 40%;
+    font-size: 1rem;
+    color: black;
+}
+
+.background-link {
+    text-decoration: none;
+}
+
+@media all and (min-width: 1280px) {
+
+    .backgroundImageOne,
+    .backgroundImageTwo,
+    .backgroundImageThree,
+    .backgroundImageFour {
+        width: 24rem;
+    }
+}

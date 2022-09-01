@@ -1,0 +1,162 @@
+[
+    {
+        "id": 2,
+        "productCode": "EVENCONEL2",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori Constantin si Elena/img2.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori Constantin si Elena/img2_BS.jpg",
+        "title": "Buchet de flori - Te ador",
+        "price": "219",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Te-ador",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "O declaratie de dragoste reusita nu trebuie sa fie facuta fara a oferi un buchet special. Alege buchetul Te ador si marturiseste-ti sentimentele sincere fata de persoana draga..Dimensiune: 40 cm (inaltime) - 25 cm (diametrul buchetului) *In perioada august - septembrie, stocul orhideei cymbidium este limitat.",
+            "composition": "Acest buchet contine 7 trandafiri roz si 4 cupe de cymbidium alb.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "EVENCONEL6",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori Constantin si Elena/img6.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori Constantin si Elena/img6_BS.jpg",
+        "title": "Buchet cu dragoste",
+        "price": "220",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-dragoste",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet cu dragoste: pentru ca nimic cu exprima dragostea mai frumos decat florile!",
+            "composition": "Acest buchet contine: 7 alstroemeria alba, 7 lalele mov, 5 minigerbera cyclam, 1 miniroza roz, verdeata.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHLIT2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lisianthus/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lisianthus/img2_BS.jpg",
+        "title": "Buchet de flori - Vise colorate",
+        "price": "299",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Vise-colorate",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Pentru o persoana alaturi de care ai visat cel mai frumos, alege buchetul de flori Vise colorate si marturiseste-i sentimentele tale. Cum sa te bucuri cat mai mult de un buchet de flori: - Schimba apa in fiecare zi si ai grija ca vasul sa fie curat. - La cateva zile, taie din coditele florilor. Indeparteaza 1-2 cm din partea de jos a tulpinii si asigura-te ca unghiul este de 45 de grade (astfel floarea va absorbii mai bine apa). - Depoziteaza florile la o temperatura potrivita!",
+            "composition": "Contine: 5 Alstroemeria portocaliu, 5 Lisianthus mov, 9 Minirosa roz",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHBUJ6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete cu Bujori/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete cu Bujori/img6_BS.jpg",
+        "title": "Buchet cu bujor roz",
+        "price": "189",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-bujor-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Nuante intense de roz si verde, contrastand in acelasi buchet. Bujor delicat si trandafiri roz, puse impreuna cu lisianthus si santini, contrastante prin textura. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHVARA4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Flori de Vara/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Flori de Vara/img4_BS.jpg",
+        "title": "Pastel de vara",
+        "price": "153",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Pastel-de-vara",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Noi credem ca orice buchet cu o hortensie este un buchet frumos! Mai ales cand am ales, special pentru voi, o hortensie ATAT de frumoasa! In nuante de roz pal, cu verde deschis, complimentata de minirosa, lisianthus si trechelium. Dimensiune: 40 cm (inaltime) - 25 cm (diametrul buchetului)",
+            "composition": "Contine: 1 Verdeata verde, Specia: Salal, 1 Hortensia verde cu roz, 2 Lisianthus alb, 1 Trachelium verde, 2 Minirosa alb cu roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "EVENLMA4",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Buchete La Multi Ani/img4.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Buchete La Multi Ani/img4_BS.jpg",
+        "title": "Buchet de flori - Esti visul meu",
+        "price": "259",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Esti-visul-meu",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "In acele momente de basm si reverie stii intotdeauna ca ea va aparea in gandul tau? Daruieste-i acest buchet romantic si spune-i ca este mereu in visul tau! Dat fiind ca in secolele XVIII si XIX trandafirii portocalii erau o raritate, nu e de mirare ca primirea trandafirilor portocalii insemna manifestarea admiratiei, a fascinatiei. Intr-un context non-romantic, trandafirii portocalii semnifica multa energie, entuziasm si mandrie in realizarile obtinute, fiind un dar potrivit pentru a felicita sau a sarbatori aceste realizari. Trandafirul portocaliu, prin culoarea lui calda si vibranta, simbolizeaza entuziasmul si dorinta. Oferirea trandafirilor portocalii este un mod fantastic de a va exprima admiratia si atractia sau de a sugera emotia si pasiunea.",
+            "composition": "Acest buchet contine 3 trandafiri portocalii, 6 hipericum rosu,5 alstroemeria portocalii, 5 solidago, verdeata decorativa.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 1,
+        "productCode": "BUCHOR1",
+        "discount": "10",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet cu orhidee cymbidium.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de orhidee/Buchet cu orhidee cymbidium_BG.jpg",
+        "title": "Buchet cu orhidee cymbidium",
+        "price": "225",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-orhidee-cymbidium",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un buchet de flori exotic şi un „La mulţi ani!” perfect pentru toate femeile care poarta numele de Vanda. Creat special pentru a-i sărbători ziua de naştere, buchetul de flori conţine 4 cupe de orhidee Cymbidium alb, 7 trandafiri rosii şi verdeaţă.Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului) *In perioada august - septembrie stocul orhideei cymbidium este limitat.",
+            "composition": "Contine: 4 Orhidee alb, Specia: Cymbidium, 7 Trandafiri rosii",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 1,
+        "productCode": "BUCHHOR1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete cu Hortensie/img1_BS.jpg",
+        "title": "Buchet cu hortensie mov si orhidee",
+        "price": "279",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-hortensie-mov-si-orhidee",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cele mai iubite flori puse impreuna in acelasi buchet: hortensie, orhidee cymbidium si trandafiri, impreuna cu alstroemeria. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Contine: 5 Alstroemeria roz, 1 Verdeata verde, Specia: Salal, 1 Hortensia mov, 5 Trandafiri roz, 2 Wa roz, 3 Cymbidium roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

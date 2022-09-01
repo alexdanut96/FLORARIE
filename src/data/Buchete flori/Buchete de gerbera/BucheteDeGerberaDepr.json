@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHGER1",
+        "discount": "9",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img1_BS.jpg",
+        "title": "Buchet de 35 gerbera multicolore",
+        "price": "490",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-gerbera-multicolore",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 gerbera multicolore,culori si nuante care vor incanta simturile vizuale si vor bine dispune orice persoana.",
+            "composition": "Contine: 35 Gerbera multicolor,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHGER2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img2_BS.jpg",
+        "title": "Buchet de 23 gerbera roz",
+        "price": "185",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-23-gerbera-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 23 gerbera roz, care va aduce zambetul pe fata norocosului destinatar.",
+            "composition": "Contine: 23 Gerbera roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHGER3",
+        "discount": "13",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img3_BS.jpg",
+        "title": "Buchet de 45 gerbera roz",
+        "price": "599",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-45-gerbera-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 45 gerbera roz, un buchet plin de seninatate si voie buna.",
+            "composition": "Contine: 45 Gerbera roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHGER4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img4_BS.jpg",
+        "title": "Buchet de 21 gerbera portocalii",
+        "price": "315",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-21-gerbera-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 21 gerbera portocalii, imposibil sa nu ai o zi reusita cand primesti un asemenea buchet!",
+            "composition": "Contine: 4 Verdeata Aspidistra, 21 Gerbera portocaliu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHGER5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img5_BS.jpg",
+        "title": "Buchet de 15 gerbera roz",
+        "price": "240",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-gerbera-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 gerbera roz, suav si plin de voiosie, menit sa alunge stresul si sa aduca un gand bun celor dragi.",
+            "composition": "Contine: 7 Verdeata Aspidistra, 15 Gerbera roz",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHGER6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img6_BS.jpg",
+        "title": "Buchet de 75 gerbera galbene",
+        "price": "745",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-75-gerbera-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 75 gerbera galbene, un aspect indraznet si vesel ca o explozie de lumina si voiosie.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHGER7",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img7_BS.jpg",
+        "title": "Buchet de 11 gerbera rosii",
+        "price": "175",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-gerbera-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 11 gerbera rosii, un buchet clasic, un prilej de a darui numai ganduri bune celor dragi.",
+            "composition": "Contine: 5 Verdeata Salal, 11 Gerbera rosu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHGER8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img8_BS.jpg",
+        "title": "Buchet de 101 gerbera rosii",
+        "price": "989",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-101-gerbera-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 101 gerbera rosii cu care ii puteti demonstra persoanei dragi cat de mult o iubiti.",
+            "composition": "Contine: 101 Gerbera rosu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHGER9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img9_BS.jpg",
+        "title": "Buchet de 23 gerbera portocalii",
+        "price": "185",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-23-gerbera-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 23 gerbera portocalii, te face sa zambesti de fiecare data cand te uiti la el si te provoaca la creativitate.",
+            "composition": "Contine: 4 Verdeata Ruscus, 6 Verdeata Aspidistra, 23 Gerbera portocaliu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "BUCHGER10",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img10.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img10_BS.jpg",
+        "title": "Buchet de 21 gerbera rosii",
+        "price": "315",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-21-gerbera-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 21 gerbera rosii, prin care transmiteti intr-un mod simplu, dar frumos, ca va pasa de persoana iubita",
+            "composition": "Contine: 21 Gerbera rosu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "BUCHGER11",
+        "discount": "20",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img11.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img11_BS.jpg",
+        "title": "Buchet de 35 gerbera portocalii",
+        "price": "490",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-gerbera-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 gerbera portocalii, daca tot a venit primavara iar vremea frumoasa te imbie la dragoste si fericire trebuie sa daruiesti persoanelor dragi acest buchet.",
+            "composition": "Contine: 35 Gerbera portocaliu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "BUCHGER12",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img12.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img12_BS.jpg",
+        "title": "Buchet de 9 gerbera portocalii",
+        "price": "145",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-9-gerbera-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 9 gerbera portocalii, tandrete si simpatie pentru femeile elegante si distinse.",
+            "composition": "Contine: 9 Gerbera portocaliu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "BUCHGER13",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img13.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img13_BS.jpg",
+        "title": "Buchet de 9 gerbera rosii",
+        "price": "145",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-9-gerbera-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 9 gerbera rosii, daruieste celor dragi un buchet plin de veselie si culoare.",
+            "composition": "Contine: 10 Verdeata BearGrass, 10 Verdeata Salal, 2 Verdeata Aspidistra, 9 Gerbera rosu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 14,
+        "productCode": "BUCHGER14",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img14.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img14_BS.jpg",
+        "title": "Buchet de 15 gerbera galbene",
+        "price": "240",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-gerbera-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 gerbera galbene, luminos si elegant, o alegere potrivita pentru a exprima afectiunea.",
+            "composition": "Contine: 15 Gerbera galben,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 15,
+        "productCode": "BUCHGER15",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img15.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img15_BS.jpg",
+        "title": "Buchet de 101 gerbera roz",
+        "price": "989",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-101-gerbera-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 101 gerbera roz, o atmosfera electrizanta, o explozie de fericire, dragoste si implinire.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 16,
+        "productCode": "BUCHGER16",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img16.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de gerbera/img16_BS.jpg",
+        "title": "Buchet de 45 gerbera multicolore",
+        "price": "539",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-45-gerbera-multicolore",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 45 gerbera multicolore, aduce un plus de culoare si energie pozitiva in casa iubitei tale.",
+            "composition": "Contine: 6 Verdeata Aspidistra, 45 Gerbera multicolor,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

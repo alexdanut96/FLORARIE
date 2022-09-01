@@ -1,0 +1,57 @@
+.toggle {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.open {
+    font-size: 20px;
+    transform: rotate(90deg);
+    transition: all 0.3s ease;
+}
+
+.close {
+    font-size: 20px;
+    transition: all 0.3s ease;
+}
+
+.toggle>button {
+    font: unset;
+    font-weight: bold;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.contentParent {
+    display: block;
+    margin-left: 25px;
+    margin-top: 18px;
+}
+
+.contentChildren {
+    margin-bottom: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.contentChildren a>div {
+    margin-bottom: 5px;
+}
+
+.contentChildren a {
+    text-decoration: none;
+    color: black;
+}
+
+.contentChildren a:hover {
+    color: #fa7d7d;
+    font-weight: bold;
+}
+
+.contentParent {
+    height: 0px;
+    overflow: hidden;
+    transition: height ease 0.3s;
+}

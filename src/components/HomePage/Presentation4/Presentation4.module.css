@@ -1,0 +1,211 @@
+@media all and (min-width: 640px) {
+    .container {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 85rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .content {
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+
+    .content>* {
+        width: 50%;
+    }
+
+    .content>:nth-child(1) {
+        margin-right: 32px;
+    }
+
+    .cardOne {
+        width: 100%;
+        /* margin-right: 32px; */
+        overflow: hidden;
+        cursor: pointer;
+        position: relative;
+        border-radius: 10px;
+    }
+
+    .cardOne:hover .orderButtonOne {
+        background-color: #47792e;
+    }
+
+    .cardTwo:hover .orderButtonTwo {
+        background-color: #47792e;
+    }
+
+    .cardTwo {
+        width: 100%;
+        overflow: hidden;
+        cursor: pointer;
+        position: relative;
+        border-radius: 10px;
+    }
+
+    .imageBackgroundOne {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        background-image: url("./image1.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50%;
+        height: 386px;
+        transition: all .2s linear;
+        border-radius: 10px;
+    }
+
+    .imageBackgroundTwo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        background-image: url("./image2.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50%;
+        height: 312px;
+        transition: all .2s linear;
+        border-radius: 10px;
+    }
+
+    .title {
+        font-size: 1.5rem;
+        color: black;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .text {
+        font-size: 1.1rem;
+        color: black;
+        margin-bottom: 20px;
+        width: 70%;
+    }
+
+    .orderButtonOne,
+    .orderButtonTwo {
+        border-color: transparent;
+        border-style: solid;
+        background-color: #559137;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: bold;
+        padding: 15px 25px;
+        color: white;
+        border-radius: 50px;
+        letter-spacing: 1px;
+    }
+
+    .imageBgContent {
+        position: absolute;
+        top: 50%;
+        width: 40%;
+        max-width: 60%;
+        width: 100%;
+        margin-left: 2rem;
+        margin-right: 2rem;
+        transform: translateY(-50%);
+    }
+}
+
+@media all and (max-width: 639px) {
+    .container {
+        margin-top: 50px;
+    }
+
+    .content {
+        width: 100%;
+    }
+
+    .cardOne {
+        overflow: hidden;
+        cursor: pointer;
+        position: relative;
+        margin-bottom: 20px;
+    }
+
+    .cardOne:hover .orderButtonOne {
+        background-color: #47792e;
+    }
+
+    .cardTwo:hover .orderButtonTwo {
+        background-color: #47792e;
+    }
+
+    .cardTwo {
+        overflow: hidden;
+        cursor: pointer;
+        position: relative;
+    }
+
+    .imageBackgroundOne {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        background-image: url("./image1.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50%;
+        height: 256px;
+        transition: all .2s linear;
+    }
+
+    .imageBackgroundTwo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        background-image: url("./image2.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50%;
+        height: 256px;
+        transition: all .2s linear;
+    }
+
+    .title {
+        font-size: 1.2rem;
+        color: black;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .text {
+        font-size: 0.9rem;
+        color: black;
+        margin-bottom: 20px;
+        width: 70%;
+    }
+
+    .orderButtonOne,
+    .orderButtonTwo {
+        border-color: transparent;
+        border-style: solid;
+        background-color: #559137;
+        cursor: pointer;
+        font-size: 0.8rem;
+        font-weight: bold;
+        padding: 13px 25px;
+        color: white;
+        border-radius: 50px;
+        letter-spacing: 1px;
+    }
+
+    .imageBgContent {
+        position: absolute;
+        top: 50%;
+        width: 40%;
+        max-width: 60%;
+        width: 100%;
+        margin-left: 2rem;
+        margin-right: 2rem;
+        transform: translateY(-50%);
+    }
+}

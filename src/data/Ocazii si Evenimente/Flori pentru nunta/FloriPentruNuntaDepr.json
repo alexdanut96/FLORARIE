@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "productCode": "EVENNUNTA1",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img1.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img1_BS.jpg",
+        "title": "Lumanare de botez Delicata",
+        "price": "285",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lumanare-de-botez-Delicata",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cea mai delicata si mai rafinata floare domina acest aranjament de botez: orhideea alba. Metafora pentru sufletul pur care a ajuns acum in viata ta.",
+            "composition": "Aceasta lumanare este compusa din: 3 cupe orhidee phalaenopsis, 2 lisianthus alb, 1 hortensia roz, lumanare.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "EVENNUNTA2",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img2.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img2_BS.jpg",
+        "title": "Lumanare de botez alb-roz",
+        "price": "349",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lumanare-de-botez-alb-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Combinatia perfecta pentru a exprima puritatea, bucuria si rafinamentul: orhidee alba, hortensie roz, lisianthus alb.",
+            "composition": "Aceasta lumanare este compusa din: 3 cupe orhidee phalaenopsis, hortensia roz, 2 lisianthus, 1 wax, 5 frezii, luamanare si minirosa.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "EVENNUNTA3",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img3.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img3_BS.jpg",
+        "title": "Lumanare de botez cu hortensie",
+        "price": "299",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lumanare-de-botez-cu-hortensie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Una dintre cele mai deosebite flori, hortensia, pentru una dintre cele mai speciale ocazii: botezul copilului tau.",
+            "composition": "Aceasta lumanare este compusa din: 2 wax, 1 viburnum, 3 hypericum, 1 hortensia mov, 2 trandafiri roz, verdeata si lumanare.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "EVENNUNTA4",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img4.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img4_BS.jpg",
+        "title": "Lumanare de botez Accent",
+        "price": "399",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lumanare-de-botez-Accent",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Pentru atunci vrei un accent de albastru, un accent de glam si un accent de joaca. Lumanare de botez cu hortensie albastra, ursulet de plus si flori rafinate.",
+            "composition": "Aceasta lumanare este compusa din: 3 viburnum, 5 liliac, hortensia albastra, 3 bujori albi, 3 trandafiri albi, ursulet de plus, lumanare, veronica.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "EVENNUNTA5",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img5.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img5_BS.jpg",
+        "title": "Lumanare de botez in culori reci",
+        "price": "299",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lumanare-de-botez-in-culori-reci",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aceasta lumanare este compusa din 2 hortensii, lavanda, 3 craspedia, verdeata si lumanare.",
+            "composition": "Aceasta lumanare este compusa din 2 hortensii, lavanda, 3 craspedia, verdeata si lumanare.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "EVENNUNTA6",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img6.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img6_BS.jpg",
+        "title": "Lumanare de botez Albastru",
+        "price": "325",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lumanare-de-botez-Albastru",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Lumanare de botez cu hortensie albastra, alaturi de orhidee rafinata, mini trandafiri si flori mici albe, ca o metafora pentru puritate.",
+            "composition": "Aceasta lumanare este compusa din 1 minirosa, hortensia albastra, orhidee phalaenopsis, 3 ornithogalum, 3 frezii, lumanare si verdeata.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "EVENNUNTA7",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img7.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img7_BS.jpg",
+        "title": "Lumanare de botez Vesela",
+        "price": "325",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lumanare-de-botez-Vesela",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cand sarbatorim un suflet pur este o mare... veselie. Tocmai de aceea am ales pentru acest aranjament de botez flori albe, ce exprima puritatea, si roz, pentru a ne exterioriza bucuria.",
+            "composition": "Aceasta lumanare este compusa din: 2 minirosa, 6 trandafiri, 3 lisianthus, 2 astilbe, 2 hypericum, lumanare.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "EVENNUNTA8",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img8.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img8_BS.jpg",
+        "title": "Lumanare de botez Nuante de toamna",
+        "price": "349",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lumanare-de-botez-Nuante-de-toamna",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Rosu puternic, portocaliu, bordeaux sunt nuantele preferate ale toamnei. Alegerea perfecta pentru un eveniment splendid in lunile octombrie sau noiembrie.",
+            "composition": "Aceasta lumanare este compusa din: 2 ranunculus, 2 ornithogalum, 5 frezii, 2 minirosa portocalie, 2 bouvardia rosie, verdeata, lumanare.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "EVENNUNTA9",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img9.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img9_BS.jpg",
+        "title": "Lumanare de botez Roz",
+        "price": "325",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lumanare-de-botez-Roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un copil este o binecuvantare si o bucurie. Si ce alta culoare exprima mai bine bucuria decat roz? Lumanare de botez roz, bogata, cu trandafiri, santini, frezii si astilbe.",
+            "composition": "Aceasta lumanare este compusa din: 3 minirosa roz, 2 green trick, 5 lalele albe, astilbe, 5 frezii, 3 trandafiri somon, lumanare de botez.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "EVENNUNTA10",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img10.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Flori pentru nunta/img10_BS.jpg",
+        "title": "Aranjament de masa pentru nunta cu trandafiri crem",
+        "price": "449",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-de-masa-pentru-nunta-cu-trandafiri-crem",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aranjament de masa cu trandafiri crem pentru o nunta perfecta!Un aranjament de masa cu trandafiri crem, pentru o nunta in tonuri calde, romantice.",
+            "composition": "Contine: 5 wax mov, 1 Vas, 21 Trandafiri crem, 1 Verdeata Salal",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

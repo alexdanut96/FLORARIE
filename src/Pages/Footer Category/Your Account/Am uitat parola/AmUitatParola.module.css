@@ -1,0 +1,633 @@
+.container {
+    grid-area: c;
+}
+
+@media all and (min-width: 640px) {
+    .content {
+        margin-top: 50px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 85rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .loginForm {
+        display: flex;
+        max-width: 45rem;
+        width: 100%;
+        border-radius: 20px;
+        padding: 40px 20px;
+        background-color: #f7f7f7;
+
+    }
+
+    .columnLeft {
+        width: 50%;
+        margin-right: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .columnRight {
+        width: 50%;
+        margin-left: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .title {
+        margin-bottom: 25px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .googleButton,
+    .facebookButton,
+    .loginButton {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 1rem;
+        box-sizing: border-box;
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        cursor: pointer;
+        animation: fade-in 500ms forwards;
+    }
+
+    .googleButton:hover,
+    .facebookButton:hover,
+    .loginButton:hover,
+    .loginButtonHidden:hover {
+        background-color: #dde7ff;
+        border-color: #f7f7f7;
+    }
+
+    .googleIcon,
+    .facebookIcon {
+        color: #559137;
+        font-size: 18px;
+    }
+
+    .buttonText {
+        color: #559137;
+    }
+
+    .emailBox {
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 1rem;
+        box-sizing: border-box;
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        animation: fade-in 500ms forwards;
+    }
+
+    .emailBox::placeholder {
+        color: #aaaa
+    }
+
+    .sendButton {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 1rem;
+        box-sizing: border-box;
+        background: #559137;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        cursor: pointer;
+        animation: fade-in 500ms forwards;
+        display: block;
+    }
+
+    .authButton {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 1rem;
+        box-sizing: border-box;
+        background: #559137;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        cursor: pointer;
+        animation: fade-in 500ms forwards;
+        display: none;
+    }
+
+    .sendButton:hover,
+    .authButton:hover {
+        background: #47792e;
+        border: 1px solid #47792e;
+    }
+
+    .sendButtonText {
+        color: white;
+        font-weight: bold;
+
+    }
+
+    .loginButtonHidden {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 1rem;
+        box-sizing: border-box;
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        cursor: pointer;
+        display: none;
+        animation: fade-in 500ms forwards;
+    }
+
+    .passwordBox {
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 1rem;
+        box-sizing: border-box;
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        display: none;
+        animation: fade-in 500ms forwards;
+    }
+
+    .passwordBox::placeholder {
+        color: #aaaa
+    }
+
+    .forgotPassword {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: flex-end;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 0;
+        font-size: 1rem;
+        border-bottom: 1px solid #559137;
+        outline: none;
+        margin-bottom: 14px;
+        animation: fade-in 500ms forwards;
+        display: none;
+    }
+
+    .forgotPassword>* {
+        cursor: pointer;
+        padding: 0;
+        font-size: 14px;
+        border: none;
+        background-color: transparent;
+        color: #559137;
+        font-weight: bold;
+    }
+
+    .noAccount {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 0;
+        font-size: 1rem;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 14px;
+        animation: fade-in 500ms forwards;
+        display: none;
+    }
+
+    .noAccount>* {
+        cursor: pointer;
+        padding: 0;
+        font-size: 14px;
+        border: none;
+        background-color: transparent;
+        color: #559137;
+        font-weight: bold;
+    }
+
+    .forgotPassword>*:hover {
+        color: #47792e;
+    }
+
+    .forgotPasswordForm {
+        margin-bottom: 15px;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 0;
+        font-size: 1rem;
+        outline: none;
+        margin-bottom: 14px;
+        animation: fade-in 500ms forwards;
+    }
+
+    .forgotPasswordFormLeft {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        padding: 0;
+        font-size: 14px;
+        border: none;
+        background-color: transparent;
+        color: #559137;
+        font-weight: bold;
+    }
+
+    .forgotPasswordFormRight {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        padding: 5px 20px;
+        font-size: 14px;
+        border: none;
+        border-radius: 5px;
+        background-color: #559137;
+        color: white;
+        font-weight: bold;
+    }
+
+    .forgotPasswordForm>:nth-child(2):hover {
+        background-color: #47792e;
+    }
+
+    .forgotPasswordForm {
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+    @keyframes fade-in {
+        0% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+}
+
+
+
+
+@media all and (max-width: 639px) {
+    .content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .loginForm {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 30px 1rem;
+        background-color: #f7f7f7;
+    }
+
+    .columnLeft {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+
+    .columnRight {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .title {
+        margin-bottom: 25px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .googleButton,
+    .facebookButton,
+    .loginButton {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 0.8rem;
+        box-sizing: border-box;
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        cursor: pointer;
+        animation: fade-in 500ms forwards;
+    }
+
+    .googleButton:hover,
+    .facebookButton:hover,
+    .loginButton:hover,
+    .loginButtonHidden:hover {
+        background-color: #dde7ff;
+        border-color: #f7f7f7;
+    }
+
+    .googleIcon,
+    .facebookIcon {
+        color: #559137;
+        font-size: 16px;
+    }
+
+    .buttonText {
+        color: #559137;
+    }
+
+    .emailBox {
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 0.8rem;
+        box-sizing: border-box;
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        animation: fade-in 500ms forwards;
+    }
+
+    .emailBox::placeholder {
+        color: #aaaa
+    }
+
+    .sendButton {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 0.8rem;
+        box-sizing: border-box;
+        background: #559137;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        cursor: pointer;
+        animation: fade-in 500ms forwards;
+        display: block;
+    }
+
+    .authButton {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 0.8rem;
+        box-sizing: border-box;
+        background: #559137;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        cursor: pointer;
+        animation: fade-in 500ms forwards;
+        display: none;
+    }
+
+    .sendButton:hover,
+    .authButton:hover {
+        background: #47792e;
+        border: 1px solid #47792e;
+    }
+
+    .sendButtonText {
+        color: white;
+        font-weight: bold;
+
+    }
+
+    .loginButtonHidden {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 0.8rem;
+        box-sizing: border-box;
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        cursor: pointer;
+        display: none;
+        animation: fade-in 500ms forwards;
+    }
+
+    .passwordBox {
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 25px;
+        font-size: 0.8rem;
+        box-sizing: border-box;
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 10px;
+        display: none;
+        animation: fade-in 500ms forwards;
+    }
+
+    .passwordBox::placeholder {
+        color: #aaaa
+    }
+
+    .forgotPassword {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: flex-end;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 0;
+        font-size: 0.8rem;
+        border-bottom: 1px solid #559137;
+        outline: none;
+        margin-bottom: 14px;
+        animation: fade-in 500ms forwards;
+        display: none;
+    }
+
+    .forgotPassword>* {
+        cursor: pointer;
+        padding: 0;
+        font-size: 12px;
+        border: none;
+        background-color: transparent;
+        color: #559137;
+        font-weight: bold;
+    }
+
+    .noAccount {
+        margin-bottom: 15px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 0;
+        font-size: 0.8rem;
+        border-radius: 10px;
+        outline: none;
+        margin-bottom: 14px;
+        animation: fade-in 500ms forwards;
+        display: none;
+    }
+
+    .noAccount>* {
+        cursor: pointer;
+        padding: 0;
+        font-size: 12px;
+        border: none;
+        background-color: transparent;
+        color: #559137;
+        font-weight: bold;
+    }
+
+    .forgotPassword>*:hover {
+        color: #47792e;
+    }
+
+    .forgotPasswordForm {
+        margin-bottom: 15px;
+        gap: 10px;
+        text-indent: unset;
+        max-width: 100%;
+        width: 100%;
+        padding: 12px 0;
+        font-size: 0.8rem;
+        outline: none;
+        margin-bottom: 14px;
+        animation: fade-in 500ms forwards;
+    }
+
+    .forgotPasswordFormLeft {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        padding: 0;
+        font-size: 12px;
+        border: none;
+        background-color: transparent;
+        color: #559137;
+        font-weight: bold;
+    }
+
+    .forgotPasswordFormRight {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        padding: 5px 20px;
+        font-size: 12px;
+        border: none;
+        border-radius: 5px;
+        background-color: #559137;
+        color: white;
+        font-weight: bold;
+    }
+
+    .forgotPasswordForm>:nth-child(2):hover {
+        background-color: #47792e;
+    }
+
+    .forgotPasswordForm {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .freeDelivery>* {
+        margin-top: 0;
+    }
+
+
+    @keyframes fade-in {
+        0% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+}

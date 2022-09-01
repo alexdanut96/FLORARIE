@@ -1,0 +1,634 @@
+@media all and (min-width: 1024px) {
+    .container {
+        grid-area: c;
+        display: block;
+        background-color: #f7f7f7;
+    }
+
+    .bestSellerMaxSize,
+    .bestSellerMidSize,
+    .bestSellerMinSize {
+        display: block;
+    }
+
+    .rowOne {
+        display: flex;
+        width: 100%;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        padding-right: 1rem;
+        padding-left: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 85rem;
+        background-color: #f7f7f7;
+    }
+
+    .rowTwo {
+        display: flex;
+        width: 100%;
+        padding-bottom: 20px;
+        padding-right: 1rem;
+        padding-left: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 85rem;
+        background-color: #f7f7f7;
+    }
+
+    .rowOneColumnOne {
+        position: relative;
+        width: 50%;
+        margin-right: 20px;
+        border-right: 2px solid white;
+        border-left: 2px solid white;
+    }
+
+    .rowOneColumnTwo {
+        width: 50%;
+    }
+
+    .rowTwoColumnOne {
+        width: 50%;
+        margin-right: 20px;
+        padding: 30px;
+        border-radius: 15px;
+        background-color: white;
+    }
+
+    .rowTwoColumnTwo {
+        width: 50%;
+        font-size: 14px;
+        color: #a09f9f;
+        font-weight: bold;
+    }
+
+    #image {
+        max-height: 580px;
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+    }
+
+    /* .favoriteButton {
+        display: none;
+    } */
+
+    .favoriteButton {
+        display: flex;
+        position: absolute;
+        top: 0;
+        right: 10px;
+    }
+
+    .favoriteButton>* {
+        font-size: 45px;
+        padding: 8px 7px 5px 7px;
+        border-radius: 50%;
+        background-color: white;
+        color: #559137;
+        cursor: pointer;
+    }
+
+    .favoriteButton>*:hover {
+        color: white;
+        background-color: #559137;
+    }
+
+    .productName {
+        font-size: 2rem;
+        font-weight: bold;
+        padding-bottom: 10px;
+    }
+
+    .minSize {
+        display: none;
+    }
+
+    .facilitiesMaxSize {
+        display: flex;
+    }
+
+    .facilitiesMaxSize>* {
+        flex: 1;
+    }
+
+    .facilitiesMinSize {
+        display: none;
+    }
+
+    .deliveryInfo {
+        display: flex;
+        gap: 100px;
+    }
+
+    .price {
+        display: flex;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .oldPrice {
+        text-decoration: line-through;
+        font-size: 1.5rem;
+        font-weight: bold;
+        /* margin-right: 10px; */
+    }
+
+    .currentPrice {
+        color: red;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    .delivery {
+        display: flex;
+        align-items: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: #559137;
+        font-weight: bold;
+    }
+
+    .delivery>:nth-child(1) {
+        font-size: 20px;
+        margin-right: 4px;
+    }
+
+
+
+    .inStock {
+        display: flex;
+        align-items: center;
+        color: #559137;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-weight: bold;
+    }
+
+    .inStock>:nth-child(1) {
+        margin-right: 4px;
+        font-size: 20px;
+    }
+
+    .discount {
+        position: absolute;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        top: 0;
+        left: 10px;
+    }
+
+    .savingsPercentage {
+        padding: 0.25rem 0.4rem;
+        border-radius: 1rem;
+        color: #fff;
+        background-color: #e21f22;
+        font-weight: 700;
+    }
+
+
+
+    .addToCartButton {
+        padding: 0;
+        border-color: transparent;
+        border-style: solid;
+        background-color: #559137;
+        cursor: pointer;
+        font-size: 20px;
+        padding: 10px 20px;
+        color: #f7f7f7;
+        border-radius: 50px;
+        margin-right: 25px;
+    }
+
+    .addToCartButton:hover {
+        background-color: #47792e;
+    }
+
+    .addToCart {
+        display: flex;
+        align-items: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .addOrRemoveItem {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        margin-bottom: 5px;
+    }
+
+    .plusButton,
+    .minusButton {
+        display: flex;
+        color: white;
+        font-weight: bold;
+        justify-content: center;
+        align-items: center;
+        height: 30px;
+        width: 30px;
+        border-radius: 5px;
+        border-color: #6363d9;
+        border-style: solid;
+        background-color: #6363d9;
+        cursor: pointer;
+    }
+
+    .plusButton:hover,
+    .minusButton:hover {
+        background-color: #5454d9;
+    }
+
+    .countText {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .itemNumber {
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+    .removeButtom {
+        display: flex;
+        color: white;
+        font-weight: bold;
+        justify-content: center;
+        align-items: center;
+        height: 30px;
+        border-radius: 5px;
+        width: 100%;
+        border-color: red;
+        border-style: solid;
+        background-color: red;
+        cursor: pointer;
+        font-size: 1rem;
+    }
+
+    .removeButtom:hover {
+        background-color: #ec0707;
+    }
+
+
+    .addToCart>:nth-child(2) {
+        font-size: 47px;
+        padding: 9px 8px 7px 8px;
+        border-radius: 50%;
+        cursor: pointer;
+        color: #559137;
+    }
+
+    .addToCart>:nth-child(2):hover {
+        background-color: #559137;
+        color: #f7f7f7;
+    }
+
+    .promotionInfo {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 14px;
+        color: #a09f9f;
+        font-weight: bold;
+    }
+
+    .promotionInfo>a {
+        color: #559137;
+    }
+
+    .title {
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 30px;
+    }
+
+    .productCode {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .title>* {
+        padding: 8px 20px;
+        border-radius: 50px;
+        cursor: pointer;
+    }
+
+    .descriptionColor,
+    .compositionColor,
+    .importantColor {
+        background-color: #559137;
+        color: #f7f7f7;
+    }
+
+    .descriptionColorHidden,
+    .compositionColorHidden,
+    .importantColorHidden {
+        background-color: transparent;
+    }
+
+    .description,
+    .composition,
+    .important {
+        display: flex;
+        animation: fade-in 500ms forwards;
+    }
+
+    .descriptionHidden,
+    .compositionHidden,
+    .importantHidden {
+        display: none;
+    }
+
+    .aboutProductMinSize {
+        display: none;
+    }
+
+    @keyframes fade-in {
+        0% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+}
+
+@media all and (max-width: 1023px) {
+    .container {
+        grid-area: c;
+        display: block;
+        background-color: #f7f7f7;
+    }
+
+
+    #image {
+        max-height: 580px;
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+    }
+
+    .rowOne {
+        padding-right: 20px;
+        padding-left: 20px;
+
+    }
+
+    .rowTwo {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .productName {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        font-size: 2rem;
+        font-weight: bold;
+        padding-bottom: 5px;
+    }
+
+    .delivery {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        color: #559137;
+        font-weight: bold;
+    }
+
+    .delivery>:nth-child(1) {
+        font-size: 20px;
+        margin-right: 4px;
+    }
+
+    .favoriteButton {
+        display: flex;
+        position: absolute;
+        top: 20px;
+        right: 0;
+    }
+
+    .favoriteButton>* {
+        font-size: 45px;
+        padding: 8px 7px 5px 7px;
+        border-radius: 50%;
+        background-color: white;
+        color: #559137;
+        cursor: pointer;
+    }
+
+    .favoriteButton>*:hover {
+        color: white;
+        background-color: #559137;
+    }
+
+    .rowOneColumnOne {
+        position: relative;
+    }
+
+    .productCode {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .discount {
+        position: absolute;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        top: 20px;
+    }
+
+    .inStock {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #559137;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-weight: bold;
+    }
+
+    .inStock>:nth-child(1) {
+        margin-right: 4px;
+        font-size: 20px;
+    }
+
+    .savingsPercentage {
+        padding: 0.25rem 0.4rem;
+        border-radius: 1rem;
+        color: #fff;
+        background-color: #e21f22;
+        font-weight: 700;
+    }
+
+    .price {
+        display: flex;
+        justify-content: center;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    /* .deliveryInfo {
+        display: flex;
+        gap: 100px;
+        justify-content: center;
+    } */
+
+
+    .oldPrice {
+        text-decoration: line-through;
+        font-size: 1.5rem;
+        font-weight: bold;
+        /* margin-right: 10px; */
+    }
+
+    .currentPrice {
+        color: red;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    .addToCart {
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .addToCartButton {
+        width: 100%;
+        padding: 0;
+        border-color: transparent;
+        border-style: solid;
+        background-color: #559137;
+        cursor: pointer;
+        font-size: 20px;
+        padding: 10px 20px;
+        color: #f7f7f7;
+        border-radius: 50px;
+
+    }
+
+    .addToCartButton:hover {
+        background-color: #47792e;
+    }
+
+    .addOrRemoveItem {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        margin-bottom: 5px;
+    }
+
+    .plusButton,
+    .minusButton {
+        display: flex;
+        color: white;
+        font-weight: bold;
+        justify-content: center;
+        align-items: center;
+        height: 30px;
+        width: 30px;
+        border-radius: 5px;
+        border-color: #6363d9;
+        border-style: solid;
+        background-color: #6363d9;
+        cursor: pointer;
+    }
+
+    .plusButton:hover,
+    .minusButton:hover {
+        background-color: #5454d9;
+    }
+
+    .countText {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .itemNumber {
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+    .removeButtom {
+        display: flex;
+        color: white;
+        font-weight: bold;
+        justify-content: center;
+        align-items: center;
+        height: 30px;
+        border-radius: 5px;
+        width: 100%;
+        border-color: red;
+        border-style: solid;
+        background-color: red;
+        cursor: pointer;
+        font-size: 1rem;
+    }
+
+    .removeButtom:hover {
+        background-color: #ec0707;
+    }
+
+    .addToCart>:nth-child(2) {
+        display: none;
+    }
+
+    .facilitiesMaxSize {
+        display: none;
+    }
+
+    .facilitiesMinSize>* {
+        border-radius: 10px;
+    }
+
+    .aboutProductMaxSize {
+        display: none;
+    }
+
+    .rowTwoColumnTwo {
+        padding: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: white;
+        border-radius: 10px;
+        font-size: 14px;
+        color: #a09f9f;
+        font-weight: bold;
+    }
+
+    .promotionInfo {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-size: 14px;
+        color: #a09f9f;
+        font-weight: bold;
+    }
+
+    .promotionInfo>a {
+        color: #559137;
+    }
+}

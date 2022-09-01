@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHLA1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img1_BS.jpg",
+        "title": "Buchet de frezii, lalele si wax flower",
+        "price": "299",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-frezii-lalele-si-wax-flower",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aspect de primavara tarzie, cu verdeata si flori parfumate.Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Contine: 4 Lalele multicolor, 1 Verdeata verde, Specia: Salal, 21 Frezii multicolor,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHLA2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img2_BS.jpg",
+        "title": "Buchet de 25 lalele mov",
+        "price": "325",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-25-lalele-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Vrei sa-i daruiesti un buchet misterios si rafinat ce induce senzatia de tandrete. Alege acest buchet format din 25 lalele mov.",
+            "composition": "Contine: 25 Lalele mov, 6 Verdeata Aralia,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHLA3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img3_BS.jpg",
+        "title": "Buchet de 19 lalele roz",
+        "price": "250",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-lalele-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 lalele roz, remarcabil si cuceritor, care exprima grija si dorinta de a face fericita o persoana apropiata!",
+            "composition": "Contine: 19 Lalele roz, 10 Verdeata BearGrass, 4 Verdeata Aralia,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHLA4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img4_BS.jpg",
+        "title": "Buchet de 55 lalele rosii",
+        "price": "605",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-55-lalele-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 55 lalele rosii, pasionale si rafinate, perfecte pentru a fi daruite iubitei sau sotiei, cu o ocazie speciala!",
+            "composition": "Contine: 55 Lalele rosu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHLA5",
+        "discount": "10",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img5_BS.jpg",
+        "title": "Buchet de 75 lalele galbene",
+        "price": "750",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-75-lalele-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cand primesti un buchet de 75 lalele galbene, e ca si cum ai imbratisa soarele cu zambetul pe buze. Fa-o sa descopere acest sentiment!",
+            "composition": "Contine: 75 Lalele galben, 6 Verdeata Aralia,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHLA6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img6_BS.jpg",
+        "title": "Buchet de 45 lalele mov",
+        "price": "495",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-45-lalele-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 45 lalele mov, care surprinde prin culoare si eleganta. Impresioneaza pe cineva special cu acest buchet superb de lalele!",
+            "composition": "Contine: 45 Lalele mov, 5 Verdeata Aralia,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHLA7",
+        "discount": "10",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img7_BS.jpg",
+        "title": "Buchet de 101 lalele roz",
+        "price": "950",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-101-lalele-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 101 lalele roz, perfect pentru o doamna eleganta si sofisticata.",
+            "composition": "Contine: 101 Lalele roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHLA8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img8_BS.jpg",
+        "title": "Buchet de 35 lalele galbene",
+        "price": "420",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-lalele-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 lalele galbene, un cadou proaspat si sincer pentru persoana iubita.",
+            "composition": "Contine: 35 Lalele galben, 6 Verdeata Aralia, 8 Verdeata Aspidistra,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHLA9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img9_BS.jpg",
+        "title": "Buchet de 25 lalele galbene",
+        "price": "325",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-25-lalele-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 25 lalele galbene, un simbol de prospetime si lumina.",
+            "composition": "Contine: 25 Lalele galben, 6 Verdeata Aralia, 6 Verdeata Aspidistra,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "BUCHLA10",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img10.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img10_BS.jpg",
+        "title": "Buchet de 19 lalele mov",
+        "price": "250",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-lalele-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 lalele mov, oferit in semn de recunostinta si multumire.",
+            "composition": "Contine: 19 Lalele mov, 5 Verdeata Aralia,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "BUCHLA11",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img11.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img11_BS.jpg",
+        "title": "Buchet de 7 lalele mov",
+        "price": "105",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-lalele-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 lalele mov, flori minunate si delicate care se pot darui la orice ocazie tuturor persoanelor dragi.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "BUCHLA12",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img12.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img12_BS.jpg",
+        "title": "Buchet de 11 lalele galbene",
+        "price": "165",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-lalele-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 11 lalele galbene, care poate fi daruit cu drag unei mame sau unei surori.",
+            "composition": "Buchet de 11 lalele galbene",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "BUCHLA13",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img13.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img13_BS.jpg",
+        "title": "Buchet de 15 lalele galbene",
+        "price": "205",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-lalele-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 lalele galbene, cea mai luminoasa culoare cuprinsa in acest buchet de lalele care sa-ti lumineze sufletul.",
+            "composition": "Contine: 15 Lalele galben, 6 Verdeata Aralia, 6 Verdeata Aspidistra,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 14,
+        "productCode": "BUCHLA14",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img14.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img14_BS.jpg",
+        "title": "Buchet de 19 lalele galbene",
+        "price": "250",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-lalele-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 lalele galbene, solidago si verdeata.",
+            "composition": "Contine: 19 Lalele galben, 6 Verdeata Aralia, 6 Verdeata Aspidistra,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 15,
+        "productCode": "BUCHLA15",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img15.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img15_BS.jpg",
+        "title": "Buchet de 55 lalele galbene",
+        "price": "605",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-55-lalele-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 55 lalele galbene, proaspete si luminoase pentru a face persoana draga sa va acorde toata atentia!",
+            "composition": "Contine: 55 Lalele galben, 6 Verdeata Aralia,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 16,
+        "productCode": "BUCHLA16",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de lalele/img16.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de lalele/img16_BS.jpg",
+        "title": "Buchet de 11 lalele mov",
+        "price": "165",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-11-lalele-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 11 lalele mov, care impresioneaza prin coloritul deosebit. Lalelele mov sunt asociate dorinta de lux si stralucire, un buchet perfect pentru sefa.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

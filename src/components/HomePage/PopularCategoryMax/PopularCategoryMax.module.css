@@ -1,0 +1,99 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    max-width: 85rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.categoryTitle {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    gap: 1.25rem;
+}
+
+.cardOne {
+    width: 33.33%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.cardOne:hover button {
+    background-color: #47792e;
+}
+
+.cardTwo {
+    width: 33.33%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    margin-top: 5rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.cardTwo:hover button {
+    background-color: #47792e;
+}
+
+.cardThree {
+    width: 33.33%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    height: 100%;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.cardThree:hover button {
+    background-color: #47792e;
+}
+
+.imgOne,
+.imgTwo,
+.imgTrois {
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+    transition: all .2s linear;
+}
+
+.image {
+    border-radius: 10px;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.title {
+    font-size: 1.5rem;
+    color: black;
+    font-weight: bold;
+}
+
+.orderButtonOne,
+.orderButtonTwo,
+.orderButtonThree {
+    border-color: transparent;
+    border-style: solid;
+    background-color: #559137;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 12px 25px;
+    color: white;
+    border-radius: 50px;
+    letter-spacing: 1px;
+}

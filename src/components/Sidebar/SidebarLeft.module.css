@@ -1,0 +1,79 @@
+.container {
+    background-color: red;
+    position: fixed;
+    height: 100%;
+    background-color: white;
+    max-width: 450px;
+    min-width: 280px;
+    width: 100%;
+    border: 1px solid #cccccc;
+    overflow: scroll;
+    transition: 0.3s;
+    z-index: 5;
+    left: 0;
+}
+
+.sidebarTop a>img {
+    max-width: 80px;
+    height: auto;
+    object-fit: cover;
+}
+
+.sidebarTop {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 30px;
+}
+
+.sidebarBottom {
+    margin: 20vh 0;
+    display: flex;
+    justify-content: center;
+}
+
+.sidebarBottom>* {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sidebarCategory {
+    margin: 30px;
+}
+
+.sidebarPromo a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+.sidebarPromo {
+    margin: 30px;
+}
+
+.sidebarPromo a>div {
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.sidebarPromo {
+    margin-bottom: 50px;
+}
+
+.closeButton {
+    display: flex;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+.closeButton:hover {
+    background-color: #dddddd;
+}

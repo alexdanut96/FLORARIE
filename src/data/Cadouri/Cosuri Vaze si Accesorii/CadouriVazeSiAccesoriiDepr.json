@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "productCode": "CADACC1",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img1.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img1_BS.jpg",
+        "title": "Vaza medie",
+        "price": "99",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Vaza-medie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Vaza medie din sticla pentru flori, avand dimensiunile 30 cm inaltime si 15 cm diametru, recomandata pentru buchete de pana la 35 fire pentru florile mai subtiri (frezii,iris, trandafiri), 15-25 fire pentru florile medii (gerbera, lalele )si 10-15 fire pentru florile mari (crini, cale ). Disponibila numai in varianta transparenta.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "CADACC2",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img2.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img2_BS.jpg",
+        "title": "Cos de rachita mediu",
+        "price": "25",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Cos-de-rachita-mediu",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cos natural de rachita si un burete OASIS, recomandate pentru buchetele pana in 45 de fire. Adaugati-l la buchetul Dvs. de flori pentru a oferi un aspect mai elegant si o pastrare mai indelungata a prospetimii florilor",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "CADACC3",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img3.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img3_BS.jpg",
+        "title": "Cos de rachita mare",
+        "price": "45",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Cos-de-rachita-mare",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cos natural de rachita si un burete OASIS, recomandate pentru aranjamentele pana in 65 de fire. Adaugati-l la buchetul Dvs. de flori pentru a oferi un aspect mai elegant si o pastrare mai indelungata a prospetimii florilor.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "CADACC4",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img4.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img4_BS.jpg",
+        "title": "Cos de rachita mic",
+        "price": "19",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Cos-de-rachita-mic",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cos natural de rachita si un burete OASIS, recomandate pentru aranjamentele pana in 25 fire. Adaugati-l la buchetul Dvs. de flori pentru a oferi un aspect mai elegant si o pastrare mai indelungata a prospetimii florilor.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "CADACC5",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img5.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img5_BS.jpg",
+        "title": "Vaza mica",
+        "price": "49",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Vaza-mica",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Vaza mica din sticla pentru flori, avand dimensiunile 20 cm inaltime si 14 cm diametru, recomandata pentru buchete de pana la 25 fire pentru florile mai subtiri (frezii, irisi, trandafiri, etc.), 10-15 fire pentru florile medii (gerbera, lalele ) si 7-9 fire pentru florile mari (crini, cale ). Disponibila numai in varianta transparenta.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "CADACC6",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img6.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img6_BS.jpg",
+        "title": "Invelis pentru flori",
+        "price": "6",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Invelis-pentru-flori",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Invelis din hartie, plasa / material textil / hartie sau altele similare - materiale ecologice si elegante nu celofan - pentru decorarea buchetelor de flori comandate. Disponibil in mai multe culori, va fi livrat pe culoarea care se potriveste cel mai bine buchetului comandat.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "CADACC7",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img7.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img7_BS.jpg",
+        "title": "Vaza mare",
+        "price": "149",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Vaza-mare",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Vaza mare din sticla pentru flori, avand dimensiunile 45 cm inaltime si 25 cm diametru, recomandata pentru buchete de pana la 55 fire din flori mai subtiri (trandafiri, frezii, irisi), 25-35 pentru flori medii (gerbera, lalele) si 15-25 pentru flori mari (crini, cale) Disponibila numai in varianta transparenta.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "CADACC8",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img8.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cosuri Vaze si Accesorii/img8_BS.jpg",
+        "title": "Vas ceramica",
+        "price": "49",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Vas-ceramica",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Vasul din ceramica are dimensiunile aproximative de 15 cm inaltime si 10 cm diametru, iar acesta se poate adauga la comandarea oricarei plante in ghiveci. Poza vasului din ceramica este cu titlu de prezentare si dorim sa va aducem la cunostinta faptul ca modelul produsului livrat poate suferi mici modificari.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHCRIZ1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img1_BS.jpg",
+        "title": "Buchet de 35 crizanteme galbene",
+        "price": "359",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-crizanteme-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 crizanteme galbene, expresiv si plin de eleganta, si nimeni nu va uita sa zambeasca.",
+            "composition": "Contine: 35 Crizanteme galben,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHCRIZ2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img2_BS.jpg",
+        "title": "Buchet de 55 crizanteme galbene",
+        "price": "489",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-55-crizanteme-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 55 crizanteme galbene, absolut fascinant, o revarsare de lumina si voie buna care va genera numai energie pozitiva.",
+            "composition": "Contine: 55 Crizanteme galben,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHCRIZ3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img3_BS.jpg",
+        "title": "Buchet de 25 crizanteme roz",
+        "price": "275",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-25-crizanteme-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 25 crizanteme roz, o surpriza extrem de placuta pentru persoana draga.",
+            "composition": "Contine: 25 Crizanteme roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHCRIZ4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img4_BS.jpg",
+        "title": "Buchet de 45 crizanteme roz",
+        "price": "420",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-45-crizanteme-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 45 crizanteme roz, ofera-l celei mai bune prietene in semn de prietenie si incredere.",
+            "composition": "Contine: 45 Crizanteme roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHCRIZ5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img5_BS.jpg",
+        "title": "Buchet de 21 crizanteme roz",
+        "price": "235",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-21-crizanteme-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 21 crizanteme roz , cadoul ideal pentru zilele insorite de primavara.",
+            "composition": "Contine: 3 Verdeata Aralia, 21 Crizanteme roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHCRIZ6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img6_BS.jpg",
+        "title": "Buchet de 75 crizanteme albe",
+        "price": "689",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-75-crizanteme-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 75 crizanteme albe, generos, proaspat si impresionant, cadoul perfect pentru o femeie capricioasa si eleganta.",
+            "composition": "Contine: 75 Crizanteme alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHCRIZ7",
+        "discount": "5",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img7_BS.jpg",
+        "title": "Buchet de 75 crizanteme roz",
+        "price": "520",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-75-crizanteme-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 75 crizanteme roz, un buchet bogat de crizanteme roz potrivit pentru orice perioada a zilei.",
+            "composition": "Contine: 75 Crizanteme roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHCRIZ8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img8_BS.jpg",
+        "title": "Buchet de 23 crizanteme roz",
+        "price": "255",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-23-crizanteme-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 23 crizanteme roz, pentru a o inveseli si a ii transmite toate urarile de bine",
+            "composition": "Contine: 6 Verdeata Aspidistra, 23 Crizanteme roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHCRIZ9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img9_BS.jpg",
+        "title": "Buchet de 55 crizanteme multicolore",
+        "price": "489",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-55-crizanteme-multicolore",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet 55 crizanteme multicolore care va impresiona prin mireasma si culoare. Buchetul perfect pentru a face pe cineva fericit, fie ca e mama, matusa sau prietena!",
+            "composition": "Contine: 55 Crizanteme multicolor,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "BUCHCRIZ10",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img10.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img10_BS.jpg",
+        "title": "Buchet de 45 crizanteme multicolore",
+        "price": "420",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-45-crizanteme-multicolore",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Alege un buchet de 45 crizanteme multicolore pentru a insenina ziua unei persoane dragi.",
+            "composition": "Buchet de 45 crizanteme multicolore",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "BUCHCRIZ11",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img11.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img11_BS.jpg",
+        "title": "Buchet de 15 crizanteme galbene",
+        "price": "179",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-crizanteme-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Nu este nici o ocazie insa vrei ca destinatara sa se simta special? Acest buchet de 15 crizanteme galbene va crea efectul dorit.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "BUCHCRIZ12",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img12.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img12_BS.jpg",
+        "title": "Buchet de 5 crizanteme galbene",
+        "price": "90",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-5-crizanteme-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un buchet de 5 crizanteme galbene, elegante si radiante, un mesager al verii.",
+            "composition": "Contine: 3 Verdeata Aspidistra, 5 Crizanteme galben,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "BUCHCRIZ13",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img13.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img13_BS.jpg",
+        "title": "Buchet de 15 crizanteme multicolore",
+        "price": "179",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-crizanteme-multicolore",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 crizanteme multicolore, un buchet bogat de toamna pentru o femeie jucausa careia ii place sa se distreze!",
+            "composition": "Contine: 15 Crizanteme multicolor,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 14,
+        "productCode": "BUCHCRIZ14",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img14.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img14_BS.jpg",
+        "title": "Buchet de 15 crizanteme albe",
+        "price": "179",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-crizanteme-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 crizanteme albe, avand un aer elegant si delicat, aduce liniste si pace in sufletul oricui.",
+            "composition": "Contine: 15 Crizanteme alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 15,
+        "productCode": "BUCHCRIZ15",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img15.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crizanteme/img15_BS.jpg",
+        "title": "Buchet de 35 crizanteme roz",
+        "price": "359",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-crizanteme-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 crizanteme roz, reprezinta prosperitate si pot fi oferite cu incredere si iubire iubitei tale.",
+            "composition": "Contine: 35 Crizanteme roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

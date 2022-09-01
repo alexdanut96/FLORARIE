@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHCALE1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img1_BS.jpg",
+        "title": "Buchet de 17 cale mov",
+        "price": "365",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-17-cale-mov",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 17 cale mov, elegant si rafinat, ideal pentru o intalnire de afaceri.",
+            "composition": "Contine: 15 Verdeata BearGrass, 8 Verdeata Aspidistra, 17 Cala mov, Specia: Calla Paco,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHCALE2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img2_BS.jpg",
+        "title": "Buchet de 19 cale albe",
+        "price": "399",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-cale-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 cale albe, pentru a face o surpriza placuta ofera acest buchet unei persoane deosebite.",
+            "composition": "Buchet de 19 cale albe",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHCALE3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img3_BS.jpg",
+        "title": "Buchet de 35 cale roz",
+        "price": "699",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-cale-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 cale roz, un buchet care iti va umple ziua de frumusete.",
+            "composition": "Buchet de 35 cale roz",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHCALE4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img4_BS.jpg",
+        "title": "Buchet de 35 cale albe",
+        "price": "699",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-cale-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 cale albe, plin de prospetime si savoare este ideal pentru o intalnire oficiala.",
+            "composition": "Buchet de 35 cale albe",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHCALE5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img5_BS.jpg",
+        "title": "Buchet de 9 cale roz",
+        "price": "219",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-9-cale-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet delicat de 9 cale roz cu ajutorul caruia vei imbuna orice femeie! Chiar daca ai gresit, arata ca iti pare rau, trimitandu-i un buchet de cale!",
+            "composition": "Contine: 5 Verdeata Aspidistra, 9 Cala roz, Specia: Calla Auckland,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHCALE6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img6_BS.jpg",
+        "title": "Buchet de 55 cale galbene",
+        "price": "1059",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-55-cale-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 55 cale galbene, va aduce raze de soare care vor declansa momente unice de buna dispozitie.",
+            "composition": "Contine: 15 Verdeata BearGrass, 5 Verdeata Aspidistra, 55 Cala galben, Specia: Calla Flore Gold,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHCALE7",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img7_BS.jpg",
+        "title": "Buchet de 7 cale roz",
+        "price": "179",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-cale-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 cale roz, un buchet inspirat din prospetimea naturii, misterios si irezistibil.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHCALE8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img8_BS.jpg",
+        "title": "Buchet de 55 cale roz",
+        "price": "1059",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-55-cale-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 55 cale roz, un buchet ce simbolizeaza frumusete magnifica si mandrie.",
+            "composition": "Contine: 15 Verdeata BearGrass, 10 Verdeata Aspidistra, 55 Cala roz, Specia: Calla Auckland,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHCALE9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img9_BS.jpg",
+        "title": "Buchet de 5 cale galbene",
+        "price": "145",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-5-cale-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchetul de 5 cale galbene, senzual si rafinat pentru evenimente speciale.",
+            "composition": "Contine: 10 Verdeata BearGrass, 5 Cala galben, Specia: Calla Flore Gold,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "BUCHCALE10",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img10.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img10_BS.jpg",
+        "title": "Buchet de 5 cale portocalii",
+        "price": "145",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-5-cale-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 5 cale portocalii. Este distinsa si rafinata, este dulce si suava, este un inger fin ce radiaza o zi mai buna? Ofera-i aceste cale ingerului tau, flori elegante intr-o coloristica vesela si optimista.",
+            "composition": "Buchet de 5 cale portocalii",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "BUCHCALE11",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img11.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img11_BS.jpg",
+        "title": "Buchet de 17 cale portocalii",
+        "price": "365",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-17-cale-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 17 cale portocalii, ce poate fi oferit unei persoane importante din viata dumneavoastra si sigur va impresiona destinatarul.",
+            "composition": "Contine: 7 Verdeata BearGrass, 8 Verdeata Aspidistra, 17 Cala portocaliu, Specia: Calla Captain Safari,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "BUCHCALE12",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img12.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img12_BS.jpg",
+        "title": "Buchet de 25 cale galbene",
+        "price": "510",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-25-cale-galbene",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 25 cale galbene, un look elegant de trompete galbene pentru o ocazie deosebita.",
+            "composition": "Contine: 25 Cala galben",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "BUCHCALE13",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img13.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img13_BS.jpg",
+        "title": "Buchet de 25 cale portocalii",
+        "price": "510",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-25-cale-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 25 cale portocalii, misterios si exotic, nuante calde intr-un buchet ce aduce vibratii oricarui spatiu.",
+            "composition": "Contine: 10 Verdeata BearGrass, 12 Verdeata Aspidistra, 25 Cala portocaliu, Specia: Calla Captain Safari,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 14,
+        "productCode": "BUCHCALE14",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de cale/img14.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de cale/img14_BS.jpg",
+        "title": "Buchet de 19 cale roz",
+        "price": "399",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-cale-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 cale roz, face ca fiecare zi sa devina una magica",
+            "composition": "Contine: 10 Verdeata BearGrass, 8 Verdeata Aspidistra, 19 Cala roz, Specia: Calla Auckland,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

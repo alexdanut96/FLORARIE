@@ -1,0 +1,354 @@
+.container {
+    grid-area: c;
+}
+
+.titleContent {
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./subCategory_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 295px;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-shadow: 0 0 8px #cccc, 0 0 1px #999;
+}
+
+.box {
+    width: 150px;
+    height: 90px;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    position: absolute;
+    top: 50%;
+    /* left: 50%; */
+    /* transform: translateX(-50%); */
+    transform: translateY(-50%);
+}
+
+.searchForm {
+    display: none;
+}
+
+.productSearchFilter {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    max-width: 85rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.filterTextandIcon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.filterText {
+    font-size: 14px;
+    margin-right: 10px;
+    color: grey;
+    font-weight: bold;
+}
+
+.arrowDownIcon {
+    font-size: 18px;
+    padding-top: 2px;
+}
+
+.filterButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #aaaa;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 13px 25px;
+    color: black;
+    border-radius: 50px;
+    letter-spacing: 1px;
+}
+
+.adjustIcon {
+    margin-right: 5px;
+    padding-bottom: 2px;
+    font-size: 20px;
+}
+
+.showMore {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.showMoreTxt {
+    margin-bottom: 10px;
+}
+
+.button {
+    border: 1px solid #aaaa;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-weight: bold;
+    padding: 13px 25px;
+    color: black;
+    border-radius: 50px;
+    letter-spacing: 1px;
+}
+
+.information {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    max-width: 85rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-bottom: 50px;
+}
+
+.informationTitle {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.informationContent {
+    display: flex;
+    gap: 30px;
+}
+
+.informationContentOne {
+    width: 50%;
+}
+
+.informationContentTwo {
+    width: 50%;
+}
+
+.container>:nth-last-child(1) {
+    margin-top: 0;
+}
+
+.container>:nth-last-child(1)>div {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.container>:nth-last-child(2) {
+    padding-bottom: 0;
+    margin-top: 30px;
+}
+
+@media all and (min-width: 1024px) {
+
+    .searchForm {
+        display: block;
+    }
+
+    .productMaxSize {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        max-width: 85rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .productMidSize {
+        display: none;
+    }
+
+    .productMinSize {
+        display: none;
+    }
+
+    .faclitiesTabMax {
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 85rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .faclitiesTabMax>div>article>h2 {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: #f7f7f7;
+    }
+
+    .faclitiesTabMin {
+        display: none;
+    }
+
+    .container>:nth-last-child(2) {
+        display: none;
+    }
+
+    .container>:nth-last-child(1) {
+        margin-top: 30px;
+    }
+}
+
+@media all and (max-width: 1023px) {
+
+    .title {
+        font-size: 1.5rem;
+        font-weight: bold;
+        letter-spacing: 1px;
+        text-shadow: 0 0 8px #cccc, 0 0 1px #999;
+
+    }
+
+    .box {
+        height: 70px;
+        width: 130px;
+    }
+
+    .productSearchFilter {
+        display: flex;
+        justify-content: space-between;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        max-width: 85rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+    }
+
+    .faclitiesTabMax {
+        display: none;
+    }
+
+    .faclitiesTabMin {
+        padding-right: 1rem;
+        padding-left: 1rem;
+        margin-top: 20px;
+        display: flex;
+    }
+
+    .faclitiesTabMin>div>div {
+        background-color: #f7f7f7;
+    }
+
+    .titleContent {
+        text-align: center;
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-image: url("./subCategory_image.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 180px;
+    }
+
+}
+
+@media only screen and (max-width: 1023px) and (min-width: 640px) {
+
+    .productMaxSize {
+        display: none;
+    }
+
+    .productMidSize {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        max-width: 85rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .productMinSize {
+        display: none;
+    }
+}
+
+@media all and (max-width: 639px) {
+
+    .productMaxSize {
+        display: none;
+    }
+
+    .productMidSize {
+        display: none;
+    }
+
+    .productMinSize {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        max-width: 85rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .information {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        max-width: 85rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .informationTitle {
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .informationContent {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .informationContentOne {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .informationContentTwo {
+        width: 100%;
+        font-size: 14px;
+    }
+}

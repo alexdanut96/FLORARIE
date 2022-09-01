@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "productCode": "CADSP1",
+        "discount": "5",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img1.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img1_BS.jpg",
+        "title": "Cerere in casatorie",
+        "price": "849",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Cerere-in-casatorie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Vrei sa transformi o zi obisnuita intr-o zi cu memorabila? O cerere in casatorie va fi cel mai frumos gest de dragoste!Daca stii ca ea este femeia vietii tale si vrei sa-i faci o surpriza pe care sa nu o uite niciodata, cere-o in casatorie! Surpriza va fi cu atat mai mare cu cat, pe langa buchetul si cutiuta plina cu petale, in care va fi strecurat ravasul cu cererea in casatorie, tu vei avea pregatit si inelul de logodna. Pachetul contine: ♥ buchet din 12 trandafiri albi, 39 trandafiri rosii, verdeata ♥ cutie cu petale albe si rosii ♥ ravas cu mesajul trimis de tine (recomandarea noastra: Vrei sa fii sotia mea?)",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "CADSP2",
+        "discount": "15",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img2.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img2_BS.jpg",
+        "title": "Cucereste-o cu trandafiri",
+        "price": "1599",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Cucereste-o-cu-trandafiri",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "De mii de ani, trandafirii rosii sunt ”secretul” cuceririi femeii iubite. Pentru ca, de mii de ani, nicio femeie nu poate sa ramana indiferenta atunci cand primeste un trandafir. Cu atat mai mult cand primeste 101 trandafiri pasionali.Se spune ca, pentru a cuceri o femeie, nu trebuie sa-i castigi afectiunea, ci sa o faci sa te doreasca. Iar pentru asta, cea mai simpla strategie este aceea de a o surprinde, de a-i arata latura ta pasionala, intr-un mod neasteptat, dar elegant. Probabil ca din acest motiv produsul ”Cucereste-o” este cel mai iubit produs al nostru de catre barbati. El ii ajuta, de fiecare data, sa surprinda, sa incante, sa starneasca emotii. Cucerirea are loc in trei pasi: mai intai, destinatara primeste 1 trandafir. Dupa 11 minute, curierul Floria o surprinde cu un buchet de 11 trandafiri rosii. După alte 89 minute, de la primirea celui de-al doilea buchet, curierul Floria vine din nou, cu un buchet magnific de 89 trandafiri. Pachetul contine: ♥ 1 trandafir rosu ♥ buchet de 11 trandafiri rosii ♥ buchet de 89 trandafiri rosii. In total 101 trandafiri pasionali. ♥ felicitare personalizata cu textul ales de tine pentru fiecare buchet",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "CADSP3",
+        "discount": "5",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img3.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img3_BS.jpg",
+        "title": "Seara romantica",
+        "price": "829",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Seara-romantica",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Petale de flori, un buchet de trandafiri albi si rosii, sampanie, lumanari... daca exista un kit perfect pentru o seara romantica, atunci acesta este.Stii scenele celebre de film, cu petale de flori presarate in camera, declaratii de dragoste, sampanie si lumanari? Noi credem ca asa ar trebui sa arate o seara romantica, petrecuta in cuplu. Iar partea cea mai frumoasa e ca nu va trebui sa te desparti de iubita ta nici macar pentru cateva secunde, umbland prin oras dupa cadoul potrivit. Vei putea petrece toata ziua in bratele ei, pentru ca noi iti vom aduce cadoul la usa. De declaratia de dragoste trebuie, totusi, sa te ocupi tu.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "CADSP4",
+        "discount": "5",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img4.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img4_BS.jpg",
+        "title": "3 surprize pentru ea",
+        "price": "934",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/3-surprize-pentru-ea",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Daca primul buchet e o surpriza, urmatoarele doua vor fi, cu siguranta, mai mult decat o bucurie neasteptata. Vor fi o bucurie imensa!Daruieste-i 3 buchete de flori, in 3 zile consecutive! Surpriza pe care vrei sa i-o faci va fi deplina. Trebuie sa alegi doar data primei livrari si intervalul de livrare preferat, de restul ne ocupam noi.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "CADSP6",
+        "discount": "5",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img6.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img6_BS.jpg",
+        "title": "Casa plina cu flori",
+        "price": "3958",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Casa-plina-cu-flori",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Imagineaza-ti 301 trandafiri care ii vor umple de bucurie nu doar inima, ci si casa intreaga. Pare un cadru de basm, nu-i asa?O casa plina de flori este, pentru cele mai multe femei, un vis care nu devine niciodata realitate. Daca vrei sa-i implinesti aceasta dorinta, vei fi unul dintre putinii barbati care isi vor vedea iubita atat de fericita. Trandafirii pot fi in culori diferite sau doar in nuante diferite ale aceleiasi culori, in functie de atmosfera pe care vrei sa o creezi - eleganta, vesela sau romantica. Pachetul contine: ♥ 301 trandafiri rosii si albi ♥ 5 vaze de sticla, de diferite marimi ♥ felicitare personalizata cu textul ales de tine",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "CADSP7",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img7.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img7_BS.jpg",
+        "title": "Buchet 1 Aprilie",
+        "price": "238",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-1-Aprilie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "De 1 aprilie, pacaleste-o ca un gentleman adevarat!Un gentleman nu pierde nicio ocazie de a-si surprinde iubita, cu stil. De 1 Aprilie, cand mai toata lumea este tentata sa sarbatoreasca Ziua Pacalelii cu glume, de cele mai multe ori, nereusite, iti oferim o alternativa pe cat de eleganta, pe atat de amuzanta. Comanda-i produsul special de Ziua Pacalelii - Buchetul 1 Aprilie! O vom suna pe iubita ta, ii vom spune ca avem un colet pentru ea si ii vom oferi... o singura floare. După 5 minute vom reveni, insa, cu buchetul special comandat de tine.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "CADSP8",
+        "discount": "5",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img8.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img8_BS.jpg",
+        "title": "Flori si scrisoare de dragoste",
+        "price": "499",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Flori-si-scrisoare-de-dragoste",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Fa un cadou inedit in fiecare zi, asterne sentimentele tale pe cea frumoasa scrisoare de dragoste si ofera cele mai delicate flori.Te-ai indragostit? Te-ai reindragostit? Sau, pur si simplu, ai inteles ca este cea mai importanta persoana din viata ta si vrei sa-i spui asta, doar ca nu-ti gasesti cuvintele? Ei bine, esti salvat! Exista florile minunate de la Floria si scrisorile pline de sensibilitate. Comanda-i acest pachet special! ",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "CADSP9",
+        "discount": "5",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img9.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img9_BS.jpg",
+        "title": "Flori, sampanie si tort",
+        "price": "669",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Flori-sampanie-si-tort",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un buchet deosebit de flori, tort si o sampanie Asti Martini... daca exista un kit perfect pentru un cadou deosebit, atunci acesta este.E sărbătoare? E sărbătoare doar pentru voi? Sărbătorește cu un cadou special gândit pentru momentele festive - buchetul de flori + șampanie de lux + tort delicios! Cu siguranță că cea sau cel (pentru că este o alegere foarte bună și pentru domni) care îl va primi se va bucura. ",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "CADSP10",
+        "discount": "5",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img10.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img10_BS.jpg",
+        "title": "Flori pentru fiecare camera",
+        "price": "923",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Flori-pentru-fiecare-camera",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Încântă-i toată casa cu flori. Alege Flori pentru fiecare cameră și adu-i zâmbetul pe buze îndiferent în ce cameră își petrece ziua.Dacă vrei să-i oferi o priveliște încântătoare, indiferent de camera în care se află, alege pachetul special, din trei buchete diferite, pentru camera de zi, dormitor și bucătărie!",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "CADSP11",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img11.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img11_BS.jpg",
+        "title": "101 trandafiri si Moet",
+        "price": "2100",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/101-trandafiri-si-Moet",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Dacă florile sunt pentru ea, de șampanie vă puteți bucura împreună.Fiecare moment de sărbătoare are nevoie de două lucruri: de multe flori și de o șampanie bună. Cadoul este nu doar elegant și sofisticat, ci și pasional, așa că îl poți trimite cu diverse ocazii (de la cele mai sobre, pana la cele mai fierbinți), pe care tu le cunoști mult mai bine decat noi. Pachetul conține: ♥ Buchet din: 101 trandafiri roșii ♥ Șampanie Moet",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "CADSP12",
+        "discount": "5",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img12.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img12_BS.jpg",
+        "title": "Birou plin cu flori",
+        "price": "3275",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Birou-plin-cu-flori",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Stă foarte mult timp la birou? Ai auzit-o plângându-se de oboseală, de prea mult stres? Fă-i o surpriză inedită!Umple-i biroul cu flori! Va fi mult mai motivată, mult mai eficientă, dar și mult mai preocupată de relația voastră, chiar și atunci cand va sta peste program. Despre cât de mandră va fi de tine, în fața colegelor ei, nu-ți mai spunem nimic, știi și tu, deja. Pachetul conține: ♥ 249 trandafiri roșii și albi ♥ 5 vaze de sticlă, de diferite mărimi ♥ felicitare personalizată cu textul ales de tine",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "CADSP13",
+        "discount": "5",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img13.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img13_BS.jpg",
+        "title": "Din 2 in 2 ore",
+        "price": "2351",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Din-2-in-2-ore",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Pentru voi doi, din două în două ore, de două ori mai multe flori. Nu-i așa că viața e mult mai frumoasă în 2?Pentru că vrem să-ți demonstrăm încă o dată cât de rapizi suntem, livrăm nu o singură dată, în maximum 2 ore, ci de 4 ori, în aceeași zi! Mai întâi un buchet de 11 trandafiri, apoi de 23, apoi de 47 și, în final, un gigantic buchet de 95 de trandafiri, în culori diferite, care cresc în intensitate, odată cu numărul florilor – alb, crem, roz și roșu. Pachetul conține: ♥ Buchet din 11 trandafiri albi. ♥ Buchet din 23 trandafiri crem. ♥ Buchet din 47 trandafiri roz. ♥ Buchet din 95 trandafiri roșii.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 14,
+        "productCode": "CADSP14",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img14.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img14_BS.jpg",
+        "title": "Dragoste cu parfum Velvet Orchid",
+        "price": "810",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Dragoste-cu-parfum-Velvet-Orchid",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Eleganta. Acesta este cuvantul care descrie cel mai bine combinatia de orhidee violet cu trandafiri albi. Un amestec de exotism si rafinament, de o frumusete rara si delicata, care se potriveste perfect cu parfumul luxuriant, Velvet Orchid. Impreuna, cele doua cadouri - parfumul bogat, condimentat si intens floral, creat de Tom Ford, si aranjamentul Floria, sunt un pachet seducator si pretios, pentru femeile care iubesc luxul oriental.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 15,
+        "productCode": "CADSP15",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img15.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img15_BS.jpg",
+        "title": "Indragostiti de flori si macarons",
+        "price": "356",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Indragostiti-de-flori-si-macarons",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cel mai dulce cadou pentru indragostiti, din flori in culori apetisante si cel mai iubit desert din lume, in acest moment - celebrele prajituri frantuzesti macarons.Trandafirii Moody Blues, asortati cu minirosa roz si alstroemeria violet, iti fac pofta de dragoste si de momente perfecte, petrecute impreuna. In timp ce prajiturile macarons, crocante la exterior, moi la interior si cremoase la mijloc, sunt ingredientul-minune, care transforma acest cadou in cel mai dulce cadou. Produsul special contine: ♥ buchet din 5 trandafiri Moody Blues, 3 minirosa roz, 3 alstroemeria violet, verdeata (salal); ♥ 10 prajituri macarons. In functie de stocul disponibil, ambalajul prajiturilor poate fi diferit. Acest produs special se poate livra in 2 ore in Bucuresti si in 3 zile in tara.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 16,
+        "productCode": "CADSP16",
+        "discount": "5",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img16.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img16_BS.jpg",
+        "title": "Cadoul romantic",
+        "price": "599",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Cadoul-romantic",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un cadou fabulos, din flori care te fac sa visezi si o scrisoare de dragoste inedita, care se planteaza si, peste cateva zile, se transforma tot in... flori.Combinatia de trandafiri si orhidee are o sensibilitate speciala, de aceea, aranjamentul creat de designerii nostri se armonizeaza perfect cu scrisoarea de dragoste, scrisa de mana, foarte atent, pe hartie vintage. Si nu doar atat, peste cateva zile, din plicul, care trebuie plantant, vor rasari flori de lavanda sau de trifoi. Nu-i asa ca e foarte romantic? Produsul special contine: ♥ aranjament din 8 trandafiri albi, 3 miniroze roz, 1 orhidee Phalenopsis alba, verdeata: eucalipt si salal; ♥ scrisoare de dragoste in plic cu seminte.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 17,
+        "productCode": "CADSP17",
+        "discount": "8",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img17.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img17_BS.jpg",
+        "title": "Experienta dragostei",
+        "price": "650",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Experienta-dragostei",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Vrei sa faci un experiment foarte placut? Trimite-i iubitei tale un buchet de trandafiri rosii si o scrisoare de dragoste in eprubeta! Trandafirii rosii sunt un element cheie in orice poveste de dragoste. Si se stie foarte clar ca reactia chimica a unei femei, la primirea lor, nu poate fi decat una rapida, de pura fericire. Cu atat mai mult cu cat in eprubeta se afla un mesaj de dragoste, scris de mana, pe o hartie speciala, arsa pe margini, legata cu panglica sau sfoara. Produsul special contine: ♥ buchet din 9 trandafiri rosii, 3 leucadendron, 5 green trick, 4 aspidistra, verdeata (salal); ♥ scrisoare de dragoste in eprubeta, cu pandantiv sau lavanda",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 18,
+        "productCode": "CADSP18",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img18.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img18_BS.jpg",
+        "title": "Pachet The One",
+        "price": "695",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Pachet-The-One",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Flori si parfum, pentru atunci cand stii ca ea este „The One”.Flori albe, orhidee, parfum senzual. Pentru o personalitate iconica. Produsul special contine: ♥ buchet din 7 trandafiri albi, 5 cymbidium verde, 3 hipericum verde, verdeata: salal si aspidistra ♥ parfum The One - Dolce Gabbana Acest produs special se poate livra doar in Bucuresti.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 19,
+        "productCode": "CADSP19",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img19.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img19_BS.jpg",
+        "title": "O noapte speciala si parfum",
+        "price": "549",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/O-noapte-speciala-si-parfum",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Noaptea in care nimeni nu trebuie sa se simta singur, noaptea in care persoana draga trebuie sa stie ca te gandesti la ea. In noaptea aceasta, acea persoana draga, asteapta urarea ta de Craciun. Trimite-i-o, langa buchetul ”O noapte speciala”! si apa de parfum pentru femei Nina Ricci L'extase. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 20,
+        "productCode": "CADSP20",
+        "discount": "5",
+        "productImage": "/Product Images/CADOURI/Cadouri speciale/img20.jpg",
+        "productImageBs": "/Product Images/CADOURI/Cadouri speciale/img20_BS.jpg",
+        "title": "Flori si La vie est belle",
+        "price": "850",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Flori-si-La-vie-est-belle",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Viata este frumoasa cu un buchet atent creat din pretioasele flori de iris si inocentii trandafiri albi.Si este si mai frumoasa, daca ii adaugi un parfum Lancome, La vie est belle. O expresie a feminitatii copilaroase si pline de optimism, prin florile alese cu grija de designerii Floria, dar si prin parfumul Lancome, acest pachet cadou aduce mai mult decat bucurie - aduce o viata frumoasa. Produsul special contine: ♥ buchet din 10 iris mov, 3 trandafiri albi, 3 minirosa albi, 4 lisianthus alb, verdeata: eucalipt si salal ♥ parfum Lancome - La vie est belle Acest produs special se poate livra doar in Bucuresti.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "EVENOCAZII12",
+        "discount": "5",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Ocazii speciale/img12.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Ocazii speciale/img12_BS.jpg",
+        "title": "Cadou de Ziua ei",
+        "price": "615",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Cadou-de-Ziua-ei",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "O zi frumoasă - 2 buchete speciale.Vrei să aibă cea mai frumoasă zi de naștere? Trezește-o dimineață cu un buchet înmiresmat cu frezii și încheie seara cu un buchet pasional de trandafiri roșii și albi. 2 suprize care o vom face să aprecieze toată dragostea pe care i-o porți. Primul buchet se va livra dis-de-dimineață, iar al doilea în ultimul interval disponibil pe site. Pachetul contine: ♥ Buchet din: 19 frezii albe, 4 minirosa boombastik, verdeata, ♥ Buchet din: 12 trandafiri albi, 9 trandafiri rosii, verdeata, ♥ Felicitare personalizata cu textul ales de tine pentru fiecare buchet.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

@@ -1,0 +1,18 @@
+.topMaxSize {
+    grid-area: t;
+    display: flex;
+    height: 31px;
+    background-color: #559137;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+@media all and (max-width: 1023px) {
+    .topMaxSize {
+        display: none;
+    }
+}

@@ -1,0 +1,42 @@
+.navbar {
+    display: flex;
+    grid-area: n;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    z-index: 2;
+    /* border: solid; */
+}
+
+.nav-items {
+    display: flex;
+    /* background-color: aquamarine; */
+
+}
+
+.nav-item {
+    text-decoration: none;
+    padding: 0 20px 0 20px;
+}
+
+.nav-item:hover {
+    font-weight: bold;
+}
+
+.submenu-category {
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.submenu-category:hover {
+    font-weight: bold;
+    color: #fa7d7d
+}
+
+
+@media all and (max-width: 1023px) {
+    .navbar {
+        display: none;
+    }
+}

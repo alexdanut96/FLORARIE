@@ -1,0 +1,522 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHTR1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img1_BS.jpg",
+        "title": "Buchet de 15 trandafiri rosii",
+        "price": "269",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-trandafiri-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de flori din 15 trandafiri rosii ce vor transmite tot atatea ganduri de dragoste persoanei iubite.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHTR2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img2_BS.jpg",
+        "title": "Buchet de 19 trandafiri rosii",
+        "price": "325",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-trandafiri-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Trandafiri rosii pentru iubirea vietii tale! Arata-i ca o pretuiesti daruindu-i un buchet incantator care o va face sa simta dragostea ta in fiecare petala rosu aprins.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHTR3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img3_BS.jpg",
+        "title": "Buchet de 9 trandafiri rosii",
+        "price": "179",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-9-trandafiri-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un buchet de flori stralucitor si plin de pasiune. Daruieste-l persoanei iubite! Buchetul contine 9 trandafiri rosii.Trandafirii rosii au transmis intotdeauna dragostea pasionala. Rosul cardinal inseamna dorinta, rosul amarant simbolizeaza senzualitatea de lunga durata, rosul carmin – dorinta inselatoare, iar trandafirii rosii ca focul simbolizeaza pasiunea inflacarata. Comanda un buchet din 9 trandafiri rosii pentru persoana iubita.",
+            "composition": "Contine: 9 Verdeata Salal, 9 Trandafiri rosu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHTR4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img4_BS.jpg",
+        "title": "Buchet cu trandafiri Pink Floyd",
+        "price": "199",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-trandafiri-Pink-Floyd",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Buchetul contine 5 fire de trandafiri, 2 spray roses, 3 Alstromeria, 3 Lisianthus roz si verdeata,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHTR5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img5_BS.jpg",
+        "title": "Buchet de 19 trandafiri multicolori",
+        "price": "325",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-trandafiri-multicolori",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 trandafiri multicolori pentru cea pe care o iubesti!",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHTR6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img6_BS.jpg",
+        "title": "Buchet cu trandafiri si wax flower",
+        "price": "165",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-trandafiri-si-wax-flower",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Lalele, trandafiri si minirosa. Un buchet perfect, o seara perfecta. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Buchetul contine 3 fire de trandafiri, 2 lalele, spray roses si Waxflowers, alaturi de frunze proaspete de Salal si Pistacia",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHTR7",
+        "discount": "3",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img7_BS.jpg",
+        "title": "Buchet de flori - Alb si rosu",
+        "price": "190",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Alb-si-rosu",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet Alb si rosu. Coloritul in alb si rosu al trandafirilor din acest buchet aminteste de traditionalul martisor, vestitorul primaverii. Lumineaza-i fiecare zi si surprinde-o cu un buchet care sa ii aminteasca de primavara.",
+            "composition": "5 Trandafiri alb, 6 Trandafiri rosii",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHTR8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img8_BS.jpg",
+        "title": "Inima din 31 trandafiri roz",
+        "price": "625",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Inima-din-31-trandafiri-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Inima din 31 trandafiri roz. Vrei sa simta ca alaturi de tine viata ei este roz? Noi iti sugeram sa-i daruiesti o inima din 31 trandafiri roz. Parfumul florilor o vor face sa pluteasca intr-o lume roz, lipsita de griji, alaturi de iubitul ei. Aranjamentul floral presupune folosirea a 31 de trandafiri roz asezati in burete oasis in forma de inima.",
+            "composition": "Contine: 1 Verdeata BearGrass, 31 Trandafiri roz",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHTR9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img9_BS.jpg",
+        "title": "Buchet de 19 trandafiri albi",
+        "price": "325",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-trandafiri-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 trandafiri albi, superbi, care emana o stare de liniste datorita albului imaculat din petale.",
+            "composition": "Contine: 7 Verdeata Aralia, 9 Verdeata Salal, 19 Trandafiri alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "BUCHTR10",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img10.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img10_BS.jpg",
+        "title": "Buchet de 21 trandafiri roz",
+        "price": "355",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-21-trandafiri-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 21 trandafiri roz. Un buchet feminin ce reflecta o stralucire unica. Acesta stralucire se reflecta diferit in ochii fiecarei femei. Asa ca de fiecare data cand daruiesti buchetul de 21 trandafiri roz, efectul lui va fi altul.",
+            "composition": "Contine: 4 Verdeata Aralia, 21 Trandafiri roz",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "BUCHTR11",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img11.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img11_BS.jpg",
+        "title": "Buchet de 21 trandafiri portocalii",
+        "price": "355",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-21-trandafiri-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 21 trandafiri portocalii, care radiaza prin accentele de portocaliu, o imagine vibranta a aromei.",
+            "composition": "Contine: 7 Verdeata Aspidistra, 21 Trandafiri portocaliu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "BUCHTR13",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img13.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img13_BS.jpg",
+        "title": "Buchet de 9 trandafiri albi",
+        "price": "179",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-9-trandafiri-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 9 trandafiri albi, pentru o femeie inocenta, firava. Un buchet de flori albe care simbolizeaza sentimente sincere de loialitate fata de o persoana draga. Fa-o sa zambeasca cu acesti trandafiri impecabili!",
+            "composition": "Contine: 5 Verdeata Aspidistra, 9 Trandafiri albi",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 14,
+        "productCode": "BUCHTR14",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img14.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img14_BS.jpg",
+        "title": "Buchet de 45 trandafiri portocalii",
+        "price": "675",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-45-trandafiri-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 45 trandafiri portocalii, special pentru tine, alaturi de dragostea ce-ti port.",
+            "composition": "Contine: 10 Verdeata Aspidistra, 45 Trandafiri portocaliu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 15,
+        "productCode": "BUCHTR15",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img15.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img15_BS.jpg",
+        "title": "Buchet de 35 trandafiri roz",
+        "price": "559",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-trandafiri-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 trandafiri roz. Atunci cand nu poti fi langa ea, aminteste-i de atingerea moale a mainilor tale, oferindu-i acest buchet de 35 trandafiri roz cu petale catifelate. Un aranjament daruit din dragoste ce spune mai mult decat 1000 de cuvinte.",
+            "composition": "Contine: 6 Verdeata Aralia, 35 Trandafiri roz",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 16,
+        "productCode": "BUCHTR16",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img16.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img16_BS.jpg",
+        "title": "Buchet de 29 trandafiri albi",
+        "price": "489",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-29-trandafiri-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 29 trandafiri albi si imaculati, simbolizand respect si dragoste.",
+            "composition": "Contine: 9 Verdeata Aspidistra, 29 Trandafiri alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 17,
+        "productCode": "BUCHTR17",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img17.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img17_BS.jpg",
+        "title": "Buchet de 25 trandafiri multicolori",
+        "price": "339",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-25-trandafiri-multicolori",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchetul de 25 trandafiri multicolori este un buchet voios, disponibil in orice sezon, potrivit pentru colegi, prieteni la orice ocazie.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 18,
+        "productCode": "BUCHTR18",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img18.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img18_BS.jpg",
+        "title": "Buchet de 13 trandafiri roz",
+        "price": "235",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-13-trandafiri-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 13 trandafiri roz. Acest buchet simplu si elegant ce semnifica inocenta transmite cu usurinta sentimentele pe care le traiesti. Livrat impreuna cu felicitarea cadou primita la comandarea buchetului pe care imprimam mesajul dorit de tine, este declaratia de iubire perfecta.",
+            "composition": "Contine: 15 Verdeata BearGrass, 15 Verdeata Aralia,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 19,
+        "productCode": "BUCHTR19",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img19.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img19_BS.jpg",
+        "title": "Buchet de 17 trandafiri roz",
+        "price": "275",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-17-trandafiri-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 17 trandafiri roz. Oferind celor dragi acest buchet ce simbolizeaza bucurie si buna dispozitie, cu siguranta nu vei da gres in a ii inveseli. Trandafirii roz exprima recunostinta si apreciere, dar si gratie si delicatete. Pot fi astfel daruiti mamei sau profesoarei care te-a indrumat, dar si unei colege sau prietene.",
+            "composition": "Contine: 6 Verdeata Aralia, 17 Trandafiri roz",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 20,
+        "productCode": "BUCHTR20",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img20.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img20_BS.jpg",
+        "title": "Buchet de 5 trandafiri rosii",
+        "price": "105",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-5-trandafiri-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 5 trandafiri rosii, un buchet plin de eleganta.Sfaturi care pot prelungi viata trandafirilor: - vaza in care puneti trandafirii trebuie sa fie foarte curata, spalata cu apa calda si detergent, pentru eliminarea bacteriilor; - apa trebuie schimbata cat mai des, daca se poate, zilnic; - stropiti trandafirii, din cand in cand, cu o ploaie de apa; - tulpinile trandafirilor trebuie taiate zilnic, cu aproximativ 1 cm, in unghi de 45 de grade, cu un cutit bine ascutit si curat; - folositi conservanti speciali pentru flori taiate; - puneti trandafirii in locuri racoroase, nu foarte luminoase!",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 21,
+        "productCode": "BUCHTR21",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img21.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img21_BS.jpg",
+        "title": "Buchet de 15 trandafiri roz",
+        "price": "269",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-trandafiri-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 trandafiri roz. Un buchet delicat, care sa aduca prospetimea si optimismul zilelor de primavara in petalele sale. Poate fi daruit fara nicio ocazie speciala, intr-o zi obisnuita, unei persoane deosebite care merita sa zambeasca mereu.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 22,
+        "productCode": "BUCHTR22",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img22.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img22_BS.jpg",
+        "title": "Buchet de 23 trandafiri rosii",
+        "price": "379",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-23-trandafiri-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest buchet de flori este perfect pentru a-ti arata latura romantica.",
+            "composition": "Contine: 5 Verdeata Ruscus, 6 Verdeata Salal, 23 Trandafiri rosu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 23,
+        "productCode": "BUCHTR23",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img23.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img23_BS.jpg",
+        "title": "Buchet de 7 trandafiri albi",
+        "price": "149",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-trandafiri-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 trandafiri albi, imaculati, simbolizand respect si dragoste, un mesaj de iubire sincera.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 24,
+        "productCode": "BUCHTR24",
+        "discount": "10",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img24.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img24_BS.jpg",
+        "title": "Buchet de 75 trandafiri portocalii",
+        "price": "1125",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-75-trandafiri-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 75 trandafiri portocalii, un buchet luminos si matasos care va umple camera de caldura.",
+            "composition": "Contine: 6 Verdeata Aralia, 75 Trandafiri portocaliu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 25,
+        "productCode": "BUCHTR25",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img25.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img25_BS.jpg",
+        "title": "Buchet de 15 trandafiri portocalii",
+        "price": "269",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-15-trandafiri-portocalii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 15 trandafiri portocalii, delicat si care sa-ti aduca zambetul, precum muzica lui Vivaldi .",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 26,
+        "productCode": "BUCHTR26",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img26.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img26_BS.jpg",
+        "title": "Buchet de 35 trandafiri galbeni",
+        "price": "559",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-trandafiri-galbeni",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 trandafiri galbeni, ca niste raze de soare in dragostea noastra, plini de fascinatie si entuziasm.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 27,
+        "productCode": "BUCHTR27",
+        "discount": "20",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img27.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img27_BS.jpg",
+        "title": "Buchet de 101 trandafiri rosii",
+        "price": "1599",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-101-trandafiri-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 101 trandafiri rosii, fastuos, un simbol al determinarii si increderii oferit in semn de recunostinta, respect si dragoste.Trandafirul este cea mai veche si cea mai cunoscuts plants ornamentals. Primii trandafiri, apropiati de speciile cunoscute astazi, sunt mentionati in China, in urma cu 5.000 de ani. De aici, s-au raspandit in India, apoi în Orientul Mijlociu. Istoria trandafirului este mai putin importanta, pentru fiecare femeie care are bucuria de a primi trandafiri, decat istoria trandafirilor ei, in vaza. De aceea, vom oferi cateva sfaturi care pot prelungi viata acestor flori minunate: - vaza in care puneti trandafirii trebuie sa fie foarte curata; - apa trebuie schimbata zilnic; - stropiti trandafirii, din cand in cand, cu o ploaie de apa; - tulpinile trandafirilor trebuie taiate zilnic, cu aproximativ 1 cm, in unghi de 45 de grade; - puneti trandafirii in locuri racoroase, nu foarte luminoase!",
+            "composition": "Contine: 101 trandafiri rosii",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

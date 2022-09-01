@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHMIN1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img1_BS.jpg",
+        "title": "Inima din 17 minirosa roz",
+        "price": "455",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Inima-din-17-minirosa-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Trandafirul roz inseamna fericire, gratie si dulce bucurie, fiind floarea emotiilor blande. Simbolizeaza totodata feminitatea, rafinamentul si eleganta. Minirosa sunt replici in miniatura ale trandafirilor. Se gasesc intr-o multitudine de culori si pot inveseli fiecare buchet sau aranjament prin florile delicate. Dimensiune: 30 cm (diametrul aranjamentului)",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHMIN2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img2_BS.jpg",
+        "title": "Buchet de 5 minirosa albi-roz",
+        "price": "125",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-5-minirosa-albi-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet alb-roz de 5 minirosa, o floare ce imbina sinceritatea si bucuria de a oferi o atentie persoanei dragi tie.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHMIN3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img3_BS.jpg",
+        "title": "Buchet de 7 minirosa albi-roz",
+        "price": "175",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-minirosa-albi-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet alb-roz de 7 minirosa, un buchet gingas, viu colorat ce poate infrumuseta ziua perechii tale intr-o clipa.",
+            "composition": "Contine: 7 Verdeata BearGrass, 7 Verdeata Salal, 6 Verdeata Aspidistra, 7 Minirosa alb cu ro",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHMIN4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img4_BS.jpg",
+        "title": "Buchet de 7 minirosa albi",
+        "price": "175",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-minirosa-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 minirosa alb ce simbolizeaza puritate si sinceritate, inducand totodata o stare de incantare si bine.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHMIN5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img5_BS.jpg",
+        "title": "Buchet de 7 minirosa galbeni",
+        "price": "175",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-minirosa-galbeni",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 minirosa galbeni, ideal daca vrei sa daruiesti cuiva un oment frumos.",
+            "composition": "Contine: 6 Verdeata Aspidistra, 7 Minirosa galben",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

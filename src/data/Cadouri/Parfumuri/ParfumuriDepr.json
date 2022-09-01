@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "productCode": "CADPAR1",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Parfumuri/img1.jpg",
+        "productImageBs": "/Product Images/CADOURI/Parfumuri/img1_BS.jpg",
+        "title": "Dolce & Gabbana The One 50 ml Parfum pentru femei",
+        "price": "475",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Dolce-&-Gabbana-The-One-50-ml-Parfum-pentru-femei",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs se poate comanda cu livrare in 2 h in Bucuresti, si cu livrare in 48 h la nivel national.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "CADPAR2",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Parfumuri/img2.jpg",
+        "productImageBs": "/Product Images/CADOURI/Parfumuri/img2_BS.jpg",
+        "title": "Guess Seductive- Eau de toilette pentru femei 75 ml",
+        "price": "175",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Guess-Seductive-Eau-de-toilette-pentru-femei-75-ml",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs se poate comanda cu livrare in 2 h in Bucuresti, si cu livrare in 48 h la nivel national",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "CADPAR3",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Parfumuri/img3.jpg",
+        "productImageBs": "/Product Images/CADOURI/Parfumuri/img3_BS.jpg",
+        "title": "Calvin Klein CK IN2U- eau de toilette 150 ml",
+        "price": "250",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Calvin-Klein-CK-IN2U-eau-de-toilette-150-ml",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs se poate comanda cu livrare in 2 h in Bucuresti, si cu livrare in 48 h la nivel national",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "CADPAR4",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Parfumuri/img4.jpg",
+        "productImageBs": "/Product Images/CADOURI/Parfumuri/img4_BS.jpg",
+        "title": "Versace Eros Pour Femme Apa de Parfum pentru femei 50 ml",
+        "price": "600",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Versace-Eros-Pour-Femme-Apa-de-Parfum-pentru-femei-50-ml",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs se poate comanda cu livrare in 2 h in Bucuresti, si cu livrare in 48 h la nivel national.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "CADPAR5",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Parfumuri/img5.jpg",
+        "productImageBs": "/Product Images/CADOURI/Parfumuri/img5_BS.jpg",
+        "title": "Nina Ricci L'Extase Apa de Parfum pentru femei 50 ml",
+        "price": "425",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Nina-Ricci-L'Extase-Apa-de-Parfum-pentru-femei-50-ml",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs se poate comanda cu livrare in 2 h in Bucuresti, si cu livrare in 48 h la nivel national.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "CADPAR6",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Parfumuri/img6.jpg",
+        "productImageBs": "/Product Images/CADOURI/Parfumuri/img6_BS.jpg",
+        "title": "J'Adore Dior 75 ML Parfum pentru femei",
+        "price": "650",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/J'Adore-Dior-75-ML-Parfum-pentru-femei",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs se poate comanda cu livrare in 2 h in Bucuresti, si cu livrare in 48 h la nivel national",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "CADPAR7",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Parfumuri/img7.jpg",
+        "productImageBs": "/Product Images/CADOURI/Parfumuri/img7_BS.jpg",
+        "title": "Thierry Mugler Alien Refillable 60 ML - Parfum pentru femei",
+        "price": "475",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Thierry-Mugler-Alien-Refillable-60-ML-Parfum-pentru-femei",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs se poate comanda cu livrare in 2 h in Bucuresti, si cu livrare in 48 h la nivel national.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "CADPAR8",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Parfumuri/img8.jpg",
+        "productImageBs": "/Product Images/CADOURI/Parfumuri/img8_BS.jpg",
+        "title": "Tom Ford Velvet Orchid 50 ML - Parfum pentru femei",
+        "price": "650",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Tom-Ford-Velvet-Orchid-50-ML-Parfum-pentru-femei",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs se poate comanda cu livrare in 2 h in Bucuresti, si cu livrare in 48 h la nivel national.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "CADPAR9",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Parfumuri/img9.jpg",
+        "productImageBs": "/Product Images/CADOURI/Parfumuri/img9_BS.jpg",
+        "title": "Lancome LA VIE EST BELLE 50 ML - Parfum pentru femei",
+        "price": "580",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Lancome-LA-VIE-EST-BELLE-50-ML-Parfum-pentru-femei",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs se poate comanda cu livrare in 2 h in Bucuresti, si cu livrare in 48 h la nivel national.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "CADPAR10",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Parfumuri/img10.jpg",
+        "productImageBs": "/Product Images/CADOURI/Parfumuri/img10_BS.jpg",
+        "title": "Apa de parfum Calvin Klein Contradiction, 100 ml",
+        "price": "199",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Apa-de-parfum-Calvin-Klein-Contradiction-100-ml",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs se poate comanda cu livrare in 2 h in Bucuresti, si cu livrare in 48 h la nivel national",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "CADPAR11",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Parfumuri/img11.jpg",
+        "productImageBs": "/Product Images/CADOURI/Parfumuri/img11_BS.jpg",
+        "title": "Apa de parfum Lacoste Pour Femme, 50 ml, Pentru Femei",
+        "price": "259",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Apa-de-parfum-Lacoste-Pour-Femme-50-ml-Pentru-Femei",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Acest produs se poate comanda cu livrare in 2 h in Bucuresti, si cu livrare in 48 h la nivel national.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

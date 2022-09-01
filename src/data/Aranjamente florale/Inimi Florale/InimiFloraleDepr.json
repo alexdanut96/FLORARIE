@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "productCode": "ARANJINIMI1",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Inimi Florale/img1.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Inimi Florale/img1_BS.jpg",
+        "title": "Aranjament floral - Femeia iubita",
+        "price": "265",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-floral-Femeia-iubita",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cate carti nu s-au scris despre si pentru femeia iubita? Cate tablouri nu s-au picat? Cate rochii nu au fost inventate? Cate melodii nu au fost compuse? era timpul si pentru un buchet special, creat pentru ea. Ofera-i aceste flori femeii iubite!",
+            "composition": "Acest aranjament contine 6 trandafiri albi, 3 minirosa roz si vas in forma de inima.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "ARANJINIMI2",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Inimi Florale/img2.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Inimi Florale/img2_BS.jpg",
+        "title": "Aranjament in forma de inima din 31 trandafiri rosii",
+        "price": "625",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-in-forma-de-inima-din-31-trandafiri-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Fa-o sa zambeasca intr-o zi speciala daruindu-i un aranjament in forma de inima din 31 trandafiri rosii ca focul. Trandafirii rosii sunt florile potrivite pentru exprimarea sentimentelor de iubire. Trandafirul simbolizeaza pasiunea si respectul de care se bucura cea care il primeste in ochii celui care-l ofera. Dimensiune: 30 cm (diametrul aranjamentului)",
+            "composition": "Contine: 31 Trandafiri rosu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "ARANJINIMI3",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Inimi Florale/img3.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Inimi Florale/img3_BS.jpg",
+        "title": "Aranjament floral - Pofta de dragoste",
+        "price": "205",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-floral-Pofta-de-dragoste",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cand ti-e pofta de dragoste, designerii nostri stiu o reteta excelenta: se iau nici mai mult, nici mai putin de 7 trandafiri roz, se amesteca bine cu phalenopsis violet si floricele de ceara, intr-un vas in forma de inimioara, pana cand compozitia devine perfecta.",
+            "composition": "Aranjamentul contine: 7 trandafiri roz, 1 orhidee Phalenopsis violet, 1 wax flower alba, vas in forma de inimioara.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "ARANJINIMI6",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Inimi Florale/img6.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Inimi Florale/img6_BS.jpg",
+        "title": "Aranjament in forma de inima cu 18 trandafiri rosii si 15 crizanteme albe",
+        "price": "559",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-in-forma-de-inima-cu-18-trandafiri-rosii-si-15-crizanteme-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aranjament cu 18 de trandafiri rosii si 15 crizanteme albe, o combinatie distinsa de puritate si iubire ce radiaza o caldura feminina prin culorile sale.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHTR8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de trandafiri/img8_BS.jpg",
+        "title": "Inima din 31 trandafiri roz",
+        "price": "625",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Inima-din-31-trandafiri-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Inima din 31 trandafiri roz. Vrei sa simta ca alaturi de tine viata ei este roz? Noi iti sugeram sa-i daruiesti o inima din 31 trandafiri roz. Parfumul florilor o vor face sa pluteasca intr-o lume roz, lipsita de griji, alaturi de iubitul ei. Aranjamentul floral presupune folosirea a 31 de trandafiri roz asezati in burete oasis in forma de inima.",
+            "composition": "Contine: 1 Verdeata BearGrass, 31 Trandafiri roz",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 1,
+        "productCode": "BUCHMIN1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de minirosa/img1_BS.jpg",
+        "title": "Inima din 17 minirosa roz",
+        "price": "455",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Inima-din-17-minirosa-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Trandafirul roz inseamna fericire, gratie si dulce bucurie, fiind floarea emotiilor blande. Simbolizeaza totodata feminitatea, rafinamentul si eleganta. Minirosa sunt replici in miniatura ale trandafirilor. Se gasesc intr-o multitudine de culori si pot inveseli fiecare buchet sau aranjament prin florile delicate. Dimensiune: 30 cm (diametrul aranjamentului)",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

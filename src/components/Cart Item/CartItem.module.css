@@ -1,0 +1,74 @@
+.image {
+    width: 125px;
+    margin-right: 10px;
+}
+
+.itemContainer {
+    /* border: solid; */
+    display: flex;
+}
+
+.quantityAndFinalPrice {
+    display: flex;
+    justify-content: space-between;
+}
+
+.itemQuantity {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+.itemContainerContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.addOrRemove>* {
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    width: 30px;
+    border-radius: 5px;
+    border: 1px solid #6363d9;
+    background-color: transparent;
+    cursor: pointer;
+    color: #5454d9;
+}
+
+.removeButton>* {
+    display: flex;
+    align-items: center;
+    color: white;
+    height: 30px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    color: black;
+}
+
+.addOrRemove>*:hover {
+    background-color: #eaeaea;
+    border: 1px solid #eaeaea;
+}
+
+.addOrRemove {
+    display: flex;
+    gap: 5px;
+}
+
+.price {
+    font-weight: bold;
+    color: red;
+}
+
+.bin {
+    font-size: 28px;
+}

@@ -1,0 +1,124 @@
+.container {
+    top: 10%;
+    position: fixed;
+    height: 70%;
+    background-color: white;
+    max-width: 450px;
+    min-width: 280px;
+    width: 100%;
+    /* border-left: 1px solid #cccccc; */
+    overflow: auto;
+    transition: 0.3s;
+    z-index: 5;
+    right: 0;
+    transform: translateX(100%);
+}
+
+.titleContainer {
+    position: fixed;
+    top: 0;
+    height: 10.3%;
+    width: 100%;
+    background-color: white;
+    max-width: 450px;
+    min-width: 280px;
+    /* border-left: 1px solid #cccccc; */
+    z-index: 5;
+    right: 0;
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-between;
+    transition: 0.3s;
+}
+
+.checkout {
+    position: fixed;
+    height: 20.3%;
+    width: 100%;
+    background-color: white;
+    max-width: 450px;
+    min-width: 280px;
+    /* border-left: 1px solid #cccccc; */
+    z-index: 5;
+    right: 0;
+    bottom: 0;
+    padding: 0 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: 0.3s;
+}
+
+.content {
+    padding: 0 10px 10px 10px;
+}
+
+.title {
+    position: sticky;
+    background-color: white;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 20px 0;
+    width: 100%;
+}
+
+.closeButton {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.itemContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.totalSumContainer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.totalSum {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.noResults {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.orderButtonContainer {
+    width: 100%;
+    margin-bottom: 20px;
+
+}
+
+.orderButton {
+    padding: 0;
+    border-color: transparent;
+    border-style: solid;
+    background-color: #559137;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 20px;
+    color: #f7f7f7;
+    border-radius: 50px;
+    margin-right: 25px;
+    width: 100%;
+}
+
+.orderButton:hover {
+    background-color: #47792e;
+}

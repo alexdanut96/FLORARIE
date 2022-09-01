@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "productCode": "ARANJCORON1",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img1.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img1_BS.jpg",
+        "title": "Coronita flori - Coronita premianti",
+        "price": "139",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coronita-flori-Coronita-premianti",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Surprinde pe cineva drag cu un buchet de flori sau un aranjament care sa ii insenineze ziua! Sfarsitul anului scolar si, mai ales, festivitatea de premiere vor fi printre cele mai frumoase amintiri ale copilului tau. Cumpara-i o coronita de care sa fie mandru, asa cum esti si tu de el!",
+            "composition": "Contine: 6 Verdeata Ruscus, 3 Hypericum rosii, 2 Orhidee albe, Dendrobium",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "ARANJCORON2",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img2.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img2_BS.jpg",
+        "title": "Coronita flori - Coronita ”Merite deosebite”",
+        "price": "105",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coronita-flori-Coronita-Merite-deosebite",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Iti mai amintesti cum te intorceai acasa, purtand cu mandrie coronita primita la sfarsitul anului scolar? Fa-i copilului tau o surpriza pe care nu o va uita niciodata, cumpara-i o coronita deosebita!",
+            "composition": "Contine: 5 Verdeata Ruscus, 2 Crizanteme albe, 2 Crizanteme galbene, 2 Solidago galbeni",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "ARANJCORON3",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img3.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img3_BS.jpg",
+        "title": "Coronita flori - Coronita pentru sfarsitul scolii",
+        "price": "159",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coronita-flori-Coronita-pentru-sfarsitul-scolii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cu siguranta se asteapta sa primeasca ceva ce stii ca-si doreste, pentru rezultatele frumoase de la scoala. O vei surprinde, insa, cu adevarat, daca ii vei darui ceva ce isi doreste in secret. Pentru sfarsitul scolii, indiferent de varsta ei, o coronita de frezii si minirosa, e cel mai interesant si elegant cadou pe care poti sa i-l faci.",
+            "composition": "Contine: 3 Frezii roz, 1 Gypsophila alb, 5 Minirosa roz",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "ARANJCORON4",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img4.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img4_BS.jpg",
+        "title": "Coronita flori - Coronita de vise",
+        "price": "100",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coronita-flori-Coronita-de-vise",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "I-ai citit povesti la culcare, in care totul e mult mai frumos decat in lumea reala? Ai facut-o sa viseze la un taram de basm, in care totul e perfect? E timpul sa-i daruiesti o zi perfecta si un cadou perfect.",
+            "composition": "Contine: 1 Frezii alb, 1 Gypsophila alb, 2 Minirosa roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "ARANJCORON5",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img5.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img5_BS.jpg",
+        "title": "Coronita flori - Coronita pentru printese",
+        "price": "115",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coronita-flori-Coronita-pentru-printese",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "E gingasa, e frumoasa, e o printesa. Ce poti sa-i oferi mai frumos decat o Coronita pentru printese? Freziile si cupele de minirosa roz inlocuiesc perfect pietrele pretioase.",
+            "composition": "Contine: 3 Frezii alb, 1 Gypsophila alb, 2 Minirosa roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "ARANJCORON6",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img6.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img6_BS.jpg",
+        "title": "Coronita flori - Copilaria perfecta",
+        "price": "119",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coronita-flori-Copilaria-perfecta",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Indiferent ca este un copil sau ca are inima de copil, de 1 Iunie sau la sfarsitul scolii, poti sa-i daruiesti cadoul copilariei perfecte - o coronita din flori parfumate si delicate, la care orice fata viseaza, inca din primii sai ani de viata.",
+            "composition": "Contine: 3 Frezii roz, 2 Minirosa roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "ARANJCORON7",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img7.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img7_BS.jpg",
+        "title": "Coronita flori - Cununita de flori",
+        "price": "105",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coronita-flori-Cununita-de-flori",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Pare o jucarie? Ei bine, in ultimii ani, coronitele de flori sunt cele mai populare accesorii feminine, care transforma orice tinuta intr-o tinuta chic. Iar de 1 Iunie pot fi purtate fara griji, chiar si pe strada, pentru ca, macar de Ziua Copilului, toti ne putem permite sa fim mai exuberanti. Dimensiune: 20 cm (diametru)",
+            "composition": "Contine: 1 Verdeata - 2 Crizanteme alb, 1 Hypericum rosu, 1 Minirosa roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "ARANJCORON8",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img8.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img8_BS.jpg",
+        "title": "Coronita flori - Coronita de 1 Iunie",
+        "price": "155",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coronita-flori-Coronita-de-1-Iunie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Nu stim de ce, dar toate fetele (micute sau maricute) iubesc cununile de flori. Mai ales cand ele combina florile cu dantela si cu materialele vintage. Daca vrei sa-i faci o surpriza, de 1 Iunie, trimite-i o coronita!",
+            "composition": "Contine: 1 Verdeata - 3 Frezii alb, 1 Gypsophila alb, 1 Hypericum rosu, 1 Lisianthus alb, 1 Minirosa roz, 1 Minirosa portocaliu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "ARANJCORON9",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img9.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img9_BS.jpg",
+        "title": "Coronita flori - O lume minunata",
+        "price": "125",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coronita-flori-O-lume-minunata",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "O lume minunata e lumea in care facem mai mult din ceea ce ne place, daruim mai mult si avem mai multa incredere in puterea dragostei noastre. O lume minunata e o lume care seamana cu cea a copiilor. De 1 Iunie, alinta-ti copilul sau copilul din tine, cu un accesoriu de basm!",
+            "composition": "Contine: 1 Verdeata - 1 Frezii alb, 1 Hypericum rosu, 1 Lisianthus alb, 1 Minirosa roz, 1 Minirosa portocaliu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "ARANJCORON10",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img10.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img10_BS.jpg",
+        "title": "Coronita flori - Coronita cu felicitari",
+        "price": "169",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coronita-flori-Coronita-cu-felicitari",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un an intreg s-a straduit, a invatat si a dovedit ca este un elev deosebit. Merita felicitari si o coronita speciala, creata de designeri profesionisti. Ofera-i-o, la festivitatea de sfarsit de an scolar!",
+            "composition": "Contine: 1 Verdeata Eucalipt, 3 Frezii multicolor, 3 Orhidee alb, Specia: Dendrobium, 2 Minirosa galben, 1 Santini verde, 1 Bujor roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "ARANJCORON11",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img11.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Coronite flori/img11_BS.jpg",
+        "title": "Coronita flori - Cel mai bun elev",
+        "price": "155",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Coronita-flori-Cel-mai-bun-elev",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Pentru cei mai buni elevi, am pregatit, bineinteles, cea mai frumoasa coronita. Suntem siguri ca si copilul tau o merita si o va primi, cu toata mandria. Comanda-o cat mai repede, pentru el!",
+            "composition": "Contine: 1 Alstroemeria mov, 1 Verdeata verde, Specia: Eucalyptus Baby Blue 200 GRAM, 3 Frezii lila, 1 Lisianthus mov, 1 Lavanda mov, 1 Santini verde, 1 Bujor roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

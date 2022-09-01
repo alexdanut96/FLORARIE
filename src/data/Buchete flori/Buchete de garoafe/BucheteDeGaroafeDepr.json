@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHGAR1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img1_BS.jpg",
+        "title": "Buchet de 29 garoafe rosii",
+        "price": "260",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-29-garoafe-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 29 garoafe rosii poate fi oferit drept o dovada de pretuire si de recunostinta fata de persoana care le primeste. Buchetul este asortat si cu verdeata.",
+            "composition": "Contine: 29 Garoafe rosu, Specia: Dianthus, 5 Verdeata Aralia, 7 Verdeata Salal,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHGAR2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img2_BS.jpg",
+        "title": "Buchet cu garoafe si trandafiri - Toata dragostea",
+        "price": "289",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-cu-garoafe-si-trandafiri-Toata-dragostea",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Depaseste superstitiile legate de garoafe. Sunt rezistemte, delicate si foarte frumoase!Trimite-i un buchet rosu, pasional, din 30 de garoafe rosii si un trandafir rosu pentru a o cuceri! Apreciate de secole pentru luminozitatea culorilor si pentru rezistenta, garoafele sunt flori inconfundabile. Fiind la fel de cunoscute precum trandafirii si avand semnificatii apropiate, aceaste flori sunt prezente la majoritatea ocaziilor de peste an, dar si din lume, fie ca este vorba de ceremonii sau sarbatori.Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Contine: 30 Garoafe rosu, Specia: Dianthus, 1 Trandafiri rosu,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHGAR3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img3_BS.jpg",
+        "title": "Buchet de 39 garoafe rosii",
+        "price": "339",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-39-garoafe-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 39 garoafe rosii ce iti trezeste numai sentimente de iubire si bunatate, de emotie dulce si liniste. Buchetul este asortat si cu verdeata.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHGAR4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img4_BS.jpg",
+        "title": "Buchet de 39 garoafe albe",
+        "price": "339",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-39-garoafe-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 39 garoafe albe, un buchet ce simbolizeaza simplitatea si eleganta.",
+            "composition": "Contine: 39 Garoafe alb, Specia: Dianthus, 5 Verdeata Aspidistra,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHGAR5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img5_BS.jpg",
+        "title": "Buchet de 19 garoafe multicolore",
+        "price": "199",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-garoafe-multicolore",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 garoafe colorate, o paleta coloristica ce isi face simtita prezenta prin eleganta.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHGAR6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img6_BS.jpg",
+        "title": "Buchet de 13 garoafe rosii",
+        "price": "149",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-13-garoafe-rosii",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet elegant din 13 garoafe rosii asortate cu verdeata, pentru o femeie romantica. Acestea pot fi oferite ca semn al iubirii si admiratiei.",
+            "composition": "Contine: 13 Garoafe rosu, Specia: Dianthus, 7 Verdeata Aspidistra,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHGAR7",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img7_BS.jpg",
+        "title": "Buchet de 29 garoafe albe",
+        "price": "260",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-29-garoafe-albe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 29 garoafe albe, un buchet dulce, inocent si care exprima incredere si devotament.",
+            "composition": "Contine: 5 Garoafe Dianthus, 29 Garoafe alb, Specia: Dianthus, 15 Verdeata Salal,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHGAR8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img8_BS.jpg",
+        "title": "Buchet de 29 garoafe roz",
+        "price": "260",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-29-garoafe-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 29 garoafe roz, perfect pentru o doamna sau domnisoara eleganta si sofisticata.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHGAR9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img9_BS.jpg",
+        "title": "Buchet de 39 garoafe multicolore",
+        "price": "339",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-39-garoafe-multicolore",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 39 garoafe multicolore, simplu, un veritabil elixir al fericirii, ce ne indeamna sa vibram de optimism si buna dispozitie.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "BUCHGAR10",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img10.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de garoafe/img10_BS.jpg",
+        "title": "Buchet de 39 garoafe roz",
+        "price": "339",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-39-garoafe-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Pur si simplu superb, buchetul de 39 garoafe roz sunt o cale sigura de a-ti arata grija si aprecierea.",
+            "composition": "Contine: 39 Garoafe roz, Specia: Dianthus, 5 Verdeata Aralia,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

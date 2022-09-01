@@ -1,0 +1,43 @@
+.cadouri {
+    grid-area: c;
+}
+
+@media all and (min-width: 1024px) {
+    .maxSize {
+        display: block;
+    }
+
+    .minSize {
+        display: none;
+    }
+}
+
+@media all and (max-width: 1023px) {
+    .maxSize {
+        display: none;
+    }
+
+    .minSize {
+        display: block;
+    }
+}
+
+@media all and (max-width: 639px) {
+    .popularCategoryMinSize {
+        display: flex;
+    }
+
+    .popularCategoryMaxSize {
+        display: none;
+    }
+}
+
+@media all and (min-width: 640px) {
+    .popularCategoryMinSize {
+        display: none;
+    }
+
+    .popularCategoryMaxSize {
+        display: flex;
+    }
+}

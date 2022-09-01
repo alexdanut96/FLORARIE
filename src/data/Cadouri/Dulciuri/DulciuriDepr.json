@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "productCode": "CADDUL1",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img1.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img1_BS.jpg",
+        "title": "Premiere Mini - editie de Craciun",
+        "price": "125",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Premiere-Mini-editie-de-Craciun",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "O cutie eleganta din lemn, cu 10 praline din cea mai buna ciocolata, umplute cu creme delicioase. Dimensiuni in ambalaj: 145x117x37mm",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "CADDUL2",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img2.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img2_BS.jpg",
+        "title": "Chocotelegram in cutie plic - Ciocolata personalizata",
+        "price": "125",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Chocotelegram-in-cutie-plic-Ciocolata-personalizata",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cea mai dulce metoda pentru a spune ce simti: chocotelegram! In locul unei banale felicitari, trimite o telegrama din ciocolata cuiva drag! Poti alege din trei mesaje: - La multi ani! - Te iubesc - O zi dulce Telegrama din ciocolata cu lapte si ciocolata alba, cu text personalizat, este ambalata intr-o cutie de carton in forma de plic. Dimensiune in ambalaj: 315x112x27mm",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "CADDUL3",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img3.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img3_BS.jpg",
+        "title": "Bomboane I love Milka",
+        "price": "45",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Bomboane-I-love-Milka",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Daruieste-i ceva dulce alaturi de buchetul de flori preferat! Bomboanele I love Milka ii vor indulci ziua si o vor face fericita! Gramaj: 110 g",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "CADDUL4",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img4.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img4_BS.jpg",
+        "title": "Bomboane Merci",
+        "price": "59",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Bomboane-Merci",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Bomboanele Merci din ciocolata vor fi intotdeauna o ocazie de a darui nu numai ceva delicios ci si sentimente de multumire si bucurie. Pot fi trimise alaturi de un superb buchet de flori in orice ocazie, de la zile de nastere pana la evenimente speciale si chiar ... fara o ocazie :) Gramaj: 250 g",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "CADDUL5",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img5.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img5_BS.jpg",
+        "title": "Bomboane Raffaello",
+        "price": "39",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Bomboane-Raffaello",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Bomboane Raffaello delicioase, o surpriza dulce cu efect de lunga durata. Sfere de ciocolata alba trase prin fulgi de nuca de cocos, si migdale prajite, combinatia perfecta ce va insoti un buchet magnific de flori, garantia unei seri romantice si pline de pasiune. Gramaj: 150 g",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "CADDUL6",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img6.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img6_BS.jpg",
+        "title": "Tort cu Fructe",
+        "price": "249",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Tort-cu-Fructe",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Tortul cu fructe are o consistenta racoritoare si fina. Indiferent de sezon tortul cu fructe va ofera acelasi gust si prospetime, intr-o reteta fina, plina de savoare.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "CADDUL7",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img7.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img7_BS.jpg",
+        "title": "Tort de ciocolata",
+        "price": "259",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Tort-de-ciocolata",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Tortul poate fi diferit fata de poza de prezentare in functie de zona de livrare.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "CADDUL8",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img8.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img8_BS.jpg",
+        "title": "Bomboane Toffifee",
+        "price": "39",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Bomboane-Toffifee",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Nimic nu poate fii mai dulce decat o supriza care contine flori si Toffifee. Dragostea e dulce, noi vrem sa o facem si mai dulce!",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "CADDUL9",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img9.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img9_BS.jpg",
+        "title": "Chocotelegram in cutie de lemn - Ciocolata personalizata",
+        "price": "129",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Chocotelegram-in-cutie-de-lemn-Ciocolata-personalizata",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Se spune ca ciocolata nu cere explicatii, ciocolata intelege. Asadar, dar ai un mesaj de transmis, poti sa lasi ciocolata sa il spuna pentru tine! Am pregatit ciocolata cu mesaj, pentru iubitorii de dulciuri si surprize. Poti alege unul dintre cele trei mesaje prestabilite: - La multi ani! - Te iubesc - O zi dulce Telegrama din ciocolata cu lapte si ciocolata alba, cu text personalizat, este ambalata intr-o cutie de lemn personalizata. Dimensiune cutie: 315x115x25mm",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "CADDUL10",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img10.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img10_BS.jpg",
+        "title": "Chocotelegram in cutie plic - Ai fost cuminte?",
+        "price": "99",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Chocotelegram-in-cutie-plic-Ai-fost-cuminte?",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Telegrama din ciocolata cu lapte si ciocolata alba, cu text personalizat, este ambalata intr-o cutie de carton in forma de plic. Dimensiune in ambalaj: 315x112x27mm",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "CADDUL11",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img11.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img11_BS.jpg",
+        "title": "Tort de Bezea Fructe de Padure",
+        "price": "269",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Tort-de-Bezea-Fructe-de-Padure",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Contine bezea, crema de mascarpone, capsuni, zmeura, afine, coacaze rosii, citrice. Combinatia de fructe din torturile noastre variaza in functie de sezon si disponibilitate. Portia standard pentru o persoana este de 120 - 150 de grame. Tortul de Bezea se pastreaza la frigider la temperaturi intre 2 si 4 grade C. Toate torturile sunt produse in ziua livrarii si nu contin conservanti, amelioratori sau aditivi. Recomandam consumul in aceeasi zi si nu mai mult de 48 de ore de la data comenzii.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "CADDUL12",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img12.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img12_BS.jpg",
+        "title": "Tort de Bezea Ciocolata",
+        "price": "269",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Tort-de-Bezea-Ciocolata",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Contine bezea, crema ciocolata, fructe, diverse nuci. Combinatia de fructe din torturile noastre variaza in functie de sezon si disponibilitate. Portia standard pentru o persoana este de 120 - 150 de grame. Tortul de Bezea se pastreaza la frigider la temperaturi intre 2 si 4 grade C. Toate torturile sunt produse in ziua livrarii si nu contin conservanti, amelioratori sau aditivi. Recomandam consumul in aceeasi zi si nu mai mult de 48 de ore de la data comenzii.Toate torturile sunt produse in ziua livrarii si nu contin conservanti, amelioratori sau aditivi. Recomandam consumul in aceeasi zi si nu mai mult de 48 de ore de la data comenzii.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "CADDUL13",
+        "discount": "",
+        "productImage": "/Product Images/CADOURI/Dulciuri/img13.jpg",
+        "productImageBs": "/Product Images/CADOURI/Dulciuri/img13_BS.jpg",
+        "title": "Santas & Trees Mini Figurine",
+        "price": "119",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Santas-si-Trees-Mini-Figurine",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Set de 24 mini-ciocolate în forme inedite de Craciun ambalate in cutie elegantă. Dimensiuni in ambalaj: 223x177x30mm",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

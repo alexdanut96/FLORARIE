@@ -1,0 +1,136 @@
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+.bestSellerCarousel {
+    display: none;
+}
+
+.title {
+    display: none;
+}
+
+@media screen and (max-width: 639px) {
+    .title {
+        display: block;
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .bestSellerCarousel {
+        display: block;
+    }
+
+    .sliderContainer {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        align-items: stretch;
+        line-height: 1.15;
+        padding-right: 0;
+        /* border: solid; */
+    }
+
+    .sliderSection {
+        display: flex;
+        width: 100%;
+        position: relative;
+        padding-bottom: 2rem;
+        align-items: center;
+        /* border: solid; */
+    }
+
+    .slidesContainer {
+        display: block;
+        overflow: hidden;
+        width: 100%;
+        /* z-index: 2; */
+        /* border: solid; */
+    }
+
+    .slides {
+        display: flex;
+        padding: 0;
+        margin: 0;
+        width: 1200%;
+        position: relative;
+        transform: translateX(-2.08333%);
+        /* left: -7.14286%; */
+    }
+
+    .leftButton {
+        position: absolute;
+        left: 0;
+        background: transparent;
+        margin: unset;
+        padding: unset;
+        outline: 0;
+        display: none;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+        border-width: 0;
+        border-style: none;
+        cursor: pointer;
+        overflow: visible;
+    }
+
+    .rightButton {
+        position: absolute;
+        right: 0;
+        background: transparent;
+        margin: unset;
+        padding: unset;
+        outline: 0;
+        display: none;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+        border-width: 0;
+        border-style: none;
+        cursor: pointer;
+        overflow: visible;
+    }
+
+    .dotsSlider {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        /* border: solid; */
+    }
+
+    .dotsSlider>div {
+        height: 0.625rem;
+        width: 0.625rem;
+        border: 1px solid #aaaa;
+        border-radius: 100%;
+        margin-right: 0.25rem;
+        margin-left: 0.25rem;
+        cursor: pointer;
+        background-color: none;
+    }
+
+    .dotOne,
+    .dotTwo,
+    .dotThree,
+    .dotFour,
+    .dotFive,
+    .dotSix,
+    .dotSeven,
+    .dotEight,
+    .dotNine,
+    .dotTen {
+        display: flex;
+    }
+}

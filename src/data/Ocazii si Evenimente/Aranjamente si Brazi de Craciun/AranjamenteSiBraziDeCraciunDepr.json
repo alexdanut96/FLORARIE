@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "productCode": "EVENCRACIUN1",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img1.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img1_BS.jpg",
+        "title": "Craciun Fericit!",
+        "price": "239",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Craciun-Fericit",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Decembrie este luna cadourilor si a sarbatorilor. Daruieste-le celor dragi gandurile tale frumoase, impreuna cu un aranjament floral adus special de Moșul! In functie de stoc, vasul poate fi diferit fata de cel din imagine",
+            "composition": "Contine: 3 Trandafiri rosii",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "EVENCRACIUN2",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img2.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img2_BS.jpg",
+        "title": "Poveste de Craciun",
+        "price": "305",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Poveste-de-Craciun",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Orice poveste frumoasa e si despre cadouri magice, care aduc o bucurie imensa. Cu atat mai mult, Povestea de Craciun.",
+            "composition": "Contine: 1 Crizantema alba, 1 Gerbera alba, 2 Hypericum rosii, 1 Minirosa alba, 1 Minirosa rosie, 1 Santini verde",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "EVENCRACIUN3",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img3.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img3_BS.jpg",
+        "title": "Buchet de flori - Buchet de Craciun",
+        "price": "285",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Buchet-de-Craciun",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Daruieste un buchet special de Mos Craciun si adu zambetul pe buzele celor dragi! Alege un buchet care sa inspire atmosfera deosebita a zilelor de iarna.",
+            "composition": "Contine: 2 Alstroemeria galbene, 3 Hypericum rosii, 5 Trandafiri galbeni, 2 Minirosa rosii",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "EVENCRACIUN4",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img4.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img4_BS.jpg",
+        "title": "Aranjament de Craciun cu anason",
+        "price": "255",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-de-Craciun-cu-anason",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aroma de Craciun, brad si anason. Cea mai inedita combinatie, alaturi de flori, pe masa de Craciun. Forma si culoarea vasului pot arata diferit in functie de zona de livrare.",
+            "composition": "Acest aranjament contine: 3 mini trandafiri rosii, 3 cupe cimbidium galben, 3 portocale întregi, 2 fire ilex, 3 conuri,vas",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "EVENCRACIUN5",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img5.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img5_BS.jpg",
+        "title": "Aranjament de flori de Craciun si ursulet",
+        "price": "345",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-de-flori-de-Craciun-si-ursulet",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Sa ne bucuram de flori, de culori, de brad, dar si de... copilarie! Ofera un aranjament de flori in spiritul Craciunului si un ursulet de plus, pentru a da o tenta jucausa cadoului! Forma si culoarea vasului pot arata diferit in functie de zona de livrare. Jucarie de plus sub forma unui ursulet, cel mai mic din categoria sa, dar cu inima cea mai mare, un aducator de zambete. Produsul este recomandat copiilor de peste 3 ani.Fotografiile produselor au caracter strict informativ si pot diferi în culoare şi aspect fata de fotografie.",
+            "composition": "3 fire minirosa rosi, 3 cupe cymbidium, 2 hypericum rosu, leucospermum, gerbera rosie, felii de lamaie decorativa, licheni, crengute, brad natural, accesorii de Craciun si vas ceramica.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "EVENCRACIUN6",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img6.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img6_BS.jpg",
+        "title": "Buchet de flori - Caldura Craciunului",
+        "price": "399",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Caldura-Craciunului",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Daca nu esti aproape de cei dragi de sarbatori, fa asa incat sa ii invalui caldura Craciunului.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "EVENCRACIUN7",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img7.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img7_BS.jpg",
+        "title": "Aranjament floral - Craciun fericit!",
+        "price": "289",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-floral-Craciun-fericit",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Ornithogalum, sau Steaua din Bethleem, este o floare ornamentala perfecta de Craciun. Simbolistica ei este usor de dedus din insasi denumirea pe care o poarta. In plus, este foarte rezistenta si ramane proaspata pentru mult timp. Asa ca, de Sarbatori, iti recomandam sa-ti bucuri partenerii si colegii cu un aranjament “Craciun fericit!”. Dimensiuni: 30 cm (inaltime) - 20 cm (diametrul aranjamentului) *In perioada august - septembrie, stocul orhideei cymbidium este limitat.",
+            "composition": "Acest aranjament contine: 2 anthurium mov, 1 anthurium alb, 3 cymbidium verde, 3 brunia, 5 craspedia, 2 minirosa alb si 1 ilex mov.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "EVENCRACIUN8",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img8.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img8_BS.jpg",
+        "title": "Buchet ”Craciun cu bucurie”",
+        "price": "325",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-Craciun-cu-bucurie",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Pentru ca vine Sarbatoarea bucuriei, pentru ca cel mai important moment al cadourilor de peste an trebuie sarbatorit cu un cadou special, am creat buchetul ”Craciun cu bucurie”. Un buchet simplu, de iarna, si un dar plin de semnificatii - calele si crinii nu sunt doar niste flori foarte elegante si parfumate, ci si un simbol cunoscut al regalitatii. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Acest buchet este realizat din: 2 crin albi, 3 cale albe, 6 craspedia, 5 santini, 3 minirosa alba, 3 cymbidium alb, verdeata: eucalipt.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "EVENCRACIUN9",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img9.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img9_BS.jpg",
+        "title": "Buchet de flori - Cel mai bun Craciun",
+        "price": "265",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Cel-mai-bun-Craciun",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Ce-i mai bine, de Craciun, decat a fi alaturi de cei dragi? Nimic nu se compara cu dragostea si bucuria impartasita. Asa ca, oricat de departe ai fi, poti sa-i faci Sarbatorile mai fericite, foarte simplu - trimitandu-i tot Ce-i mai bun, de Craciun. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Acest buchet este realizat din: 5 trandafiri albi, 2 trachelium albi, 4 hypericum verde, 2 skimmia, 3 minirosa albi, 1 verdeata, 3 scortisoara",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "EVENCRACIUN10",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img10.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img10_BS.jpg",
+        "title": "Buchet de flori - Miracolul de Craciun",
+        "price": "285",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Miracolul-de-Craciun",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Noi credem in miracole - in miracolele de zi cu zi, dar, mai ales, in miracolul de Craciun. Si suntem siguri ca acest buchet de flori, in care spiritul Craciunului este atat de prezent, va aduce un miracol si in viata celor care il vor primi. Ba chiar si in viata celor care-l vor darui! Comanda-l pentru cineva care are nevoie de un miracol! Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Acest buchet este realizat din: 3 trandafiri albi, 3 cale albe, 3 hypericum verde, 3 greentrix, 1 trachelium, 3 batoane de scortisoara, 1 ilex, 3 minigerbera albe, 2 brunia, verdeata - pin",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "EVENCRACIUN11",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img11.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img11_BS.jpg",
+        "title": "Buchet de flori - Emotia Craciunului",
+        "price": "220",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Emotia-Craciunului",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Familie, momente frumoase, fulgi mari de zapada si stelute colorate - de la cel mai mic, pana la cel mai important detaliu, Craciunul este plin de emotie. Ca si acest buchet, pe care poti sa-l comanzi pentru cineva de departe sau (de ce nu?) pentru masa de Craciun pe care o pregatesti pentru familia ta. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Acest buchet este realizat din: 5 trandafiri albi, 4 lisianthus albe, 3 hypericum rosu, 3 minigerbera albe, verdeata: eucalipt, parvifolia, decoratiune: steluta",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "EVENCRACIUN12",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img12.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img12_BS.jpg",
+        "title": "Buchet de flori In spiritul Craciunului",
+        "price": "299",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-In-spiritul-Craciunului",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Te gandesti sa trimiti celor dragi un buchet de sarbatori? De ce sa nu alegi unul in spiritul Craciunului? Cu globuri, brad, felii de lamaie uscate si flori delicate. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului)",
+            "composition": "Acest buchet este compus din: amarilis alb, 3 gerbera alba, 3 trachelium alb, 5 craspedia, 3 bouvardia alba, solidago, 2 eryngium, 2 ilex galben, accesorii de Craciun, brad, lana, lamai deshidratate si verdeata.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "EVENCRACIUN13",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img13.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img13_BS.jpg",
+        "title": "Aranjament de Craciun alb-rosu",
+        "price": "345",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-de-Craciun-alb-rosu",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Albul zapezii si rosul caracteristic Craciunului intr-o cutie cu cel mai frumos cadou: flori si bucurie. Gata de livrat in doua ore, catre cei dragi. Forma si culoarea cutiei pot arata diferit in functie de zona de livrare.",
+            "composition": "Contine: 1 Cutie si burete, 1 Amaryllis rosu, 3 Gerbera rosu, 3 Hypericum rosu, 5 Trandafiri alb, 4 Minirosa alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 14,
+        "productCode": "EVENCRACIUN14",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img14.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img14_BS.jpg",
+        "title": "Aranjament de Craciun cu bumbac",
+        "price": "249",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-de-Craciun-cu-bumbac",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Craciun alb, cu zapada? Ce ar fi mai potrivit decat un aranjament cu flori de bumbac si trandafiri albi, care sa iti amineasca de zapada Craciunului de basm?Acest aranjament este compus din: 2 trandafiri, 2 brunia, 3 cupe de bumbac, 1 eryngium, 1 ornithogalum, vas de ceramica si ornamente decorative de Craciun. Decoratiunile pot diferi in functie de stocul disponibil. Diametru 20cm/ Inaltime 20cm",
+            "composition": "Acest aranjament este compus din: 2 trandafiri, 2 brunia, 3 cupe de bumbac, 1 eryngium, 1 ornithogalum, vas de ceramica si ornamente decorative de Craciun.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 15,
+        "productCode": "EVENCRACIUN15",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img15.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img15_BS.jpg",
+        "title": "Buchet de Craciun cu ilex si trandafiri",
+        "price": "199",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-Craciun-cu-ilex-si-trandafiri",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aroma de Craciun si de trandafiri! Buchet aromat cu brad, tuia, scortisoara si portocale uscate. Decoratiunile pot diferi in functie de stocul disponibil. Diametru 20cm Inaltime 20cm Forma si culoarea vasului pot arata diferit in functie de zona de livrare.",
+            "composition": "Acest aranjament este compus din: 7 trandafiri rosii, 1 ilex, 2 leucadendron, decoratiuni de Craciun",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 16,
+        "productCode": "EVENCRACIUN16",
+        "discount": "",
+        "productImage": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img16.jpg",
+        "productImageBs": "/Product Images/OCAZII SI EVENIMENTE/Aranjamente & Brazi de Craciun/img16_BS.jpg",
+        "title": "Buchet de Craciun cu trandafiri",
+        "price": "245",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-Craciun-cu-trandafiri",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de Craciun cu brad, flori albe, eucalipt si conuri: un Craciun alb si parfumat! Decoratiunile pot diferi in functie de stocul disponibil. Diametru 20cm Inaltime 20cm Forma si culoarea vasului pot arata diferit in functie de zona de livrare.",
+            "composition": "Contine: 5 Lisianthus alb, 5 Trandafiri alb, 2 Brunia verde,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

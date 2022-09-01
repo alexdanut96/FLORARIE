@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "productCode": "ARANJCOR1",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img1.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img1_BS.jpg",
+        "title": "Aranjament floral Extravaganza",
+        "price": "325",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-floral-Extravaganza",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Ofera-i un aranjament floral deosebit . Spune-i ca e unica si ca o apreciezi! *In perioada august - septembrie, stocul orhideei cymbidium este limitat.",
+            "composition": "Acest aranjament contine: 4 green tricks, 3 cupe orhidee cymbidium alb, 3 hipericum verde, 5 cale albe, 2 minirosa albe, 4 orhidee mokara grena, vas din ceramica, verdeata.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "ARANJCOR2",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img2.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img2_BS.jpg",
+        "title": "Aranjament corporate",
+        "price": "220",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-corporate",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aranjament corporate pentru front office.Un aranjament corporate impunator, ideal pentru front office. Forma si culoarea vasului pot fi diferite, in functie de stoc.",
+            "composition": "Acest aranjament business rezista pana la 2 saptamani si contine 2 heliconia, 3 anthurium alb, 2 leucospermum, 2 orhidee dendrobium verzi, verdeata si vas de ceramica.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "ARANJCOR3",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img3.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img3_BS.jpg",
+        "title": "Aranjament corporate in cos",
+        "price": "235",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-corporate-in-cos",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aranjament corporate in cos pentru firma ta.Aranjament corporate in cos, un aranjament impunator pentru un sediu elegant cu incaperi inalte si spatioase.",
+            "composition": "Acest aranjament rezista pana la 2 saptamani si contine 2 heliconia, 2 crini roz, 3 anthurium rosu, 3 leucadendron, verdeata si cos de rachita.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "ARANJCOR4",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img4.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img4_BS.jpg",
+        "title": "Aranjament corporate exotic",
+        "price": "199",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-corporate-exotic",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Aranjament corporate exotic pentru firma ta.Aranjament corporate exotic si elegant, perfect pentru a un aer extravagant oricarui birou.",
+            "composition": "Acest aranjament rezista pana la 2 saptamani si contine 1 ginger, 3 hipericum rosu, 2 dendrobium verde, 2 anthurium verde, verdeata si vas.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "ARANJCOR5",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img5.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img5_BS.jpg",
+        "title": "Cos corporate",
+        "price": "135",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Cos-corporate",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cos corporate ideal pentru firma ta.Un cos corporate clasic, care exprima sinceritate, respect si seriozitate. Dimensiune aranjament: 20 cm (inaltime) - 20 cm (diametru) *In perioada august - septembrie, stocul orhideei cymbidium este limitat.",
+            "composition": "Contine: 1 Cos mic, 2 Anthurium verde, 5 Verdeata BearGrass, 5 Verdeata Salal, 5 Verdeata Aspidistra, 3 Orhidee Cymbidium Cupa verde, Specia: Cymbidium,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "ARANJCOR6",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img6.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img6_BS.jpg",
+        "title": "Cos corporate cu orhidee si trandafiri",
+        "price": "195",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Cos-corporate-cu-orhidee-si-trandafiri",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Cos corporate cu orhidee si trandafiriUn cos corporate cu orhidee si trandafiri ce va aduce zambete si voie buna in orice incapere. Dimensiune aranjament: 18 cm (inaltime) - 15 cm (diametru) *In perioada august - septembrie, stocul orhideei cymbidium este limitat.",
+            "composition": "Contine: 1 Cos mic, 7 Verdeata Salal, 3 Orhidee Cymbidium Cupa galben, Specia: Cymbidium, 3 Orhidee portocaliu, Specia: Mokara, 3 Trandafiri galben, 1 Solidago galben",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "ARANJCOR7",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img7.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img7_BS.jpg",
+        "title": "Aranjament floral Eleganta",
+        "price": "315",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-floral-Eleganta",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "CeUn buchet din flori sacre, cu 5 trandafiri rosii pasionali, 5 hypericum rosu, 7 alstroemeria grena intr-un vas de sticla elegant, pentru cea mai importanta femeie din viata ta.",
+            "composition": "Contine: 1 Vas, 7 Alstroemeria rosii, 5 Verdeata Aspidistra, 5 Hypericum rosii, 5 Trandafiri rosii",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "ARANJCOR8",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img8.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img8_BS.jpg",
+        "title": "Aranjament floral pentru sef",
+        "price": "315",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-floral-pentru-sef",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Arata-i respectul tau, oferindu-i un aranjament special, din flori deosebite! Vasul poate sa difere in functie de zona/stocul disponibil.",
+            "composition": "Aranjamentul contine: 3 leucospermum rosu,4 mokara grena, 3 cala mango,3 cupe cymbidum portocaliu, 3 hipericum rosu, 2 mini rosa portocalii,burete, verdeata, vas ceramica negru.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "ARANJCOR9",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img9.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img9_BS.jpg",
+        "title": "Aranjament floral pentru sefa",
+        "price": "405",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-floral-pentru-sefa",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un aranjament culori calde, stralucitoare si puternice care ii va arata sefei tale cat de mult o pretuiesti! Vasul poate sa difere in functie de stocul disponibil.Dimensiune aranjament: 20 cm (inaltime) - 15 cm (diametru) *In perioada august - septembrie, stocul orhideei cymbidium este limitat.",
+            "composition": "Aranjamentul contine: 1 bambus, 5 trandafiri rosii, 3 cupe cymbidium maro, 5 green tricks, 4 mini rosa galbeni, 5 frezii rosii, 3 cale portocalii, 4 hipericum verde, vas ceramica, verdeata.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 10,
+        "productCode": "ARANJCOR10",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img10.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img10_BS.jpg",
+        "title": "Buchet de flori - Melancolie de toamna",
+        "price": "235",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Melancolie-de-toamna",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un cantec de dragoste, mana ei tinand strans mana ta... iti mai amintesti de fiecare toamna petrecuta impreuna cu ea? Aminteste-i si ei!",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 11,
+        "productCode": "ARANJCOR11",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img11.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img11_BS.jpg",
+        "title": "Flori business - Prosperitate",
+        "price": "235",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Flori-business-Prosperitate",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Nu credem in superstitii, dar suntem convinsi ca plantele pot influenta succesul unei persoane sau companii prin simplu fapt ca aduc o stare de bine. Bambusul este recunoscut pentru efectele pozitive pe care le are asupra psihicului, asa ca un aranjament Prosperitate va schimba, cu siguranta, in bine dispozitia angajatilor sau partenerilor dumneavoastra.Acest aranjament contine: bambus, orhidee cymbidium, anthurium verde, leucadendron, proteea si vas. Dimensiuni: 30 cm (inaltime) - 20 cm (diametrul aranjamentului) *In perioada august - septembrie, stocul orhideei cymbidium este limitat. **Vasul poate fi diferit in functie de stocul disponibil.",
+            "composition": "Contine: 1 Vas, 1 Anthurium verde, 3 Orhidee lila, Specia: Cymbidium, 1 Protea roz, Specia: Protea Silvia, 1 Bambus la fir verde, 2 Leucadendron verde,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 12,
+        "productCode": "ARANJCOR12",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img12.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img12_BS.jpg",
+        "title": "Flori business - Eleganta",
+        "price": "255",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Flori-business-Eleganta",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Albul este, prin definitie, elegant, plin de stil si sincer. De aceea, un aranjament din flori albe este un cadou potrivit pentru orice ocazie.Acest aranjament contine: crini albi, trandafiri albi, crizanteme albe, eucalipt, orhidee dendrobium albe, cos rachita (acesta poate fi diferit in functie de zona de livrare si stocul disponibil).",
+            "composition": "Contine: 1 Cos mic, 3 Verdeata verde, Specia: Aspidistra, 2 Verdeata verde, Specia: Eucalyptus Baby Blue 200 GRAM, 2 Crizanteme alb, 2 Crin asiatic alb, 3 Orhidee alb, Specia: Dendrobium, 5 Trandafiri alb",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 13,
+        "productCode": "ARANJCOR13",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img13.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img13_BS.jpg",
+        "title": "Flori business - Secretul succesului",
+        "price": "189",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Flori-business-Secretul-succesului",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Un aranjament care incurajeaza socializarea si creste entuziasmul, fiind un bun mod de a impulsiona pe cineva, de a-i da curaj sa-si implineasca visele si de a duce la bun sfarsit tot ce isi propune.Acest aranjament contine: anthurium, orhidee cymbidium grena, orhidee dendrobium alba, bambus, verdeata, vas. Dimensiune aranjament: 20 cm (inaltime) - 15 cm (diametru) *In perioada august - septembrie, stocul orhideei cymbidium este limitat.",
+            "composition": "Contine: 1 Vas, 2 Anthurium alb, 3 Anthurium roz, 3 Verdeata verde, Specia: Aspidistra, 4 Verdeata verde, Specia: Ruscus, 2 Orhidee Cymbidium Cupa grena, Specia: Cymbidium, 2 Orhidee alb, Specia: Dendrobium, 1 Bambus la fir verde, Inaltime",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 14,
+        "productCode": "ARANJCOR14",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img14.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img14_BS.jpg",
+        "title": "Flori business Modern",
+        "price": "169",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Flori-business-Modern",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Florile nu se demodeaza niciodata. Daca acum sute de ani, un buchet de flori era cadoul perfect, in zilele noastre, codul bunelor maniere nu s-a schimbat. In continuare, cel mai potrivit cadou este cel floral. Pentru mediul de business, totusi, recomandam aranjamentele din flori pretioase si sobre, in locul buchetelor.Acest aranjament contine: anthurium alb, orhidee cymbidium grena, orhidee dendrobium alba, verdeata si cutie din carton. Dimensiuni: 30 cm (inaltime) - 20 cm (diametrul aranjamentului) *In perioada august - septembrie, stocul orhideei cymbidium este limitat.",
+            "composition": "Contine: 1 Vas, 1 Anthurium alb, 2 Anthurium verde, 6 Verdeata verde, 1 Verdeata verde, Specia: Salal, 2 Orhidee Cymbidium Cupa grena, Specia: Cymbidium, 2 Orhidee alb,Specia: Dendrobium,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 15,
+        "productCode": "ARANJCOR15",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img15.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img15_BS.jpg",
+        "title": "Aranjament floral cu anthurium si cale",
+        "price": "219",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-floral-cu-anthurium-si-cale",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Daca vreti o decoratiune florala, pentru sediul companiei dumneavoastra, care sa reziste mult timp, va recomandam un aranjament cu flori de anthurium, cele mai populare flori tropicale, un simbol al ospitalitatii.",
+            "composition": "Contine: 1 Vas, 2 Anthurium verde, 1 Anthurium ciocolatiu, 5 Verdeata verde, Specia: Aspidistra, 2 Verdeata verde, Specia: Mostera, 4 Cala alb, 1 Protea roz, Specia: Brenda,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 16,
+        "productCode": "ARANJCOR16",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img16.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img16_BS.jpg",
+        "title": "Aranjament floral cu anthurium si orhidee",
+        "price": "159",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-floral-cu-anthurium-si-orhidee",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Dimensiune aranjament: 20 cm (inaltime) - 20 cm (diametru) *In perioada august - septembrie, stocul orhideei cymbidium este limitat.",
+            "composition": "Contine: 1 Vas, 2 Anthurium verde, 5 Verdeata verde, Specia: Aspidistra, 3 Orhidee Cymbidium Cupa grena,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 17,
+        "productCode": "ARANJCOR17",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img17.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img17_BS.jpg",
+        "title": "Eleganta regala",
+        "price": "250",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Eleganta-regala",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Era distinsa orice ar fi facut - fie ca se intalnea cu cei mai importanti oameni din lume, fie ca mangaia un soldat bolnav. Pentru ca eleganta nu este data de hainele purtate, ci de calitatile sufletului. Asa cum eleganta unui buchet nu e data de florile care il compun, ci de talentul cu care este creat si de dragostea cu care este daruit. Vasul poate fi diferit in functie de stocul disponibil.",
+            "composition": "Contine: 1 Vas, 1 Hortensia alb, 2 Limonium alb, 2 Minirosa alb, 1 Bujor roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 18,
+        "productCode": "ARANJCOR18",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img18.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img18_BS.jpg",
+        "title": "Curaj si eleganta",
+        "price": "275",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Curaj-si-eleganta",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "”Regina soldat” - suna ciudat aceasta asociere de cuvinte si poate, la fel de ciudat suna si numele acestui buchet. Cu toate acestea, curajul si eleganta au foarte multe in comun. Pentru toate femeile elegante si curajoase, asa cum a fost si Regina Maria, acesta este buchet perfect.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 19,
+        "productCode": "ARANJCOR19",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img19.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img19_BS.jpg",
+        "title": "Aranjament floral Simplu",
+        "price": "199",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Aranjament-floral-Simplu",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Este simplu. Oferiti flori si primiti: dragoste, imbratisari si emotie! Dimensiune aranjament: 15 cm (inaltime) - 15 cm (diametru) *In perioada august - septembrie, stocul orhideei cymbidium este limitat/ Vasul poate sa difere in functie de zona/stocul disponibil.",
+            "composition": "Aranjament floral: 1 green trick, 3 cupe cymbidium verde, 2 trandafiri galbeni, 2 lisianthus alb, vas ceramica.",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 20,
+        "productCode": "ARANJCOR20",
+        "discount": "",
+        "productImage": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img20.jpg",
+        "productImageBs": "/Product Images/ARANJAMENTE FLORALE/Aranjamente corporate/img20_BS.jpg",
+        "title": "Buchet de flori - Eleganta toamnei",
+        "price": "230",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-flori-Eleganta-toamnei",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Florile nu pot fi altfel decat pline de gratie, dar atunci cand sunt alese si combinate de un designer talentat, devin insasi o emblema aelegantei. Ca si aceste flori, care formeaza buchetul Eleganta toamnei. Dimensiune: 40 cm (inaltime) - 30 cm (diametrul buchetului). *In perioada august - septembrie, stocul orhideei cymbidium este limitat.",
+            "composition": "Contine: 3 Alstroemeria roz, 1 Verdeata - 3 Orhidee Cymbidium Cupa roz, 1 Crin asiatic alb, 7 Trandafiri alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]

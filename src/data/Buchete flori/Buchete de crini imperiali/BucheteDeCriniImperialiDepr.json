@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "productCode": "BUCHCRI1",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img1.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img1_BS.jpg",
+        "title": "Buchet de 45 crini imperiali albi",
+        "price": "1199",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-45-crini-imperiali-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 45 crini albi, ideal pentru o masa festiva va innobila evenimentul.",
+            "composition": "Contine: 45 crini imperiali",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 2,
+        "productCode": "BUCHCRI2",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img2.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img2_BS.jpg",
+        "title": "Buchet de 35 crini imperiali roz",
+        "price": "965",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-35-crini-imperiali-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 35 crini roz, fascinant, cu un miros pe masura frumusetii lor, este gata se fie daruit din dragoste.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 3,
+        "productCode": "BUCHCRI3",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img3.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img3_BS.jpg",
+        "title": "Buchet de 23 crini imperiali albi",
+        "price": "645",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-23-crini-imperiali-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 23 crini imperiali albi, impune prin maretia sa, un aspect regal.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 4,
+        "productCode": "BUCHCRI4",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img4.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img4_BS.jpg",
+        "title": "Buchet de 101 crini imperiali albi",
+        "price": "2699",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-101-crini-imperiali-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 101 crini imperiali albi pentru a transmite fericire si liniste.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 5,
+        "productCode": "BUCHCRI5",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img5.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img5_BS.jpg",
+        "title": "Buchet de 19 crini imperiali roz",
+        "price": "535",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-19-crini-imperiali-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 19 crini roz, cele mai maiestuoase si elegante flori pot fi oferite in semn de multumire.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 6,
+        "productCode": "BUCHCRI6",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img6.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img6_BS.jpg",
+        "title": "Buchet de 25 crini imperiali albi",
+        "price": "695",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-25-crini-imperiali-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 25 crini imperiali albi, un buchet care este pus in valoare prin simplitate si eleganta.",
+            "composition": "",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 7,
+        "productCode": "BUCHCRI7",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img7.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img7_BS.jpg",
+        "title": "Buchet de 5 crini imperiali albi",
+        "price": "185",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-5-crini-imperiali-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 5 crini imperiali albi elegant si gratios ce atrage atentia prin design dar si prin parfumul ce il emana.",
+            "composition": "Buchet de 5 crini imperiali albi",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 8,
+        "productCode": "BUCHCRI8",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img8.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img8_BS.jpg",
+        "title": "Buchet de 21 crini imperiali albi",
+        "price": "589",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-21-crini-imperiali-albi",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Simplu şi elegant, acest buchet de crini imperiali albi mirositori si proaspeti vor exprima gratios admiratia dumneavoastra. Buchetul contine 21 de crini albi.",
+            "composition": "Contine: 5 Verdeata Salal, 21 Crin imperial alb,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    },
+    {
+        "id": 9,
+        "productCode": "BUCHCRI9",
+        "discount": "",
+        "productImage": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img9.jpg",
+        "productImageBs": "/Product Images/BUCHETE FLORI/Buchete de crini imperiali/img9_BS.jpg",
+        "title": "Buchet de 7 crini imperiali roz",
+        "price": "245",
+        "inStock": true,
+        "deliveryTime": true,
+        "path": "/Buchet-de-7-crini-imperiali-roz",
+        "cName": "card-link",
+        "accountBenefitsDescription": true,
+        "aboutProduct": {
+            "description": "Buchet de 7 crini roz, un aranjament delicat care pune in valoare calitatile deosebite ale crinului, putand fi oferit la diverse ocazii.",
+            "composition": "Contine: 4 Verdeata Aspidistra, 7 Crin asiatic roz,",
+            "important": "Florile pe care le folosim sunt mereu proaspete. Astfel, în unele cazuri ele pot fi sub formă de boboci. Aceștia se vor deschide în maxim 24 de ore, dacă în încăpere sunt între 23 și 25 de grade Celsius. Persoana care va primi acest produs se poate bucura mult mai mult de prospețimea lui, în acest caz!"
+        },
+        "furtherInformation": "Pretul produsului include o felicitare personalizata cu textul ales de Dumneavoastra. Livrarea buchetelor de flori se face prin curier propriu. Poza prezinta un buchet de flori / aranjament floral real, asa cum a fost realizat si livrat la comanda online a unui client Floria. Accesoriile speciale (vaza, invelis) nu sunt incluse in pret. Alege cea mai profesionista florarie online. Comanda flori online cu livrate rapida si gratuita - 2 ore in Bucuresti si in cele mai importante orase din tara."
+    }
+]
