@@ -180,11 +180,11 @@
         padding-left: 1rem;
     }
 
-    .productMid {
+    .productMedium {
         display: none;
     }
 
-    .productMin {
+    .productMinimum {
         display: none;
     }
 
@@ -279,7 +279,7 @@
         display: none;
     }
 
-    .productMid {
+    .productMedium {
         width: 100%;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -292,7 +292,7 @@
         padding-left: 1rem;
     }
 
-    .productMin {
+    .productMinimum {
         display: none;
     }
 }
@@ -303,11 +303,11 @@
         display: none;
     }
 
-    .productMid {
+    .productMedium {
         display: none;
     }
 
-    .productMin {
+    .productMinimum {
         width: 100%;
         display: grid;
         grid-template-columns: repeat(2, 1fr);

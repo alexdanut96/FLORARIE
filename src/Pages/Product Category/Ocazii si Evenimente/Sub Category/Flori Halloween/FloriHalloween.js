@@ -16,8 +16,8 @@ export function FloriHalloween() {
 
     useEffect(() => {
         const productMaximum = document.querySelectorAll(`.${STYLE.productMaximum}>*`)
-        const productMid = document.querySelectorAll(`.${STYLE.productMid}>*`)
-        const productMin = document.querySelectorAll(`.${STYLE.productMin}>*`)
+        const productMedium = document.querySelectorAll(`.${STYLE.productMedium}>*`)
+        const productMinimum = document.querySelectorAll(`.${STYLE.productMinimum}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
         const showMoreText = document.querySelectorAll(`.${STYLE.showMoreText}`)
         let i
@@ -27,8 +27,8 @@ export function FloriHalloween() {
             for (i = 0; i <= productMaximum.length - 1; i++) {
                 if (i <= index) {
                     productMaximum[i].style.display = "flex"
-                    productMid[i].style.display = "flex"
-                    productMin[i].style.display = "flex"
+                    productMedium[i].style.display = "flex"
+                    productMinimum[i].style.display = "flex"
                 }
             }
             if (index >= productMaximum.length - 1) {
@@ -75,7 +75,7 @@ export function FloriHalloween() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMid}>
+            <div className={STYLE.productMedium}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {
@@ -87,7 +87,7 @@ export function FloriHalloween() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMin}>
+            <div className={STYLE.productMinimum}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {
