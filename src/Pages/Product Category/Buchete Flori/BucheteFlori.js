@@ -39,7 +39,7 @@ import items20 from "../../../data/Buchete flori/Flori de Vara/FloriDeVara.json"
 export function BucheteFlori() {
 
     useEffect(() => {
-        const categoryOne = document.querySelectorAll(`.${STYLE.categoryOne}`)
+        const categoryUne = document.querySelectorAll(`.${STYLE.categoryUne}`)
         const categoryTwo = document.querySelectorAll(`.${STYLE.categoryTwo}`)
         const categoryThree = document.querySelectorAll(`.${STYLE.categoryThree}`)
         const categoryQuatre = document.querySelectorAll(`.${STYLE.categoryQuatre}`)
@@ -78,11 +78,11 @@ export function BucheteFlori() {
 
         button[0].addEventListener("click", showMore)
 
-        categoryOne[0].addEventListener("mouseenter", () => {
+        categoryUne[0].addEventListener("mouseenter", () => {
             imageBackgroundOne[0].style.transform = "scale(1.1)"
         })
 
-        categoryOne[0].addEventListener("mouseleave", () => {
+        categoryUne[0].addEventListener("mouseleave", () => {
             imageBackgroundOne[0].style.transform = "scale(1)"
         })
         categoryTwo[0].addEventListener("mouseenter", () => {
@@ -134,7 +134,7 @@ export function BucheteFlori() {
             </div>
             <div className={STYLE.categoryContainer}>
                 <div className={STYLE.categoryContent}>
-                    <Link to={buchete_flori_column1[1].path} className={STYLE.categoryOne}>
+                    <Link to={buchete_flori_column1[1].path} className={STYLE.categoryUne}>
                         <div className={STYLE.imageBackgroundOne}></div>
                         <div className={STYLE.categoryTitle}><div>Buchete de trandafiri</div></div>
                     </Link>
