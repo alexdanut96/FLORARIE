@@ -16,7 +16,7 @@ export function FloriSfantaAna() {
 
     useEffect(() => {
         const productMaxSize = document.querySelectorAll(`.${STYLE.productMaxSize}>*`)
-        const productMidSize = document.querySelectorAll(`.${STYLE.productMidSize}>*`)
+        const productMidium = document.querySelectorAll(`.${STYLE.productMidium}>*`)
         const productMin = document.querySelectorAll(`.${STYLE.productMin}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
         const showMoreText = document.querySelectorAll(`.${STYLE.showMoreText}`)
@@ -27,7 +27,7 @@ export function FloriSfantaAna() {
             for (i = 0; i <= productMaxSize.length - 1; i++) {
                 if (i <= index) {
                     productMaxSize[i].style.display = "flex"
-                    productMidSize[i].style.display = "flex"
+                    productMidium[i].style.display = "flex"
                     productMin[i].style.display = "flex"
                 }
             }
@@ -75,7 +75,7 @@ export function FloriSfantaAna() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMidSize}>
+            <div className={STYLE.productMidium}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {
