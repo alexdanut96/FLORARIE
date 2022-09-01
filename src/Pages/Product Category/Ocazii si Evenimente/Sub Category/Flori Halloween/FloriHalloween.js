@@ -15,7 +15,7 @@ import items from "../../../../../data/Ocazii si Evenimente/Flori Halloween/Flor
 export function FloriHalloween() {
 
     useEffect(() => {
-        const productMaximumSize = document.querySelectorAll(`.${STYLE.productMaximumSize}>*`)
+        const productMaximum = document.querySelectorAll(`.${STYLE.productMaximum}>*`)
         const productMid = document.querySelectorAll(`.${STYLE.productMid}>*`)
         const productMin = document.querySelectorAll(`.${STYLE.productMin}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
@@ -24,17 +24,17 @@ export function FloriHalloween() {
         let index = 11
 
         function showMore() {
-            for (i = 0; i <= productMaximumSize.length - 1; i++) {
+            for (i = 0; i <= productMaximum.length - 1; i++) {
                 if (i <= index) {
-                    productMaximumSize[i].style.display = "flex"
+                    productMaximum[i].style.display = "flex"
                     productMid[i].style.display = "flex"
                     productMin[i].style.display = "flex"
                 }
             }
-            if (index >= productMaximumSize.length - 1) {
-                index = productMaximumSize.length - 1
+            if (index >= productMaximum.length - 1) {
+                index = productMaximum.length - 1
             }
-            showMoreText[0].innerHTML = `Afiseaza ${index + 1} din ${productMaximumSize.length}`
+            showMoreText[0].innerHTML = `Afiseaza ${index + 1} din ${productMaximum.length}`
             index = index + 12
         }
         showMore()
@@ -63,7 +63,7 @@ export function FloriHalloween() {
                     </button>
                 </div>
             </div>
-            <div className={STYLE.productMaximumSize}>
+            <div className={STYLE.productMaximum}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {
