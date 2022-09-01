@@ -37,7 +37,7 @@ export function Header() {
     useEffect(() => {
 
         const searchFormContainer = document.querySelectorAll(`.${STYLE.searchFormContainer}`)
-        const searchContent = document.querySelectorAll(`.${STYLE.searchContent}`)
+        const searchBoxContent = document.querySelectorAll(`.${STYLE.searchBoxContent}`)
         const deleteSearchInput = document.querySelectorAll(`.${STYLE.deleteSearchInput}`)
         const searchInput = document.querySelectorAll(`.${STYLE.searchInput}`)
         const searchInputMinSize = document.querySelectorAll(`.${STYLE.searchInputMinSize}`)
@@ -80,13 +80,13 @@ export function Header() {
         }
 
         function enter() {
-            searchContent[0].style.transform = "translateX(0)"
+            searchBoxContent[0].style.transform = "translateX(0)"
 
         }
 
         function leave() {
             if (!inputTerm) {
-                searchContent[0].style.transform = "translateX(-100%)"
+                searchBoxContent[0].style.transform = "translateX(-100%)"
 
             }
         }
@@ -97,7 +97,7 @@ export function Header() {
                 searchFormContainer[0].removeEventListener("mouseleave", leave)
             } else if (!InputContainerRef.current.contains(event.target)) {
                 if (showButton) {
-                    searchContent[0].style.transform = "translateX(-100%)"
+                    searchBoxContent[0].style.transform = "translateX(-100%)"
                     searchFormContainer[0].addEventListener("mouseenter", enter)
                     searchFormContainer[0].addEventListener("mouseleave", leave)
                 }
@@ -219,7 +219,7 @@ export function Header() {
 
 
                         <div className={STYLE.inputContainer}>
-                            <div className={STYLE.searchContent}>
+                            <div className={STYLE.searchBoxContent}>
                                 <input
 
                                     className={STYLE.searchInput}
