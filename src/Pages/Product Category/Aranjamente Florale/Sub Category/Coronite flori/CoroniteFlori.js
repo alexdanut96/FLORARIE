@@ -18,7 +18,7 @@ export function CoroniteFlori() {
         const productMaxSize = document.querySelectorAll(`.${STYLE.productMaxSize}>*`)
         const productMidSize = document.querySelectorAll(`.${STYLE.productMidSize}>*`)
         const productMinSize = document.querySelectorAll(`.${STYLE.productMinSize}>*`)
-        const button = document.querySelectorAll(`.${STYLE.button}`)
+        const showMoreBtn = document.querySelectorAll(`.${STYLE.showMoreBtn}`)
         const showMoreTxt = document.querySelectorAll(`.${STYLE.showMoreTxt}`)
         let i
         let index = 11
@@ -38,7 +38,7 @@ export function CoroniteFlori() {
             index = index + 12
         }
         showMore()
-        button[0].addEventListener("click", showMore)
+        showMoreBtn[0].addEventListener("click", showMore)
 
     })
 
@@ -101,7 +101,7 @@ export function CoroniteFlori() {
             </div>
             <div className={STYLE.showMore}>
                 <div className={STYLE.showMoreTxt}></div>
-                <div><button className={STYLE.button}>ARATA MAI MULT</button></div>
+                <div><button className={STYLE.showMoreBtn}>ARATA MAI MULT</button></div>
             </div>
             <div className={STYLE.information}>
                 <div className={STYLE.informationTitle}>Comanda Online Coronite Flori Superbe cu Livrare la Domiciliu</div>
