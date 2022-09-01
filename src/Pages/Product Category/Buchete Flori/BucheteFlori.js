@@ -55,7 +55,7 @@ export function BucheteFlori() {
         const productMid = document.querySelectorAll(`.${STYLE.productMid}>*`)
         const productMinSize = document.querySelectorAll(`.${STYLE.productMinSize}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
-        const showMoreTxt = document.querySelectorAll(`.${STYLE.showMoreTxt}`)
+        const showMoreTxT = document.querySelectorAll(`.${STYLE.showMoreTxT}`)
 
         let i
         let index = 11
@@ -71,7 +71,7 @@ export function BucheteFlori() {
             if (index >= productMax.length - 1) {
                 index = productMax.length - 1
             }
-            showMoreTxt[0].innerHTML = `Afiseaza ${index + 1} din ${productMax.length}`
+            showMoreTxT[0].innerHTML = `Afiseaza ${index + 1} din ${productMax.length}`
             index = index + 12
         }
         showMore()
@@ -617,7 +617,7 @@ export function BucheteFlori() {
                 })}
             </div>
             <div className={STYLE.showMore}>
-                <div className={STYLE.showMoreTxt}></div>
+                <div className={STYLE.showMoreTxT}></div>
                 <div><button className={STYLE.button}>ARATA MAI MULT</button></div>
             </div>
             <div className={STYLE.information}>
