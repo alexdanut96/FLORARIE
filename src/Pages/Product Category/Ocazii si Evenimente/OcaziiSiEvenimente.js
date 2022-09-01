@@ -53,7 +53,7 @@ export function OcaziiSiEvenimente() {
         const imageBackgroundThree = document.querySelectorAll(`.${STYLE.imageBackgroundThree}`)
         const imageBackgroundFour = document.querySelectorAll(`.${STYLE.imageBackgroundFour}`)
         const imageBackgroundFive = document.querySelectorAll(`.${STYLE.imageBackgroundFive}`)
-        const imageBackgroundSix = document.querySelectorAll(`.${STYLE.imageBackgroundSix}`)
+        const imageBackgroundSeize = document.querySelectorAll(`.${STYLE.imageBackgroundSeize}`)
         const productMax = document.querySelectorAll(`.${STYLE.productMax}>*`)
         const productMid = document.querySelectorAll(`.${STYLE.productMid}>*`)
         const productMin = document.querySelectorAll(`.${STYLE.productMin}>*`)
@@ -124,11 +124,11 @@ export function OcaziiSiEvenimente() {
             imageBackgroundFive[0].style.transform = "scale(1)"
         })
         categorySix[0].addEventListener("mouseenter", () => {
-            imageBackgroundSix[0].style.transform = "scale(1.1)"
+            imageBackgroundSeize[0].style.transform = "scale(1.1)"
         })
 
         categorySix[0].addEventListener("mouseleave", () => {
-            imageBackgroundSix[0].style.transform = "scale(1)"
+            imageBackgroundSeize[0].style.transform = "scale(1)"
         })
 
     })
@@ -165,7 +165,7 @@ export function OcaziiSiEvenimente() {
                         <div className={STYLE.categoryTitle}><div>Craciun</div></div>
                     </Link>
                     <Link to={ocazii_si_evenimente_column1[5].path} className={STYLE.categorySix}>
-                        <div className={STYLE.imageBackgroundSix}></div>
+                        <div className={STYLE.imageBackgroundSeize}></div>
                         <div className={STYLE.categoryTitle}><div>Flori Halloween</div></div>
                     </Link>
                 </div>
