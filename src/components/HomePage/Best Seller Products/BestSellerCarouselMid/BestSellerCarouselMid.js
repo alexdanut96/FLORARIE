@@ -11,7 +11,7 @@ export function BestSellerCarouselMid() {
         const slide = document.querySelectorAll(`.${CSS.slides}`)
         const dotOne = document.querySelectorAll(`.${CSS.dotOne}`)
         const dotTwo = document.querySelectorAll(`.${CSS.dotTwo}`)
-        const dotTrois = document.querySelectorAll(`.${CSS.dotTrois}`)
+        const dotThree = document.querySelectorAll(`.${CSS.dotThree}`)
         const dotFour = document.querySelectorAll(`.${CSS.dotFour}`)
         const dotFive = document.querySelectorAll(`.${CSS.dotFive}`)
         const slideWidth1 = 7.14286
@@ -102,7 +102,7 @@ export function BestSellerCarouselMid() {
             currentDot()
         })
 
-        dotTrois[0].addEventListener('click', () => {
+        dotThree[0].addEventListener('click', () => {
             index1 = 4
             slide[0].style.transition = '.35s ease-out'
             slide[0].style.transform = `translateX(${-(slideWidth1 + 4.7619 * index1)}%)`
@@ -128,8 +128,8 @@ export function BestSellerCarouselMid() {
                 dotOne[0].style.borderColor = "#559137"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
-                dotTrois[0].style.backgroundColor = "transparent"
-                dotTrois[0].style.borderColor = "#aaaa"
+                dotThree[0].style.backgroundColor = "transparent"
+                dotThree[0].style.borderColor = "#aaaa"
                 dotFour[0].style.backgroundColor = "transparent"
                 dotFour[0].style.borderColor = "#aaaa"
                 dotFive[0].style.backgroundColor = "transparent"
@@ -139,8 +139,8 @@ export function BestSellerCarouselMid() {
                 dotOne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "#559137"
                 dotTwo[0].style.borderColor = "#559137"
-                dotTrois[0].style.backgroundColor = "transparent"
-                dotTrois[0].style.borderColor = "#aaaa"
+                dotThree[0].style.backgroundColor = "transparent"
+                dotThree[0].style.borderColor = "#aaaa"
                 dotFour[0].style.backgroundColor = "transparent"
                 dotFour[0].style.borderColor = "#aaaa"
                 dotFive[0].style.backgroundColor = "transparent"
@@ -150,8 +150,8 @@ export function BestSellerCarouselMid() {
                 dotOne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
-                dotTrois[0].style.backgroundColor = "#559137"
-                dotTrois[0].style.borderColor = "#559137"
+                dotThree[0].style.backgroundColor = "#559137"
+                dotThree[0].style.borderColor = "#559137"
                 dotFour[0].style.backgroundColor = "transparent"
                 dotFour[0].style.borderColor = "#aaaa"
                 dotFive[0].style.backgroundColor = "transparent"
@@ -161,8 +161,8 @@ export function BestSellerCarouselMid() {
                 dotOne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
-                dotTrois[0].style.backgroundColor = "transparent"
-                dotTrois[0].style.borderColor = "#aaaa"
+                dotThree[0].style.backgroundColor = "transparent"
+                dotThree[0].style.borderColor = "#aaaa"
                 dotFour[0].style.backgroundColor = "#559137"
                 dotFour[0].style.borderColor = "#559137"
                 dotFive[0].style.backgroundColor = "transparent"
@@ -172,8 +172,8 @@ export function BestSellerCarouselMid() {
                 dotOne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
-                dotTrois[0].style.backgroundColor = "transparent"
-                dotTrois[0].style.borderColor = "#aaaa"
+                dotThree[0].style.backgroundColor = "transparent"
+                dotThree[0].style.borderColor = "#aaaa"
                 dotFour[0].style.backgroundColor = "transparent"
                 dotFour[0].style.borderColor = "#aaaa"
                 dotFive[0].style.backgroundColor = "#559137"
@@ -219,7 +219,7 @@ export function BestSellerCarouselMid() {
                         <div className={CSS.dotsSlider}>
                             <div className={CSS.dotOne}></div>
                             <div className={CSS.dotTwo} ></div>
-                            <div className={CSS.dotTrois} ></div>
+                            <div className={CSS.dotThree} ></div>
                             <div className={CSS.dotFour} ></div>
                             <div className={CSS.dotFive} ></div>
                         </div>

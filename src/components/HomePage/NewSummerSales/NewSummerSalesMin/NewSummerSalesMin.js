@@ -9,7 +9,7 @@ export function NewSummerSalesMin() {
     useEffect(() => {
 
         const slide = document.querySelectorAll(`.${CSS.slides}`)
-        const dotOne = document.querySelectorAll(`.${CSS.dotOne}`)
+        const dotUne = document.querySelectorAll(`.${CSS.dotUne}`)
         const dotTwo = document.querySelectorAll(`.${CSS.dotTwo}`)
         const dotTrois = document.querySelectorAll(`.${CSS.dotTrois}`)
         const dotFour = document.querySelectorAll(`.${CSS.dotFour}`)
@@ -27,8 +27,8 @@ export function NewSummerSalesMin() {
         let distance
         let index = 0
 
-        dotOne[0].style.backgroundColor = "#559137"
-        dotOne[0].style.borderColor = "#559137"
+        dotUne[0].style.backgroundColor = "#559137"
+        dotUne[0].style.borderColor = "#559137"
 
         slide[0].addEventListener('transitionend', () => {
             if (index === 10) {
@@ -94,7 +94,7 @@ export function NewSummerSalesMin() {
             document.onmousemove = null
         }
 
-        dotOne[0].addEventListener('click', () => {
+        dotUne[0].addEventListener('click', () => {
             index = 0
             slide[0].style.transition = '.35s ease'
             slide[0].style.transform = `translateX(${-(startSlide + slideWidth * index)}%)`
@@ -166,8 +166,8 @@ export function NewSummerSalesMin() {
 
         function currentDot() {
             if (index === 0) {
-                dotOne[0].style.backgroundColor = "#559137"
-                dotOne[0].style.borderColor = "#559137"
+                dotUne[0].style.backgroundColor = "#559137"
+                dotUne[0].style.borderColor = "#559137"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
                 dotTrois[0].style.backgroundColor = "transparent"
@@ -187,8 +187,8 @@ export function NewSummerSalesMin() {
                 dotTen[0].style.backgroundColor = "transparent"
                 dotTen[0].style.borderColor = "#aaaa"
             } else if (index === 1) {
-                dotOne[0].style.backgroundColor = "transparent"
-                dotOne[0].style.borderColor = "#aaaa"
+                dotUne[0].style.backgroundColor = "transparent"
+                dotUne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "#559137"
                 dotTwo[0].style.borderColor = "#559137"
                 dotTrois[0].style.backgroundColor = "transparent"
@@ -208,8 +208,8 @@ export function NewSummerSalesMin() {
                 dotTen[0].style.backgroundColor = "transparent"
                 dotTen[0].style.borderColor = "#aaaa"
             } else if (index === 2) {
-                dotOne[0].style.backgroundColor = "transparent"
-                dotOne[0].style.borderColor = "#aaaa"
+                dotUne[0].style.backgroundColor = "transparent"
+                dotUne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
                 dotTrois[0].style.backgroundColor = "#559137"
@@ -229,8 +229,8 @@ export function NewSummerSalesMin() {
                 dotTen[0].style.backgroundColor = "transparent"
                 dotTen[0].style.borderColor = "#aaaa"
             } else if (index === 3) {
-                dotOne[0].style.backgroundColor = "transparent"
-                dotOne[0].style.borderColor = "#aaaa"
+                dotUne[0].style.backgroundColor = "transparent"
+                dotUne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
                 dotTrois[0].style.backgroundColor = "transparent"
@@ -250,8 +250,8 @@ export function NewSummerSalesMin() {
                 dotTen[0].style.backgroundColor = "transparent"
                 dotTen[0].style.borderColor = "#aaaa"
             } else if (index === 4) {
-                dotOne[0].style.backgroundColor = "transparent"
-                dotOne[0].style.borderColor = "#aaaa"
+                dotUne[0].style.backgroundColor = "transparent"
+                dotUne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
                 dotTrois[0].style.backgroundColor = "transparent"
@@ -271,8 +271,8 @@ export function NewSummerSalesMin() {
                 dotTen[0].style.backgroundColor = "transparent"
                 dotTen[0].style.borderColor = "#aaaa"
             } else if (index === 5) {
-                dotOne[0].style.backgroundColor = "transparent"
-                dotOne[0].style.borderColor = "#aaaa"
+                dotUne[0].style.backgroundColor = "transparent"
+                dotUne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
                 dotTrois[0].style.backgroundColor = "transparent"
@@ -292,8 +292,8 @@ export function NewSummerSalesMin() {
                 dotTen[0].style.backgroundColor = "transparent"
                 dotTen[0].style.borderColor = "#aaaa"
             } else if (index === 6) {
-                dotOne[0].style.backgroundColor = "transparent"
-                dotOne[0].style.borderColor = "#aaaa"
+                dotUne[0].style.backgroundColor = "transparent"
+                dotUne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
                 dotTrois[0].style.backgroundColor = "transparent"
@@ -313,8 +313,8 @@ export function NewSummerSalesMin() {
                 dotTen[0].style.backgroundColor = "transparent"
                 dotTen[0].style.borderColor = "#aaaa"
             } else if (index === 7) {
-                dotOne[0].style.backgroundColor = "transparent"
-                dotOne[0].style.borderColor = "#aaaa"
+                dotUne[0].style.backgroundColor = "transparent"
+                dotUne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
                 dotTrois[0].style.backgroundColor = "transparent"
@@ -334,8 +334,8 @@ export function NewSummerSalesMin() {
                 dotTen[0].style.backgroundColor = "transparent"
                 dotTen[0].style.borderColor = "#aaaa"
             } else if (index === 8) {
-                dotOne[0].style.backgroundColor = "transparent"
-                dotOne[0].style.borderColor = "#aaaa"
+                dotUne[0].style.backgroundColor = "transparent"
+                dotUne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
                 dotTrois[0].style.backgroundColor = "transparent"
@@ -355,8 +355,8 @@ export function NewSummerSalesMin() {
                 dotTen[0].style.backgroundColor = "transparent"
                 dotTen[0].style.borderColor = "#aaaa"
             } else if (index === 9) {
-                dotOne[0].style.backgroundColor = "transparent"
-                dotOne[0].style.borderColor = "#aaaa"
+                dotUne[0].style.backgroundColor = "transparent"
+                dotUne[0].style.borderColor = "#aaaa"
                 dotTwo[0].style.backgroundColor = "transparent"
                 dotTwo[0].style.borderColor = "#aaaa"
                 dotTrois[0].style.backgroundColor = "transparent"
@@ -411,7 +411,7 @@ export function NewSummerSalesMin() {
                         <button className={CSS.leftButton}><IoIosArrowBack /></button>
                         <button className={CSS.rightButton}><IoIosArrowForward /></button>
                         <div className={CSS.dotsSlider}>
-                            <div className={CSS.dotOne}></div>
+                            <div className={CSS.dotUne}></div>
                             <div className={CSS.dotTwo} ></div>
                             <div className={CSS.dotTrois} ></div>
                             <div className={CSS.dotFour} ></div>
