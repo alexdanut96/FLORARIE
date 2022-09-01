@@ -15,26 +15,26 @@ import items from "../../../../../data/Ocazii si Evenimente/Flori de Dragobete/F
 export function FloriDeDragobete() {
 
     useEffect(() => {
-        const productMaxSize = document.querySelectorAll(`.${STYLE.productMaxSize}>*`)
-        const productMidSize = document.querySelectorAll(`.${STYLE.productMidSize}>*`)
-        const productMinimum = document.querySelectorAll(`.${STYLE.productMinimum}>*`)
+        const productXsize = document.querySelectorAll(`.${STYLE.productXsize}>*`)
+        const productMsize = document.querySelectorAll(`.${STYLE.productMsize}>*`)
+        const productSsize = document.querySelectorAll(`.${STYLE.productSsize}>*`)
         const showMoreButton = document.querySelectorAll(`.${STYLE.showMoreButton}`)
         const showMoreText = document.querySelectorAll(`.${STYLE.showMoreText}`)
         let i
         let index = 11
 
         function showMore() {
-            for (i = 0; i <= productMaxSize.length - 1; i++) {
+            for (i = 0; i <= productXsize.length - 1; i++) {
                 if (i <= index) {
-                    productMaxSize[i].style.display = "flex"
-                    productMidSize[i].style.display = "flex"
-                    productMinimum[i].style.display = "flex"
+                    productXsize[i].style.display = "flex"
+                    productMsize[i].style.display = "flex"
+                    productSsize[i].style.display = "flex"
                 }
             }
-            if (index >= productMaxSize.length - 1) {
-                index = productMaxSize.length - 1
+            if (index >= productXsize.length - 1) {
+                index = productXsize.length - 1
             }
-            showMoreText[0].innerHTML = `Afiseaza ${index + 1} din ${productMaxSize.length}`
+            showMoreText[0].innerHTML = `Afiseaza ${index + 1} din ${productXsize.length}`
             index = index + 12
         }
         showMore()
@@ -63,7 +63,7 @@ export function FloriDeDragobete() {
                     </button>
                 </div>
             </div>
-            <div className={STYLE.productMaxSize}>
+            <div className={STYLE.productXsize}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {
@@ -75,7 +75,7 @@ export function FloriDeDragobete() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMidSize}>
+            <div className={STYLE.productMsize}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {
@@ -87,7 +87,7 @@ export function FloriDeDragobete() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMinimum}>
+            <div className={STYLE.productSsize}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {
