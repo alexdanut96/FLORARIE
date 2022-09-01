@@ -17,7 +17,7 @@ export function FloriDeDragobete() {
     useEffect(() => {
         const productMaxSize = document.querySelectorAll(`.${STYLE.productMaxSize}>*`)
         const productMidSize = document.querySelectorAll(`.${STYLE.productMidSize}>*`)
-        const productMinSize = document.querySelectorAll(`.${STYLE.productMinSize}>*`)
+        const productMinimum = document.querySelectorAll(`.${STYLE.productMinimum}>*`)
         const showMoreButton = document.querySelectorAll(`.${STYLE.showMoreButton}`)
         const showMoreText = document.querySelectorAll(`.${STYLE.showMoreText}`)
         let i
@@ -28,7 +28,7 @@ export function FloriDeDragobete() {
                 if (i <= index) {
                     productMaxSize[i].style.display = "flex"
                     productMidSize[i].style.display = "flex"
-                    productMinSize[i].style.display = "flex"
+                    productMinimum[i].style.display = "flex"
                 }
             }
             if (index >= productMaxSize.length - 1) {
@@ -87,7 +87,7 @@ export function FloriDeDragobete() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMinSize}>
+            <div className={STYLE.productMinimum}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {
