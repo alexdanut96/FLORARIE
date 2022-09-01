@@ -18,7 +18,7 @@ export function BucheteDeGerbera() {
         const productMax = document.querySelectorAll(`.${STYLE.productMax}>*`)
         const productMid = document.querySelectorAll(`.${STYLE.productMid}>*`)
         const productMinnim = document.querySelectorAll(`.${STYLE.productMinnim}>*`)
-        const button = document.querySelectorAll(`.${STYLE.button}`)
+        const showMoreBtn = document.querySelectorAll(`.${STYLE.showMoreBtn}`)
         const showMoreText = document.querySelectorAll(`.${STYLE.showMoreText}`)
         let i
         let index = 11
@@ -38,7 +38,7 @@ export function BucheteDeGerbera() {
             index = index + 12
         }
         showMore()
-        button[0].addEventListener("click", showMore)
+        showMoreBtn[0].addEventListener("click", showMore)
 
     })
 
@@ -101,7 +101,7 @@ export function BucheteDeGerbera() {
             </div>
             <div className={STYLE.showMore}>
                 <div className={STYLE.showMoreText}></div>
-                <div><button className={STYLE.button}>ARATA MAI MULT</button></div>
+                <div><button className={STYLE.showMoreBtn}>ARATA MAI MULT</button></div>
             </div>
             <div className={STYLE.information}>
                 <div className={STYLE.informationTitle}>Comanda Online Buchete de Gerbera Superbe cu Livrare la Domiciliu</div>
