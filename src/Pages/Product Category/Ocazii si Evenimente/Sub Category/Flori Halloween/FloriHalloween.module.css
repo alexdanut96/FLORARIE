@@ -167,7 +167,7 @@
         display: block;
     }
 
-    .productMaximumSize {
+    .productMaximum {
         width: 100%;
         display: grid;
         grid-template-columns: repeat(4, 1fr);
@@ -180,7 +180,7 @@
         padding-left: 1rem;
     }
 
-    .productMediumSize {
+    .productMedium {
         display: none;
     }
 
@@ -275,11 +275,11 @@
 
 @media only screen and (max-width: 1023px) and (min-width: 640px) {
 
-    .productMaximumSize {
+    .productMaximum {
         display: none;
     }
 
-    .productMediumSize {
+    .productMedium {
         width: 100%;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -299,11 +299,11 @@
 
 @media all and (max-width: 639px) {
 
-    .productMaximumSize {
+    .productMaximum {
         display: none;
     }
 
-    .productMediumSize {
+    .productMedium {
         display: none;
     }
 
