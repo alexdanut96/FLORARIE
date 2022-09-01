@@ -17,7 +17,7 @@ export function BucheteCuHortensie() {
     useEffect(() => {
         const productMaxSize = document.querySelectorAll(`.${STYLE.productMaxSize}>*`)
         const productMid = document.querySelectorAll(`.${STYLE.productMid}>*`)
-        const productMin = document.querySelectorAll(`.${STYLE.productMin}>*`)
+        const productMinSize = document.querySelectorAll(`.${STYLE.productMinSize}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
         const showMoreText = document.querySelectorAll(`.${STYLE.showMoreText}`)
         let i
@@ -28,7 +28,7 @@ export function BucheteCuHortensie() {
                 if (i <= index) {
                     productMaxSize[i].style.display = "flex"
                     productMid[i].style.display = "flex"
-                    productMin[i].style.display = "flex"
+                    productMinSize[i].style.display = "flex"
                 }
             }
             if (index >= productMaxSize.length - 1) {
@@ -87,7 +87,7 @@ export function BucheteCuHortensie() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMin}>
+            <div className={STYLE.productMinSize}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {

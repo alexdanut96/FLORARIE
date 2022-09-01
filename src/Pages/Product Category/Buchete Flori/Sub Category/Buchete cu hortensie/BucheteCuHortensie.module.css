@@ -182,7 +182,7 @@
         display: none;
     }
 
-    .productMin {
+    .productMinSize {
         display: none;
     }
 
@@ -288,7 +288,7 @@
         padding-left: 1rem;
     }
 
-    .productMin {
+    .productMinSize {
         display: none;
     }
 }
@@ -303,7 +303,7 @@
         display: none;
     }
 
-    .productMin {
+    .productMinSize {
         width: 100%;
         display: grid;
         grid-template-columns: repeat(2, 1fr);
