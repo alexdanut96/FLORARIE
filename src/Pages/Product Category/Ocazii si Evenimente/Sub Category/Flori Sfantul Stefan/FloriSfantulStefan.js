@@ -17,7 +17,7 @@ export function FloriSfantulStefan() {
     useEffect(() => {
         const productMaximumSize = document.querySelectorAll(`.${STYLE.productMaximumSize}>*`)
         const productMid = document.querySelectorAll(`.${STYLE.productMid}>*`)
-        const productMinSize = document.querySelectorAll(`.${STYLE.productMinSize}>*`)
+        const productMinimum = document.querySelectorAll(`.${STYLE.productMinimum}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
         const showMoreText = document.querySelectorAll(`.${STYLE.showMoreText}`)
         let i
@@ -28,7 +28,7 @@ export function FloriSfantulStefan() {
                 if (i <= index) {
                     productMaximumSize[i].style.display = "flex"
                     productMid[i].style.display = "flex"
-                    productMinSize[i].style.display = "flex"
+                    productMinimum[i].style.display = "flex"
                 }
             }
             if (index >= productMaximumSize.length - 1) {
@@ -87,7 +87,7 @@ export function FloriSfantulStefan() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMinSize}>
+            <div className={STYLE.productMinimum}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {
