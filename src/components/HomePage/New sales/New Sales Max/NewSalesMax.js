@@ -11,7 +11,7 @@ export function NewSalesMax() {
 
         const slide = document.querySelectorAll(`.${CSS.slides}`);
         const nextBtn = document.querySelectorAll(`.${CSS.rightBtn}`);
-        const prevBtn = document.querySelectorAll(`.${CSS.leftBtn}`);
+        const prevBtn = document.querySelectorAll(`.${CSS.leftButton}`);
         const dotOne = document.querySelectorAll(`.${CSS.dotOne}`)
         const dotTwo = document.querySelectorAll(`.${CSS.dotTwo}`)
         const dotThree = document.querySelectorAll(`.${CSS.dotThree}`)
@@ -198,7 +198,7 @@ export function NewSalesMax() {
 
                             </div>
                         </div>
-                        <button className={CSS.leftBtn}><IoIosArrowBack /></button>
+                        <button className={CSS.leftButton}><IoIosArrowBack /></button>
                         <button className={CSS.rightBtn}><IoIosArrowForward /></button>
                         <div className={CSS.dotsSlider}>
                             <div className={CSS.dotOne}></div>

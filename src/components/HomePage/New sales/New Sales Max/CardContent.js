@@ -20,12 +20,12 @@ export function CardContent(
 
     useEffect(() => {
 
-        const addToCartButton = document.querySelectorAll(`.${CARD.addToCartButton}`)
+        const addToCartBtn = document.querySelectorAll(`.${CARD.addToCartBtn}`)
         // const plusButton = document.querySelectorAll(`.${CARD.plusButton}`)
         // const minusButton = document.querySelectorAll(`.${CARD.minusButton}`)
         // const removeButtom = document.querySelectorAll(`.${CARD.removeButtom}`)
 
-        addToCartButton[0].addEventListener("click", () => {
+        addToCartBtn[0].addEventListener("click", () => {
             console.log("show")
         })
 
@@ -102,7 +102,7 @@ export function CardContent(
                         <div className={CARD.addToCartShelf}>
                             <div onClick={(e) => { e.preventDefault() }}>
                                 <button
-                                    className={CARD.addToCartButton}
+                                    className={CARD.addToCartBtn}
                                     onClick={() => increaseCartQuantity(productCode)}
                                     style={{ display: quantity === 0 ? "flex" : "none" }}
                                 >

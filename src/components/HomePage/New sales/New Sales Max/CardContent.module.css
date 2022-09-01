@@ -348,7 +348,7 @@
     background-color: #ec0707;
 }
 
-.addToCartButton {
+.addToCartBtn {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -363,7 +363,7 @@
     cursor: pointer;
 }
 
-.addToCartButton:hover {
+.addToCartBtn:hover {
     background-color: #47792e;
     border-color: #47792e;
 }
