@@ -6,7 +6,7 @@ export function FacilitiesTabCarousel() {
 
     useEffect(() => {
 
-        const slide = document.querySelectorAll(`.${STYLE.slides}`)
+        const slide = document.querySelectorAll(`.${STYLE.slidesItems}`)
         const slides = document.querySelectorAll(`.${STYLE.slide}`)
         const slidesNumber = slides.length
         const slideWidth = 100 / slidesNumber
@@ -37,7 +37,7 @@ export function FacilitiesTabCarousel() {
 
     return (
         <div className={STYLE.container}>
-            <div className={STYLE.slides}>
+            <div className={STYLE.slidesItems}>
                 <div className={STYLE.slide}>
                     {FacilitiesItems[1].icon}
                     <span className={STYLE.title}>{FacilitiesItems[1].title}</span>
