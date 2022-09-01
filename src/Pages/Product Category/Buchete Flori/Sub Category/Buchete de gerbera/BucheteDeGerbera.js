@@ -17,7 +17,7 @@ export function BucheteDeGerbera() {
     useEffect(() => {
         const productMax = document.querySelectorAll(`.${STYLE.productMax}>*`)
         const productMid = document.querySelectorAll(`.${STYLE.productMid}>*`)
-        const productMinnimSize = document.querySelectorAll(`.${STYLE.productMinnimSize}>*`)
+        const productMinnim = document.querySelectorAll(`.${STYLE.productMinnim}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
         const showMoreText = document.querySelectorAll(`.${STYLE.showMoreText}`)
         let i
@@ -28,7 +28,7 @@ export function BucheteDeGerbera() {
                 if (i <= index) {
                     productMax[i].style.display = "flex"
                     productMid[i].style.display = "flex"
-                    productMinnimSize[i].style.display = "flex"
+                    productMinnim[i].style.display = "flex"
                 }
             }
             if (index >= productMax.length - 1) {
@@ -87,7 +87,7 @@ export function BucheteDeGerbera() {
                     return null
                 })}
             </div>
-            <div className={STYLE.productMinnimSize}>
+            <div className={STYLE.productMinnim}>
                 {allItems.map(allItm => {
                     for (let i = 0; i <= items.length - 1; i++) {
                         if (allItm.productCode === items[i]) {

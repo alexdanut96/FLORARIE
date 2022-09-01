@@ -182,7 +182,7 @@
         display: none;
     }
 
-    .productMinnimSize {
+    .productMinnim {
         display: none;
     }
 
@@ -288,7 +288,7 @@
         padding-left: 1rem;
     }
 
-    .productMinnimSize {
+    .productMinnim {
         display: none;
     }
 }
@@ -303,7 +303,7 @@
         display: none;
     }
 
-    .productMinnimSize {
+    .productMinnim {
         width: 100%;
         display: grid;
         grid-template-columns: repeat(2, 1fr);
