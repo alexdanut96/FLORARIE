@@ -13,11 +13,13 @@ import { MdOutlineArrowForward } from "react-icons/md"
 import { useCartValue, useOpenTheCart } from "./Context/ShoppingCartContext";
 import { useMenuValue, useOpenTheMenu } from "./Context/ShoppingCartContext";
 import { useModify } from "./Context/AddToCartContext";
+import { useAuth } from "./Context/AuthContext";
 import { useSendTerm, useButtonTerm, useInputText, useClickButton, useDeleteTerm, useCheckIsTrue, useIsTrueValue, useWindowWidthCheck } from "./Context/StateContext";
 
 export function Header() {
 
     const { cartQuantity } = useModify()
+    const { currentUser } = useAuth()
 
     const getTerm = useSendTerm()
     const showButton = useButtonTerm()
@@ -248,7 +250,11 @@ export function Header() {
                         <button
                             className={STYLE.formButton}>
                             <FaRegUser />
-                            <div className={STYLE.iconText}>Login</div>
+                            <span className={STYLE.iconText}>
+                                {currentUser ?
+                                    "Salut, " +
+                                    currentUser.email : "Login"}
+                            </span>
                         </button>
                         <button
                             className={STYLE.formButton}>
@@ -258,12 +264,15 @@ export function Header() {
                         <button
                             onClick={openTheCartBox}
                             className={STYLE.cartFormButton}>
-                            <BiShoppingBag />
+                            <div className={STYLE.cartItemContainer}>
+                                <BiShoppingBag />
+                                {cartQuantity > 0 &&
+                                    <div className={STYLE.itemCount}>
+                                        <div>{cartQuantity}</div>
+                                    </div>}
+                            </div>
                             <div className={STYLE.iconText}>Cos</div>
-                            {cartQuantity > 0 &&
-                                <div className={STYLE.itemCount}>
-                                    <div>{cartQuantity}</div>
-                                </div>}
+
                         </button>
 
                     </div>

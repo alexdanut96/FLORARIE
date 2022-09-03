@@ -15,6 +15,27 @@
         padding-left: 1rem;
     }
 
+    .errorMessageContainer,
+    .successMessageContainer {
+        display: flex;
+        margin-top: 20px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+
+    .errorMessage {
+        border-radius: 10px;
+        padding: 20px;
+        background-color: #f3c8c9;
+    }
+
+    .successMessage {
+        border-radius: 10px;
+        padding: 20px;
+        background-color: #CBFFC0;
+    }
+
     .loginForm {
         display: flex;
         max-width: 45rem;
@@ -39,6 +60,20 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+    }
+
+    .singUpForm {
+        width: 100%;
+    }
+
+    .singInForm {
+        width: 100%;
+        display: none;
+    }
+
+    .forgotPasswordResetForm {
+        width: 100%;
+        display: none;
     }
 
     .title {
@@ -72,7 +107,7 @@
     .googleButton:hover,
     .facebookButton:hover,
     .loginButton:hover,
-    .loginButtonHidden:hover {
+    .singUpButton:hover {
         background-color: #dde7ff;
         border-color: #f7f7f7;
     }
@@ -106,7 +141,7 @@
         color: #aaaa
     }
 
-    .sendButton {
+    .singupFormButton {
         margin-bottom: 15px;
         display: flex;
         justify-content: center;
@@ -145,10 +180,10 @@
         margin-bottom: 10px;
         cursor: pointer;
         animation: fade-in 500ms forwards;
-        display: none;
+        /* display: none; */
     }
 
-    .sendButton:hover,
+    .singupFormButton:hover,
     .authButton:hover {
         background: #47792e;
         border: 1px solid #47792e;
@@ -160,7 +195,7 @@
 
     }
 
-    .loginButtonHidden {
+    .singUpButton {
         margin-bottom: 15px;
         display: flex;
         justify-content: center;
@@ -177,11 +212,11 @@
         outline: none;
         margin-bottom: 10px;
         cursor: pointer;
-        display: none;
         animation: fade-in 500ms forwards;
     }
 
-    .boxPassword {
+    .boxPassword,
+    .boxPasswordConfirmation {
         text-indent: unset;
         max-width: 100%;
         width: 100%;
@@ -193,11 +228,12 @@
         border-radius: 10px;
         outline: none;
         margin-bottom: 10px;
-        display: none;
+        /* display: none; */
         animation: fade-in 500ms forwards;
     }
 
-    .boxPassword::placeholder {
+    .boxPassword::placeholder,
+    .boxPasswordConfirmation::placeholder {
         color: #aaaa
     }
 
@@ -215,7 +251,7 @@
         outline: none;
         margin-bottom: 14px;
         animation: fade-in 500ms forwards;
-        display: none;
+        /* display: none; */
     }
 
     .forgotPassword>* {
@@ -242,7 +278,7 @@
         outline: none;
         margin-bottom: 14px;
         animation: fade-in 500ms forwards;
-        display: none;
+        /* display: none; */
     }
 
     .noAccount>* {
@@ -379,13 +415,13 @@
         animation: fade-in 500ms forwards;
     }
 
-    .googleButton:hover,
+    /* .googleButton:hover,
     .facebookButton:hover,
     .loginButton:hover,
     .loginButtonHidden:hover {
         background-color: #dde7ff;
         border-color: #f7f7f7;
-    }
+    } */
 
     .googleIcon,
     .facebookIcon {
@@ -397,7 +433,7 @@
         color: #559137;
     }
 
-    .emailBox {
+    /* .emailBox {
         text-indent: unset;
         max-width: 100%;
         width: 100%;
@@ -414,7 +450,7 @@
 
     .emailBox::placeholder {
         color: #aaaa
-    }
+    } */
 
     .sendButton {
         margin-bottom: 15px;
@@ -455,7 +491,7 @@
         margin-bottom: 10px;
         cursor: pointer;
         animation: fade-in 500ms forwards;
-        display: none;
+        /* display: none; */
     }
 
     .sendButton:hover,
@@ -470,7 +506,7 @@
 
     }
 
-    .loginButtonHidden {
+    /* .loginButtonHidden {
         margin-bottom: 15px;
         display: flex;
         justify-content: center;
@@ -487,11 +523,10 @@
         outline: none;
         margin-bottom: 10px;
         cursor: pointer;
-        display: none;
         animation: fade-in 500ms forwards;
-    }
+    } */
 
-    .boxPassword {
+    /* .boxPassword {
         text-indent: unset;
         max-width: 100%;
         width: 100%;
@@ -509,7 +544,7 @@
 
     .boxPassword::placeholder {
         color: #aaaa
-    }
+    } */
 
     .forgotPassword {
         margin-bottom: 15px;
@@ -525,7 +560,7 @@
         outline: none;
         margin-bottom: 14px;
         animation: fade-in 500ms forwards;
-        display: none;
+        /* display: none; */
     }
 
     .forgotPassword>* {
@@ -552,7 +587,7 @@
         outline: none;
         margin-bottom: 14px;
         animation: fade-in 500ms forwards;
-        display: none;
+        /* display: none; */
     }
 
     .noAccount>* {

@@ -5,7 +5,7 @@ import { HomePage } from "./components/Content/HomePage"
 import { Footer } from "./components/Footer/Footer"
 import { Header } from "./components/Header/Header"
 import { Navbar } from "./components/Navbar/Navbar"
-import { Route, Routes } from "react-router-dom"
+import { Route, Routes, Navigate } from "react-router-dom"
 import { navBarItems } from "./navbar-components/NavBarItems"
 import { AranjamenteFlorale } from "./Pages/Product Category/Aranjamente Florale/AranjamenteFlorale"
 import { BucheteFlori } from "./Pages/Product Category/Buchete Flori/BucheteFlori"
@@ -93,20 +93,21 @@ import { PoliticaDeReturnare } from "./Pages/Footer Category/Shopping Help/Polit
 import { FAQ } from "./Pages/Footer Category/Helpful Links/F.A.Q/FAQ"
 import { FiiPartener } from "./Pages/Footer Category/Helpful Links/Fii partener Floris/FiiPartener"
 import { SearchBar } from "./components/Header/Search Bar/SearchBar"
-// import { StateContext } from "./components/Header/Context/StateContext"
 import { ShoppingCartContext } from "./components/Header/Context/ShoppingCartContext"
 import { AddToCartContext } from "./components/Header/Context/AddToCartContext"
 import { SidebarRight } from "./components/Sidebar/SidebarRight"
 import { SidebarLeft } from "./components/Sidebar/SidebarLeft"
 import items from "./data/Items.json"
 import { useInputTerm } from "./components/Header/Context/StateContext"
+import { useAuth } from "./components/Header/Context/AuthContext"
+
 
 export function App() {
+    const { currentUser } = useAuth()
     const term = useInputTerm()
     return (
         <div className="container">
 
-            {/* <StateContext> */}
             <ShoppingCartContext>
                 <AddToCartContext>
                     <Top />
@@ -202,7 +203,9 @@ export function App() {
                         <Route path={FooterCardComponents[2].path} element={<Confidentialitate />}></Route>
                         <Route path={FooterCardComponents[3].path} element={<TermeniSiConditii />}></Route>
                         <Route path={FooterCardComponents[4].path} element={<DetaliiContact />}></Route>
-                        <Route path={FooterCardComponents[5].path} element={<CreeazaCont />}></Route>
+                        <Route
+                            path={FooterCardComponents[5].path} element={!currentUser ? <CreeazaCont /> : <Navigate replace to="/" />}>
+                        </Route>
                         <Route path={FooterCardComponents[6].path} element={<ProgramDeFidelitate />}></Route>
                         <Route path={FooterCardComponents[5].path} element={<AmUitatParola />}></Route>
                         <Route path={FooterCardComponents[8].path} element={<CumCumpar />}></Route>
@@ -228,7 +231,6 @@ export function App() {
                     <Footer />
                 </AddToCartContext>
             </ShoppingCartContext>
-            {/* </StateContext> */}
         </div>
     )
 }

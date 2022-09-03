@@ -4,6 +4,7 @@ import { App } from "./App"
 import { BrowserRouter as Router } from "react-router-dom"
 import ScrollToTop from "./components/Scroll To Top/ScrollToTop"
 import { StateContext } from "./components/Header/Context/StateContext"
+import { AuthProvider } from "./components/Header/Context/AuthContext"
 
 
 createRoot(document.getElementById("root")).render(
@@ -11,7 +12,9 @@ createRoot(document.getElementById("root")).render(
         <ScrollToTop />
         <div id="absolute-background"></div>
         <StateContext>
-            <App />
+            <AuthProvider>
+                <App />
+            </AuthProvider>
         </StateContext>
     </Router>
 )

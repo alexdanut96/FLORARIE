@@ -46,7 +46,7 @@ export function Footer() {
                             <div className={STYLE.titles}>
                                 <div className={STYLE.title}><Link to={FooterCardComponents[5].path}>Creeaza cont</Link></div>
                                 <div className={STYLE.title}><Link to={FooterCardComponents[6].path}>Program de fidelitate</Link></div>
-                                <div className={STYLE.title}><Link to={FooterCardComponents[7].path}>Am uitat parola</Link></div>
+                                <div className={STYLE.title}><Link to={FooterCardComponents[5].path}>Am uitat parola</Link></div>
                             </div>
                         </div>
                         <div className={STYLE.helpUtility}>
