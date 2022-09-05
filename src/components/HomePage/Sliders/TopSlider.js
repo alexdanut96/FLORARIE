@@ -121,13 +121,13 @@ export function TopSlider() {
         }
 
         function dragEnd() {
-            if (distance < -100) {
+            if (distance < -44) {
                 slide[0].style.left = `${0}px`
                 moveToPreviousSlide()
                 clearInterval(slideId);
                 startSlide()
                 distance = null
-            } else if (distance > 100) {
+            } else if (distance > 44) {
                 slide[0].style.left = `${0}px`
                 moveToNextSlide()
                 clearInterval(slideId);
