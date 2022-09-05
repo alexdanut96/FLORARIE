@@ -81,10 +81,10 @@ export function NewSalesMin() {
         }
 
         function dragEnd() {
-            if (distance < -100) {
+            if (distance < -44) {
                 slide[0].style.left = `${0}px`
                 moveToPreviousSlide()
-            } else if (distance > 100) {
+            } else if (distance > 44) {
                 slide[0].style.left = `${0}px`
                 moveToNextSlide()
             } else {
