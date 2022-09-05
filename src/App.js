@@ -103,7 +103,7 @@ import { useAuth } from "./components/Header/Context/AuthContext"
 
 
 export function App() {
-    const { currentUser } = useAuth()
+    const { userEmail } = useAuth()
     const term = useInputTerm()
     return (
         <div className="container">
@@ -204,7 +204,7 @@ export function App() {
                         <Route path={FooterCardComponents[3].path} element={<TermeniSiConditii />}></Route>
                         <Route path={FooterCardComponents[4].path} element={<DetaliiContact />}></Route>
                         <Route
-                            path={FooterCardComponents[5].path} element={!currentUser ? <CreeazaCont /> : <Navigate replace to="/" />}>
+                            path={FooterCardComponents[5].path} element={!userEmail ? <CreeazaCont /> : <Navigate replace to="/" />}>
                         </Route>
                         <Route path={FooterCardComponents[6].path} element={<ProgramDeFidelitate />}></Route>
                         <Route path={FooterCardComponents[5].path} element={<AmUitatParola />}></Route>

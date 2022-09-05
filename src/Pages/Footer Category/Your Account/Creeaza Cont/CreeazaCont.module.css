@@ -16,7 +16,8 @@
     }
 
     .errorMessageContainer,
-    .successMessageContainer {
+    .successMessageContainer,
+    .resetPassowrdMessageContainer {
         display: flex;
         margin-top: 20px;
         justify-content: center;
@@ -31,6 +32,12 @@
     }
 
     .successMessage {
+        border-radius: 10px;
+        padding: 20px;
+        background-color: #CBFFC0;
+    }
+
+    .resetPasswordMessage {
         border-radius: 10px;
         padding: 20px;
         background-color: #CBFFC0;
@@ -73,7 +80,7 @@
 
     .forgotPasswordResetForm {
         width: 100%;
-        display: none;
+        /* display: none; */
     }
 
     .title {
@@ -291,6 +298,10 @@
         font-weight: bold;
     }
 
+    .noAccount>*:hover {
+        color: #47792e;
+    }
+
     .forgotPassword>*:hover {
         color: #47792e;
     }
@@ -364,6 +375,28 @@
         align-items: center;
     }
 
+    .errorMessageContainer,
+    .successMessageContainer {
+        display: flex;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+
+    .errorMessage {
+        border-radius: 10px;
+        padding: 20px;
+        background-color: #f3c8c9;
+    }
+
+    .successMessage {
+        border-radius: 10px;
+        padding: 20px;
+        background-color: #CBFFC0;
+    }
+
     .loginForm {
         display: flex;
         flex-direction: column;
@@ -387,6 +420,11 @@
         align-items: center;
     }
 
+    .forgotPasswordResetForm {
+        width: 100%;
+        /* display: none; */
+    }
+
     .title {
         margin-bottom: 25px;
         font-weight: bold;
@@ -395,7 +433,8 @@
 
     .googleButton,
     .facebookButton,
-    .loginButton {
+    .loginButton,
+    .singUpButton {
         margin-bottom: 15px;
         display: flex;
         justify-content: center;
@@ -415,13 +454,14 @@
         animation: fade-in 500ms forwards;
     }
 
-    /* .googleButton:hover,
+    .googleButton:hover,
     .facebookButton:hover,
     .loginButton:hover,
-    .loginButtonHidden:hover {
+    .loginButtonHidden:hover,
+    .singUpButton:hover {
         background-color: #dde7ff;
         border-color: #f7f7f7;
-    } */
+    }
 
     .googleIcon,
     .facebookIcon {
@@ -433,7 +473,7 @@
         color: #559137;
     }
 
-    /* .emailBox {
+    .emailBox {
         text-indent: unset;
         max-width: 100%;
         width: 100%;
@@ -450,7 +490,7 @@
 
     .emailBox::placeholder {
         color: #aaaa
-    } */
+    }
 
     .sendButton {
         margin-bottom: 15px;
@@ -473,7 +513,8 @@
         display: block;
     }
 
-    .authButton {
+    .authButton,
+    .singupFormButton {
         margin-bottom: 15px;
         display: flex;
         justify-content: center;
@@ -495,7 +536,8 @@
     }
 
     .sendButton:hover,
-    .authButton:hover {
+    .authButton:hover,
+    .singupFormButton:hover {
         background: #47792e;
         border: 1px solid #47792e;
     }
@@ -506,7 +548,7 @@
 
     }
 
-    /* .loginButtonHidden {
+    .loginButtonHidden {
         margin-bottom: 15px;
         display: flex;
         justify-content: center;
@@ -524,9 +566,10 @@
         margin-bottom: 10px;
         cursor: pointer;
         animation: fade-in 500ms forwards;
-    } */
+    }
 
-    /* .boxPassword {
+    .boxPassword,
+    .boxPasswordConfirmation {
         text-indent: unset;
         max-width: 100%;
         width: 100%;
@@ -538,13 +581,14 @@
         border-radius: 10px;
         outline: none;
         margin-bottom: 10px;
-        display: none;
+        /* display: none; */
         animation: fade-in 500ms forwards;
     }
 
-    .boxPassword::placeholder {
+    .boxPassword::placeholder,
+    .boxPasswordConfirmation::placeholder {
         color: #aaaa
-    } */
+    }
 
     .forgotPassword {
         margin-bottom: 15px;
@@ -599,6 +643,11 @@
         color: #559137;
         font-weight: bold;
     }
+
+    .noAccount>*:hover {
+        color: #47792e;
+    }
+
 
     .forgotPassword>*:hover {
         color: #47792e;

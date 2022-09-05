@@ -9,7 +9,7 @@ const ClickButton = React.createContext()
 const DeleteTerm = React.createContext()
 const CheckIsTrue = React.createContext()
 const IsTrueValue = React.createContext()
-const windowWidthCheck = React.createContext()
+// const windowWidthCheck = React.createContext()
 
 
 export function useSendTerm() {
@@ -44,16 +44,16 @@ export function useIsTrueValue() {
     return useContext(IsTrueValue)
 }
 
-export function useWindowWidthCheck() {
-    return useContext(windowWidthCheck)
-}
+// export function useWindowWidthCheck() {
+//     return useContext(windowWidthCheck)
+// }
 
 export function StateContext({ children }) {
 
     const [inputTerm, setInputTerm] = React.useState("")
     const [buttonTerm, setButtonTerm] = React.useState("")
     const [isOpen, setIsOpen] = React.useState(false)
-    const [windowWidth, setWindowWidth] = React.useState(window.innerWidth)
+    // const [windowWidth, setWindowWidth] = React.useState(window.innerWidth)
     const navigate = useNavigate()
     const path = "/search/" + inputTerm
 
@@ -82,12 +82,7 @@ export function StateContext({ children }) {
         setIsOpen(!isOpen)
     }
 
-    function checkWindowWidth() {
-        setWindowWidth(window.innerWidth)
-        if (windowWidth >= 1024) {
-            setIsOpen(false)
-        }
-    }
+
 
     return (
         <InputTermContext.Provider value={buttonTerm}>
@@ -98,9 +93,9 @@ export function StateContext({ children }) {
                             <DeleteTerm.Provider value={deleteTerm}>
                                 <CheckIsTrue.Provider value={CheckTheTruethness}>
                                     <IsTrueValue.Provider value={isOpen}>
-                                        <windowWidthCheck.Provider value={checkWindowWidth}>
-                                            {children}
-                                        </windowWidthCheck.Provider>
+                                        {/* <windowWidthCheck.Provider value={checkWindowWidth}> */}
+                                        {children}
+                                        {/* </windowWidthCheck.Provider> */}
                                     </IsTrueValue.Provider>
                                 </CheckIsTrue.Provider>
                             </DeleteTerm.Provider>

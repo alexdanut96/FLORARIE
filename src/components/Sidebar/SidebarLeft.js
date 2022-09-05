@@ -8,11 +8,13 @@ import { promo } from "../../Pages/Product Category/Oferte si Promotii/Promo_ite
 import logo from "../../images/logo_white.jpg"
 import { useMenuValue, useOpenTheMenu } from "../Header/Context/ShoppingCartContext"
 import { FooterCardComponents } from "../../Pages/Footer Category/Footer Card Components/FooterCardComponents"
+import { useAuth } from "../Header/Context/AuthContext"
 
 export function SidebarLeft() {
 
     const closeTheMenuBox = useOpenTheMenu()
     const isOpen = useMenuValue()
+    const { currentUser, userEmail, } = useAuth()
 
     return (
         <div
@@ -49,7 +51,16 @@ export function SidebarLeft() {
                 })}
             </div>
             <div className={STYLE.sidebarBottom} >
-                <Link onClick={closeTheMenuBox} to={FooterCardComponents[5].path}>Cont</Link>
+                {!userEmail ?
+                    <Link
+                        className={STYLE.logoutAccount}
+                        onClick={closeTheMenuBox} to={FooterCardComponents[5].path}>Cont
+                    </Link> :
+                    <div className={STYLE.userAccoutEmail}>
+                        <div className={STYLE.greetings}>Salut,</div>
+                        <div className={STYLE.userAccount}>{currentUser.email}!</div>
+                    </div>
+                }
             </div>
 
         </div>

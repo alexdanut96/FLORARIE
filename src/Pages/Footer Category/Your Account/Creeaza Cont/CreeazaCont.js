@@ -9,43 +9,60 @@ import { useNavigate } from "react-router-dom";
 
 export function CreeazaCont() {
 
-    // const singUpForm = document.querySelectorAll(`.${STYLE.singUpForm}`)
-    // const singInForm = document.querySelectorAll(`.${STYLE.singInForm}`)
-    const singUpButton = document.querySelectorAll(`.${STYLE.singUpButton}`)
-    const loginButton = document.querySelectorAll(`.${STYLE.loginButton}`)
-    // const singupFormButton = document.querySelectorAll(`.${STYLE.singupFormButton}`)
+    // const singUpButton = document.querySelectorAll(`.${STYLE.singUpButton}`)
+    // const loginButton = document.querySelectorAll(`.${STYLE.loginButton}`)
 
-    console.log(singUpButton[0])
-    console.log(loginButton[0])
+    const [showSingupForm, setShowSingupForm] = useState(false)
+    const [showSinginForm, setShowSinginForm] = useState(true)
+    const [showResetPasswordForm, setShowResetPasswordForm] = useState(false)
 
     const singupEmailRef = useRef()
     const singupPasswordRef = useRef()
     const singupPasswordConfirmRef = useRef()
     const singinEmailRef = useRef()
     const singinPasswordRef = useRef()
-    const { signup, login } = useAuth()
+    const resetPasswordRef = useRef()
+    const { signup, login, logout, showEmail, resetPassword } = useAuth()
     const [error, setError] = useState("")
     const [successMessage, setSuccessMessage] = useState("")
     const [loading, setLoading] = useState(false)
-    const [isOpen, setIsOpen] = useState(true)
+    const [message, setMessage] = useState("")
     const navigate = useNavigate()
+
+    function ShowResetPswForm() {
+        setShowResetPasswordForm(true)
+        setShowSingupForm(true)
+        setShowSinginForm(true)
+    }
+
+    function showSngupForm() {
+        setShowSingupForm(true)
+        setShowSinginForm(false)
+        setShowResetPasswordForm(false)
+    }
+
+    function showSnginForm() {
+        setShowSinginForm(true)
+        setShowSingupForm(false)
+        setShowResetPasswordForm(false)
+    }
 
     async function singupSubmit(e) {
         e.preventDefault()
 
         if (singupPasswordRef.current.value !== singupPasswordConfirmRef.current.value) {
-            return setError("Ai adaugat parole diferite!")
+            return setError("Parolele sunt diferite!")
         }
 
         try {
             setError("")
             setLoading(true)
             await signup(singupEmailRef.current.value, singupPasswordRef.current.value)
-            setIsOpen(!isOpen)
+            logout()
+            showSngupForm()
             setSuccessMessage("Contul a fost creat cu succes!")
-            singupEmailRef.current.value = ""
-            singupPasswordRef.current.value = ""
-            singupPasswordConfirmRef.current.value = ""
+            singinEmailRef.current.value = ""
+            singinPasswordRef.current.value = ""
         } catch {
             setSuccessMessage("")
             setError("Nu s-a putut crea contul!")
@@ -62,79 +79,28 @@ export function CreeazaCont() {
             setSuccessMessage("")
             setLoading(true)
             await login(singinEmailRef.current.value, singinPasswordRef.current.value)
+            showEmail()
             navigate("/")
         } catch {
-            setError("Failed to log in")
+            setError("Email și/sau parolă greșite!")
         }
 
         setLoading(false)
     }
 
-    // useEffect(() => {
-
-    //     const singUpButton = document.querySelectorAll(`.${STYLE.singUpButton}`)
-    //     const loginButton = document.querySelectorAll(`.${STYLE.loginButton}`)
-    //     const boxPassword = document.querySelectorAll(`.${STYLE.boxPassword}`)
-    //     const forgotPassword = document.querySelectorAll(`.${STYLE.forgotPassword}`)
-    //     const sendButton = document.querySelectorAll(`.${STYLE.sendButton}`)
-    //     const authButton = document.querySelectorAll(`.${STYLE.authButton}`)
-    //     const noAccount = document.querySelectorAll(`.${STYLE.noAccount}`)
-    //     const forgotPasswordForm = document.querySelectorAll(`.${STYLE.forgotPasswordForm}`)
-    //     const forgotPasswordFormLeft = document.querySelectorAll(`.${STYLE.forgotPasswordFormLeft}`)
-
-    //     forgotPasswordForm[0].style.display = "none"
-
-    //     loginButton[0].addEventListener("click", () => {
-    //         loginButton[0].style.display = "none"
-    //         singUpButton[0].style.display = "block"
-    //         boxPassword[0].style.display = "block"
-    //         forgotPassword[0].style.display = "flex"
-    //         authButton[0].style.display = "block"
-    //         sendButton[0].style.display = "none"
-    //         noAccount[0].style.display = "flex"
-    //     })
-
-    //     singUpButton[0].addEventListener("click", () => {
-    //         singUpButton[0].style.display = "none"
-    //         loginButton[0].style.display = "block"
-    //         boxPassword[0].style.display = "none"
-    //         forgotPassword[0].style.display = "none"
-    //         authButton[0].style.display = "none"
-    //         sendButton[0].style.display = "block"
-    //         noAccount[0].style.display = "none"
-    //         noAccount[0].style.display = "none"
-    //         forgotPasswordForm[0].style.display = "none"
-    //     })
-
-    //     forgotPassword[0].addEventListener("click", () => {
-    //         forgotPassword[0].style.display = "none"
-    //         loginButton[0].style.display = "block"
-    //         forgotPasswordForm[0].style.display = "flex"
-    //         boxPassword[0].style.display = "none"
-    //         noAccount[0].style.display = "none"
-    //         authButton[0].style.display = "none"
-    //     })
-
-    //     forgotPasswordFormLeft[0].addEventListener("click", () => {
-    //         boxPassword[0].style.display = "block"
-    //         forgotPasswordForm[0].style.display = "none"
-    //         authButton[0].style.display = "block"
-    //         loginButton[0].style.display = "none"
-    //         forgotPassword[0].style.display = "flex"
-    //         noAccount[0].style.display = "flex"
-    //     })
-
-    //     noAccount[0].addEventListener("click", () => {
-    //         forgotPassword[0].style.display = "none"
-    //         loginButton[0].style.display = "block"
-    //         forgotPasswordForm[0].style.display = "flex"
-    //         boxPassword[0].style.display = "none"
-    //         noAccount[0].style.display = "none"
-    //         authButton[0].style.display = "none"
-    //     })
-
-
-    // })
+    async function resetPassowrdSubmit(e) {
+        e.preventDefault()
+        try {
+            setMessage("")
+            setError("")
+            setLoading(true)
+            await resetPassword(resetPasswordRef.current.value)
+            setMessage("Link-ul de restare al parolei a fost trimis pe adresa dvs. de email")
+        } catch {
+            setError("Failed to reset password")
+        }
+        setLoading(false)
+    }
 
     return (
         <div className={STYLE.container}>
@@ -155,16 +121,16 @@ export function CreeazaCont() {
                             Alege o opțiune de autentificare
                         </div>
                         <button
-                            onClick={() => setIsOpen(!isOpen)}
+                            onClick={showSnginForm}
                             className={STYLE.singUpButton}
-                            style={{ display: isOpen ? "none" : "block" }}
+                            style={{ display: showSingupForm ? "block" : "none" }}
                         >
                             <div className={STYLE.buttonText}>Inregistreaza-te</div>
                         </button>
                         <button
-                            onClick={() => setIsOpen(!isOpen)}
+                            onClick={showSngupForm}
                             className={STYLE.loginButton}
-                            style={{ display: isOpen ? "block" : "none" }}
+                            style={{ display: showSinginForm ? "block" : "none" }}
                         >
                             <div className={STYLE.buttonText}>Autentifica-te cu e-mailul si parola</div>
                         </button>
@@ -183,7 +149,7 @@ export function CreeazaCont() {
 
                         <form
                             className={STYLE.singUpForm}
-                            style={{ display: isOpen ? "block" : "none" }}
+                            style={{ display: !showSingupForm ? "block" : "none" }}
                             onSubmit={singupSubmit}>
                             <div className={STYLE.title}>
                                 Inregistreaza-te
@@ -193,20 +159,26 @@ export function CreeazaCont() {
                                 type="email"
                                 placeholder="Ex: example@gmail.com"
                                 ref={singupEmailRef}
+                                required
                             />
                             <input
                                 className={STYLE.boxPassword}
                                 type="password"
                                 placeholder="Adauga-ti parola"
                                 ref={singupPasswordRef}
+                                required
                             />
                             <input
                                 className={STYLE.boxPasswordConfirmation}
                                 type="password"
                                 placeholder="Confirma parola"
                                 ref={singupPasswordConfirmRef}
+                                required
                             />
-                            <button disabled={loading} className={STYLE.singupFormButton}>
+                            <button
+                                type="submit"
+                                disabled={loading}
+                                className={STYLE.singupFormButton}>
                                 <div className={STYLE.sendButtonText}>Inregistreaza-te</div>
                             </button>
                         </form>
@@ -214,7 +186,7 @@ export function CreeazaCont() {
 
                         <form
                             className={STYLE.singInForm}
-                            style={{ display: isOpen ? "none" : "block" }}
+                            style={{ display: !showSinginForm ? "block" : "none" }}
                             onSubmit={loginSubmit}
                         >
                             <div className={STYLE.title}>
@@ -225,42 +197,68 @@ export function CreeazaCont() {
                                 type="email"
                                 placeholder="Ex: example@gmail.com"
                                 ref={singinEmailRef}
+                                required
                             />
                             <input
                                 className={STYLE.boxPassword}
                                 type="password"
                                 placeholder="Adauga-ti parola"
                                 ref={singinPasswordRef}
+                                required
                             />
-                            <button className={STYLE.authButton}>
+                            <button
+                                disabled={loading}
+                                type="submit"
+                                className={STYLE.authButton}>
                                 <div className={STYLE.sendButtonText}>Autentificare</div>
                             </button>
-                            <div className={STYLE.forgotPassword}>
-                                <button>Mi-am uitat parola</button>
+                            <div
+                                onClick={ShowResetPswForm}
+                                className={STYLE.forgotPassword}>
+                                <div>Mi-am uitat parola</div>
                             </div>
-                            <div className={STYLE.noAccount}>
-                                <button>Nu ai un cont? Înregistrează-te</button>
+                            <div
+                                onClick={showSnginForm}
+                                className={STYLE.noAccount}>
+                                <div>Nu ai un cont? Înregistrează-te</div>
                             </div>
                         </form>
 
 
 
-                        <form className={STYLE.forgotPasswordResetForm}>
+                        <form
+                            onSubmit={resetPassowrdSubmit}
+                            style={{ display: showResetPasswordForm ? "block" : "none" }}
+                            className={STYLE.forgotPasswordResetForm}>
                             <div className={STYLE.title}>
                                 Primește codul de acces prin e-mail
                             </div>
                             <input
+                                ref={resetPasswordRef}
                                 className={STYLE.emailBox}
                                 type="email"
                                 placeholder="Ex: example@gmail.com"
+                                required
                             />
                             <div className={STYLE.forgotPasswordForm}>
-                                <button className={STYLE.forgotPasswordFormLeft}>
+                                <div
+                                    onClick={showSngupForm}
+                                    className={STYLE.forgotPasswordFormLeft}>
                                     <BsArrowLeftShort />
                                     <div>Inapoi</div>
+                                </div>
+                                <button
+                                    type="submit"
+                                    disabled={loading}
+                                    className={STYLE.forgotPasswordFormRight}>Trimite
                                 </button>
-                                <button className={STYLE.forgotPasswordFormRight}>Trimite</button>
                             </div>
+
+                            {message &&
+                                <div className={STYLE.resetPassowrdMessageContainer} >
+                                    <div className={STYLE.resetPasswordMessage}>{message}</div>
+                                </div>
+                            }
                         </form>
 
 
