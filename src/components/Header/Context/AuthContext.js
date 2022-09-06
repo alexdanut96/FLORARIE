@@ -35,11 +35,6 @@ export function AuthProvider({ children }) {
     }
 
     function logout() {
-        // if (currentUser) {
-        //     setUserEmail(false)
-        // } else {
-        //     setUserEmail(true)
-        // }
         return auth.signOut()
     }
 
@@ -72,7 +67,7 @@ export function AuthProvider({ children }) {
         })
 
         return unsubscribe
-    }, [])
+    }, [setUserEmail])
 
     const value = {
         currentUser,

@@ -5,12 +5,9 @@ import { SiGmail } from "react-icons/si"
 import { BsFacebook } from "react-icons/bs"
 import { BsArrowLeftShort } from "react-icons/bs"
 import { useAuth } from "../../../../components/Header/Context/AuthContext";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 
 export function CreeazaCont() {
-
-    // const singUpButton = document.querySelectorAll(`.${STYLE.singUpButton}`)
-    // const loginButton = document.querySelectorAll(`.${STYLE.loginButton}`)
 
     const [showSingupForm, setShowSingupForm] = useState(false)
     const [showSinginForm, setShowSinginForm] = useState(true)
@@ -27,7 +24,7 @@ export function CreeazaCont() {
     const [successMessage, setSuccessMessage] = useState("")
     const [loading, setLoading] = useState(false)
     const [message, setMessage] = useState("")
-    const navigate = useNavigate()
+    // const navigate = useNavigate()
 
     function ShowResetPswForm() {
         setShowResetPasswordForm(true)
@@ -79,8 +76,9 @@ export function CreeazaCont() {
             setSuccessMessage("")
             setLoading(true)
             await login(singinEmailRef.current.value, singinPasswordRef.current.value)
+            window.location.href = "/"
             showEmail()
-            navigate("/")
+            // navigate("/")
         } catch {
             setError("Email și/sau parolă greșite!")
         }

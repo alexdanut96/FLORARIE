@@ -100,6 +100,7 @@ import { SidebarLeft } from "./components/Sidebar/SidebarLeft"
 import items from "./data/Items.json"
 import { useInputTerm } from "./components/Header/Context/StateContext"
 import { useAuth } from "./components/Header/Context/AuthContext"
+import { TopSliderDemo } from "./components/HomePage/Sliders/TopSliderDemo"
 
 
 export function App() {
@@ -215,6 +216,7 @@ export function App() {
                         <Route path={FooterCardComponents[12].path} element={<PoliticaDeReturnare />}></Route>
                         <Route path={FooterCardComponents[13].path} element={<FAQ />}></Route>
                         <Route path={FooterCardComponents[16].path} element={<FiiPartener />}></Route>
+                        <Route path="/top-slider-demo" element={<TopSliderDemo />}></Route>
 
 
                         {/*-------------> Search Bar Category <-------------*/}

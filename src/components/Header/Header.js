@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
 import logo from "../../images/logo_white.jpg"
 import STYLE from "./Header.module.css"
@@ -48,7 +48,7 @@ export function Header() {
     const [openSearchBar, setOpenSearchBar] = useState(false)
 
     const { cartQuantity } = useModify()
-    const navigate = useNavigate()
+    // const navigate = useNavigate()
 
     const getTerm = useSendTerm()
     const showButton = useButtonTerm()
@@ -117,7 +117,8 @@ export function Header() {
             setLoginSuccess("")
             setLoading(true)
             await login(singinEmailRef.current.value, singinPasswordRef.current.value)
-            navigate("/")
+            // navigate("/")
+            window.location.reload()
             setSingupSuccess("")
             setLoginBtnIsOpen(false)
             setLoginSuccess("Te-ai logat cu succes!")
@@ -134,11 +135,12 @@ export function Header() {
 
         try {
             await logout()
+            window.location.reload()
             setLoginBtnIsOpen(false)
             hideEmail()
             setShowSingupForm(false)
             setShowSinginForm(false)
-            navigate("/")
+            // navigate("/")
         } catch {
             if (logoutError) {
                 setLogoutError("Deconectarea a esuat")

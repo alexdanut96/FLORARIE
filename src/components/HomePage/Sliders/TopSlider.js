@@ -26,8 +26,6 @@ export function TopSlider() {
         dotOne[0].style.borderColor = "#559137"
         slide[0].style.transform = `translateX(${-slideWidth}%)`
 
-        // console.log(slides.indexOf(slides[0]))
-
         slide[0].addEventListener("transitionend", () => {
             if (index === slidesNumber - 1) {
                 index = 1
@@ -186,7 +184,6 @@ export function TopSlider() {
             }
         }
 
-        // startSlide()
     })
 
     return (
