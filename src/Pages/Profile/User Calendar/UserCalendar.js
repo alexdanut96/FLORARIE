@@ -1,10 +1,14 @@
-import React, { useRef, useEffect } from "react";
+import React, { useRef, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import STYLE from "../User.module.css"
 import { ImUserTie } from "react-icons/im"
 import { BsArrowLeftShort } from "react-icons/bs"
+import { useAuth } from "../../../components/Header/Context/AuthContext";
 
 export function Calendar() {
+
+    const { logout, hideEmail } = useAuth()
+    const [logoutError, setLogoutError] = useState("")
 
     const profileRef = useRef()
     const addressRef = useRef()
@@ -16,6 +20,20 @@ export function Calendar() {
     const clubRef = useRef()
     const myCompaniesRef = useRef()
     const wishlistRef = useRef()
+
+    async function handleLogout() {
+        setLogoutError("")
+
+        try {
+            await logout()
+            window.location.reload()
+            hideEmail()
+        } catch {
+            if (logoutError) {
+                setLogoutError("Deconectarea a esuat")
+            }
+        }
+    }
 
     useEffect(() => {
         calendarRef.current.style.color = "darkmagenta"
@@ -87,6 +105,7 @@ export function Calendar() {
                                     className={STYLE.propsTen}>My Whishlist
                                 </Link>
                                 <div
+                                    onClick={handleLogout}
                                     style={{ color: "red" }}
                                     className={STYLE.propsEleven}>Deconecteaza-te
                                 </div>

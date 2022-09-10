@@ -1,13 +1,16 @@
-import React, { useRef, useEffect } from "react";
+import React, { useRef, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import STYLE from "../User.module.css"
 import { ImUserTie } from "react-icons/im"
 import { BsArrowLeftShort } from "react-icons/bs"
 import { useUserAccount } from "../../../components/Header/Context/UserAccountContext";
 import { useNavigate } from "react-router-dom";
+import { useAuth } from "../../../components/Header/Context/AuthContext";
 
 export function UserProfileEdit() {
 
+    const { logout, hideEmail } = useAuth()
+    const [logoutError, setLogoutError] = useState("")
     const navigate = useNavigate()
 
     const {
@@ -125,6 +128,20 @@ export function UserProfileEdit() {
         removeLnameError()
     }
 
+    async function handleLogout() {
+        setLogoutError("")
+
+        try {
+            await logout()
+            window.location.reload()
+            hideEmail()
+        } catch {
+            if (logoutError) {
+                setLogoutError("Deconectarea a esuat")
+            }
+        }
+    }
+
     useEffect(() => {
         profileRef.current.style.color = "darkmagenta"
     })
@@ -198,6 +215,7 @@ export function UserProfileEdit() {
                                     className={STYLE.propsTen}>My Whishlist
                                 </Link>
                                 <div
+                                    onClick={handleLogout}
                                     style={{ color: "red" }}
                                     className={STYLE.propsEleven}>Deconecteaza-te
                                 </div>

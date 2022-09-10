@@ -240,39 +240,36 @@ export function App() {
                             </Route>
                             <Route
                                 path="/account/profile/edit" element={userEmail ? <UserProfileEdit /> : <Navigate replace to={FooterCardComponents[5].path} />}>
-
                             </Route>
                             <Route
                                 path="/account/addresses" element={userEmail ? <UserAddress /> : <Navigate replace to={FooterCardComponents[5].path} />}>
-
                             </Route>
                             <Route
                                 path="/account/addresses/edit" element={userEmail ? <UserAddressesEdit /> : <Navigate replace to={FooterCardComponents[5].path} />}>
-
                             </Route>
                             <Route
                                 path="/account/orders" element={userEmail ? <Orders /> : <Navigate replace to={FooterCardComponents[5].path} />}>
                             </Route>
-                            <Route path="/account/cards" element={userEmail ? <PaymentCards /> : <Navigate replace to={FooterCardComponents[5].path} />}>
-
+                            <Route
+                                path="/account/cards" element={userEmail ? <PaymentCards /> : <Navigate replace to={FooterCardComponents[5].path} />}>
                             </Route>
                             <Route
                                 path="/account/notification-settings" element={userEmail ? <NotificationSettings /> : <Navigate replace to={FooterCardComponents[5].path} />}>
-
                             </Route>
                             <Route
-                                path="/account/calendar" element={!userEmail ? <Calendar /> : <Navigate replace to={FooterCardComponents[5].path} />}></Route>
-                            <Route path="/account/authentication" element={userEmail ? <Authentication /> : <Navigate replace to={FooterCardComponents[5].path} />}>
-
+                                path="/account/calendar" element={userEmail ? <Calendar /> : <Navigate replace to={FooterCardComponents[5].path} />}>
                             </Route>
                             <Route
-                                path="/account/Club" element={<Club />}></Route>
-                            <Route path="/account/my-companies" element={userEmail ? <UserCompanies /> : <Navigate replace to={FooterCardComponents[5].path} />}>
-
+                                path="/account/authentication" element={userEmail ? <Authentication /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+                            </Route>
+                            <Route
+                                path="/account/Club" element={userEmail ? <Club /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+                            </Route>
+                            <Route
+                                path="/account/my-companies" element={userEmail ? <UserCompanies /> : <Navigate replace to={FooterCardComponents[5].path} />}>
                             </Route>
                             <Route
                                 path="/account/wishlist" element={userEmail ? <Wishlist /> : <Navigate replace to={FooterCardComponents[5].path} />}>
-
                             </Route>
 
 

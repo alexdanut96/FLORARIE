@@ -704,6 +704,11 @@
         margin-top: 0;
     }
 
+    .singInForm {
+        width: 100%;
+        display: none;
+    }
+
 
     @keyframes fade-in {
         0% {

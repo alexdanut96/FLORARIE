@@ -1,11 +1,15 @@
-import React, { useRef, useEffect } from "react";
+import React, { useRef, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import STYLE from "../User.module.css"
 import { ImUserTie } from "react-icons/im"
 import { BsArrowLeftShort } from "react-icons/bs"
 import { useUserAccount } from "../../../components/Header/Context/UserAccountContext";
+import { useAuth } from "../../../components/Header/Context/AuthContext";
 
 export function UserAddress() {
+
+    const { logout, hideEmail } = useAuth()
+    const [logoutError, setLogoutError] = useState("")
 
     const {
         demo,
@@ -22,6 +26,20 @@ export function UserAddress() {
     const clubRef = useRef()
     const myCompaniesRef = useRef()
     const wishlistRef = useRef()
+
+    async function handleLogout() {
+        setLogoutError("")
+
+        try {
+            await logout()
+            window.location.reload()
+            hideEmail()
+        } catch {
+            if (logoutError) {
+                setLogoutError("Deconectarea a esuat")
+            }
+        }
+    }
 
     useEffect(() => {
         addressRef.current.style.color = "darkmagenta"
@@ -93,6 +111,7 @@ export function UserAddress() {
                                     className={STYLE.propsTen}>My Whishlist
                                 </Link>
                                 <div
+                                    onClick={handleLogout}
                                     style={{ color: "red" }}
                                     className={STYLE.propsEleven}>Deconecteaza-te
                                 </div>
