@@ -1,0 +1,116 @@
+body.active-modal {
+    overflow-y: hidden;
+}
+
+.btn-modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-indent: unset;
+    padding: 8px 15px;
+    font-size: 0.8rem;
+    box-sizing: border-box;
+    background: #559137;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    width: 100%;
+}
+
+.confirmation-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-indent: unset;
+    padding: 5px 15px;
+    font-size: 0.8rem;
+    box-sizing: border-box;
+    background: #559137;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    width: 100%;
+}
+
+.btn-modal:hover,
+.confirmation-btn:hover {
+    background: #47792e;
+}
+
+.modal,
+.overlay {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+.overlay {
+    background: rgba(49, 49, 49, 0.8);
+}
+
+.modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1.4;
+    background: #f1f1f1;
+    padding: 10px 28px;
+    border-radius: 3px;
+    max-width: 600px;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.close-modal {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 7px 10px 5px 12px;
+    border: 1px solid #559137;
+    border-radius: 5px;
+    color: red;
+    cursor: pointer;
+}
+
+.close-modal:hover {
+    background-color: #cccc;
+    border-color: #cccc;
+    color: white;
+}
+
+.confirmation-message {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 40px;
+}
+
+@media all and (min-width: 639px) {
+
+    .btn-modal {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-indent: unset;
+        padding: 5px 15px;
+        font-size: 0.8rem;
+        box-sizing: border-box;
+        background: #559137;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        outline: none;
+        cursor: pointer;
+        color: white;
+        width: fit-content;
+    }
+}

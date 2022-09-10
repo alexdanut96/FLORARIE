@@ -5,6 +5,7 @@ import { ImUserTie } from "react-icons/im"
 import { BsArrowLeftShort } from "react-icons/bs"
 import { useUserAccount } from "../../../components/Header/Context/UserAccountContext";
 import { useAuth } from "../../../components/Header/Context/AuthContext";
+import { Modal } from "../../../components/Header/Hooks/Modal";
 
 export function UserAddress() {
 
@@ -232,23 +233,11 @@ export function UserAddress() {
                                             <div className={STYLE.addAddressButtonText}>Editează</div>
                                         </button>
                                     </Link>
-
-                                    <button
-                                        onClick={removeAddress}
-                                        type="submit"
-                                        // disabled={loading}
-                                        className={STYLE.addAddressButton}>
-                                        <div className={STYLE.addAddressButtonText}>Sterge adresa</div>
-                                    </button>
+                                    <Modal />
                                 </div>
-
-
-
-
 
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>

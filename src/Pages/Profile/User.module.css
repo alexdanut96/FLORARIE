@@ -596,6 +596,7 @@
         font-size: 1.3rem;
         font-weight: bold;
         letter-spacing: 2px;
+        margin-top: 10px;
     }
 
     .profileInfoContainer {
@@ -652,7 +653,7 @@
     .addressButtons {
         display: flex;
         flex-direction: column;
-        gap: 5px;
+        gap: 10px;
     }
 
     .addAddressButton {
@@ -660,7 +661,7 @@
         justify-content: center;
         align-items: center;
         text-indent: unset;
-        padding: 5px 15px;
+        padding: 8px 15px;
         font-size: 0.8rem;
         box-sizing: border-box;
         background: #559137;
