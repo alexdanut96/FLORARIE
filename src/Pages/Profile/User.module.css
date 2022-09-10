@@ -1,0 +1,753 @@
+.area {
+    grid-area: c;
+    margin-top: 50px;
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-in-background {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0.5;
+    }
+}
+
+/* @media all and (min-width: 1024px) { */
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 85rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.columnOne {
+    background-color: #f7f7f7;
+    padding: 30px;
+    min-width: 250px;
+    width: 25%;
+}
+
+.columnOneContent {
+    margin-right: 20px;
+}
+
+.columnTwo {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    padding: 1rem 0 0 1rem;
+}
+
+.profileTitle {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+.userIcon {
+    font-size: 50px;
+}
+
+.title {
+    font-size: 1.3rem;
+    line-height: 1;
+    font-weight: bold;
+}
+
+.accountProps {
+    display: flex;
+    flex-direction: column;
+}
+
+.propsOne,
+.propsTwo,
+.propsThree,
+.propsFour,
+.propsFive,
+.propsSix,
+.propsSeven,
+.propsEight,
+.propsNine,
+.propsTen,
+.propsEleven {
+    font-size: 1.1rem;
+    color: #84848a;
+    border-left: 4px solid transparent;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* .propsOne:hover,
+.propsTwo:hover,
+.propsThree:hover,
+.propsFour:hover,
+.propsFive:hover,
+.propsSix:hover,
+.propsSeven:hover,
+.propsEight:hover,
+.propsNine:hover,
+.propsTen:hover,
+.propsEleven:hover {
+    color: black !important;
+} */
+
+.goBack {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #559137;
+    width: fit-content;
+    padding: 0px 5px;
+    cursor: pointer;
+    background: none;
+    font-size: 0.9rem;
+    border: none;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.goBack:hover {
+    background-color: #f7f7f7;
+}
+
+.arrowLeftIcon {
+    font-size: 20px;
+}
+
+.propTitle {
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.profileInfoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-top: 50px;
+    animation: fade-in 200ms forwards;
+}
+
+.profileInfoContent {
+    border: 1px solid #559137;
+    border-radius: 20px;
+    max-width: 800px;
+    width: 100%;
+    display: flex;
+    padding: 40px;
+}
+
+.columnLeft {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.columnRight {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.lastNameSpot,
+.userEmailSpot,
+.userGenderSpot,
+.birthDateSpot,
+.firstNameSpot,
+.phoneNumberSpot {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.lastNameSpot>:nth-child(1),
+.userEmailSpot>:nth-child(1),
+.userGenderSpot>:nth-child(1),
+.birthDateSpot>:nth-child(1),
+.firstNameSpot>:nth-child(1),
+.phoneNumberSpot>:nth-child(1) {
+    font-weight: bold;
+}
+
+.lastNameSpot>:nth-child(2),
+.userEmailSpot>:nth-child(2),
+.userGenderSpot>:nth-child(2),
+.birthDateSpot>:nth-child(2),
+.firstNameSpot>:nth-child(2),
+.phoneNumberSpot>:nth-child(2) {
+    color: #396125;
+}
+
+.edit {
+    text-decoration: none;
+}
+
+.edit>* {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #559137;
+    width: fit-content;
+    padding: 0px 5px;
+    cursor: pointer;
+    background: none;
+    font-weight: bold;
+    font-size: 0.9rem;
+    border: none;
+    border-bottom: 1px solid #559137;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.edit>*:hover {
+    background-color: #f7f7f7;
+}
+
+.profileEditContainer {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    animation: fade-in 200ms forwards;
+}
+
+.profileEditContent {
+    border: 1px solid #559137;
+    padding: 50px;
+    max-width: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    border-radius: 20px;
+}
+
+.lastNameInput,
+.firstNameInput,
+.phoneNumberInput,
+.genderInput,
+.birthdayInput,
+.input {
+    text-indent: unset;
+    max-width: 100%;
+    width: 100%;
+    padding: 10px 10px;
+    font-size: 1rem;
+    box-sizing: border-box;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+    margin-top: 5px;
+    /* animation: fade-in 500ms forwards; */
+}
+
+/* .props {
+    text-decoration: none;
+} */
+
+.maleOption,
+.femaleOption {
+    color: black;
+}
+
+.submitButton {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    text-indent: unset;
+    max-width: 100%;
+    width: 100%;
+    padding: 10px 10px;
+    font-size: 1rem;
+    box-sizing: border-box;
+    background: #559137;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    /* animation: fade-in 500ms forwards; */
+}
+
+.submitButton:hover {
+    background: #47792e;
+}
+
+.dataErrorMessage {
+    color: red;
+    margin-top: 5px;
+}
+
+.propContainer {
+    animation: fade-in 100ms forwards;
+}
+
+.propContainer>:nth-child(1) {
+    color: #559137;
+}
+
+.addAddressButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-indent: unset;
+    padding: 5px 15px;
+    font-size: 0.8rem;
+    box-sizing: border-box;
+    background: #559137;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    color: white;
+}
+
+.addAddressButton:hover {
+    background: #47792e;
+}
+
+.noAddressTitle {
+    margin-top: 30px;
+    font-size: 2rem;
+    text-align: center;
+    color: #aaaa;
+}
+
+.addAddressButtonLink {
+    text-decoration: none;
+}
+
+#jumpToStreetInput,
+#jumpToStreetReceiverPhoneNumber,
+#jumpToLastName,
+#jumpToFirstName {
+    color: black;
+}
+
+.addressData {
+    display: flex;
+}
+
+.addressData>:nth-child(2) {
+    font-weight: bold;
+    color: #559137;
+}
+
+.addressInfoContainer {
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+
+.addressInfoContent {
+    border: 1px solid #559137;
+    width: fit-content;
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.addressInfoContent>:nth-last-child(1) {
+    margin-top: 30px;
+}
+
+.editAddress {
+    text-decoration: none;
+}
+
+.addressButtons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.showMoreText {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.showMore>:nth-child(2) {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.button {
+    border: 1px solid #aaaa;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-weight: bold;
+    padding: 13px 25px;
+    color: black;
+    border-radius: 50px;
+    letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+@media all and (min-width: 1024px) {
+    .productMax {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        /* max-width: 85rem; */
+        /* padding-right: 1rem;
+        padding-left: 1rem; */
+    }
+
+    .productMid {
+        display: none;
+    }
+
+    .productMin {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 1023px) and (min-width: 640px) {
+
+    .productMax {
+        display: none;
+    }
+
+    .productMid {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        /* max-width: 85rem; */
+        /* padding-right: 1rem;
+        padding-left: 1rem; */
+    }
+
+    .productMin {
+        display: none;
+    }
+}
+
+@media all and (max-width: 639px) {
+
+    .area {
+        grid-area: c;
+        margin-top: 1rem;
+    }
+
+    .productMax {
+        display: none;
+    }
+
+    .productMid {
+        display: none;
+    }
+
+    .productMin {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        /* max-width: 85rem; */
+        /* padding-right: 1rem;
+        padding-left: 1rem; */
+    }
+
+    .content {
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+    }
+
+    .columnOne {
+        background-color: #f7f7f7;
+        padding: 10px;
+        /* min-width: 250px; */
+        width: 100%;
+        /* border: solid; */
+    }
+
+    .columnOneContent {
+        margin-right: 0;
+    }
+
+    .columnTwo {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 1rem 0 0 0;
+    }
+
+    .accountProps {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .profileTitle {
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        gap: 10px;
+        margin-bottom: 0;
+        margin-bottom: 10px;
+    }
+
+    .userIcon {
+        font-size: 25px;
+    }
+
+    .title {
+        font-size: 1rem;
+        line-height: 1;
+        font-weight: bold;
+    }
+
+    .propsOne,
+    .propsTwo,
+    .propsThree,
+    .propsFour,
+    .propsFive,
+    .propsSix,
+    .propsSeven,
+    .propsEight,
+    .propsNine,
+    .propsTen,
+    .propsEleven {
+        font-size: 0.9rem;
+        color: #84848a;
+        border-left: none;
+        font-weight: bold;
+        padding-left: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        cursor: pointer;
+        text-decoration: none;
+        border: 1px solid #559137;
+        padding: 5px;
+        border-radius: 5px;
+
+    }
+
+    /* .propsOne:hover,
+    .propsTwo:hover,
+    .propsThree:hover,
+    .propsFour:hover,
+    .propsFive:hover,
+    .propsSix:hover,
+    .propsSeven:hover,
+    .propsEight:hover,
+    .propsNine:hover,
+    .propsTen:hover,
+    .propsEleven:hover {
+        color: black !important;
+    } */
+
+    .propTitle {
+        display: flex;
+        justify-content: space-between;
+        font-size: 1.3rem;
+        font-weight: bold;
+        letter-spacing: 2px;
+    }
+
+    .profileInfoContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin-top: 20px;
+        animation: fade-in 200ms forwards;
+    }
+
+    .profileInfoContent {
+        border: 1px solid #559137;
+        border-radius: 20px;
+        max-width: auto;
+        width: 100%;
+        display: flex;
+        padding: 30px;
+    }
+
+    .profileEditContainer {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        animation: fade-in 200ms forwards;
+    }
+
+    .profileEditContent {
+        border: 1px solid #559137;
+        padding: 30px;
+        max-width: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        border-radius: 20px;
+    }
+
+    .addressInfoContainer {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .addressInfoContent {
+        border: 1px solid #559137;
+        width: 100%;
+        padding: 30px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .addressButtons {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .addAddressButton {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-indent: unset;
+        padding: 5px 15px;
+        font-size: 0.8rem;
+        box-sizing: border-box;
+        background: #559137;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        outline: none;
+        cursor: pointer;
+        color: white;
+        width: 100%;
+    }
+
+
+
+}
+
+
+
+
+
+
+/* } */
+
+
+/* @media all and (max-width: 1023px) {
+
+    .content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .columnOne {
+        display: none;
+    }
+
+    .columnTwo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        width: auto;
+        background-color: #f7f7f7;
+        padding: 50px 1rem;
+    }
+
+    .columnTwo>:nth-child(1) {
+        display: flex;
+        align-self: flex-start;
+        margin-bottom: 50px;
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+
+    .freeDelivery>* {
+        margin-top: 0;
+    }
+}
+
+@media all and (max-width: 639px) {
+
+    .content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .columnOne {
+        display: none;
+    }
+
+    .columnTwo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        width: auto;
+        background-color: #f7f7f7;
+        padding: 50px 1rem;
+    }
+
+    .columnTwo>:nth-child(1) {
+        display: flex;
+        align-self: flex-start;
+        margin-bottom: 50px;
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+
+    .freeDelivery>* {
+        margin-top: 0;
+    }
+} */

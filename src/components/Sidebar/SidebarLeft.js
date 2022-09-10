@@ -56,10 +56,13 @@ export function SidebarLeft() {
                         className={STYLE.logoutAccount}
                         onClick={closeTheMenuBox} to={FooterCardComponents[5].path}>Cont
                     </Link> :
-                    <div className={STYLE.userAccoutEmail}>
+                    <Link
+                        onClick={closeTheMenuBox}
+                        to="/account/profile"
+                        className={STYLE.userAccoutEmail}>
                         <div className={STYLE.greetings}>Salut,</div>
                         <div className={STYLE.userAccount}>{currentUser.email}!</div>
-                    </div>
+                    </Link>
                 }
             </div>
 

@@ -14,9 +14,14 @@ export function CardContent(
         getItemQuantity,
         increaseCartQuantity,
         decreaseCartQuantity,
-        removeFromCart
+        removeFromCart,
+        addToWishlistButton,
+        removeFromWishlistButton,
+        addToFavorites
     } = useModify()
     const quantity = getItemQuantity(productCode)
+
+
 
 
     useEffect(() => {

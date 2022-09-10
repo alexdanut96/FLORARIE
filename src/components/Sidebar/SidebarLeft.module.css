@@ -89,6 +89,8 @@
     background-color: #f7f7f7;
     padding: 5px;
     border-radius: 50px;
+    text-decoration: none;
+    color: black;
 }
 
 .userAccoutEmail>* {
@@ -97,6 +99,7 @@
 
 .greetings {
     font-size: 1.2rem;
+    font-weight: bold;
 }
 
 .userAccount {

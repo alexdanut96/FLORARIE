@@ -91,9 +91,14 @@
     margin-bottom: 10px;
 }
 
-.myProfile,
-.favoriteList {
+.myProfile {
     font-size: 0.9rem;
+    text-decoration: none;
+    color: black;
+}
+
+.myProfile:hover {
+    font-weight: bold;
 }
 
 .logoutButton {

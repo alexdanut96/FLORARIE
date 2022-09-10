@@ -80,8 +80,6 @@ export function AuthProvider({ children }) {
         updatePassword,
         showEmail,
         hideEmail
-
-
     }
 
     return (

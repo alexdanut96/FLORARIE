@@ -14,9 +14,14 @@ export function ContentCardMax(
         getItemQuantity,
         increaseCartQuantity,
         decreaseCartQuantity,
-        removeFromCart
+        removeFromCart,
+        addToWishlist,
+        removeFromWishlist,
+        getFavItemValue
     } = useModify()
     const quantity = getItemQuantity(productCode)
+    const value = getFavItemValue(productCode)
+
 
     return (
         <div className={STYLE.cardContainer}>
@@ -35,8 +40,17 @@ export function ContentCardMax(
                                         </span>
                                     </div>
                                     <div className={STYLE.favorite} onClick={(e) => { e.preventDefault() }}>
-                                        <button className={STYLE.favoriteButton}>
-                                            <VscHeart className={STYLE.favoriteIcon} />
+                                        <button
+                                            onClick={() => addToWishlist(productCode)}
+                                            style={{ display: !value ? "block" : "none" }}
+                                            className={STYLE.favoriteButton}>
+                                            <VscHeart className={STYLE.favoriteIconUnchecked} />
+                                        </button>
+                                        <button
+                                            onClick={() => removeFromWishlist(productCode)}
+                                            style={{ display: value ? "block" : "none" }}
+                                            className={STYLE.favoriteButton}>
+                                            <VscHeart className={STYLE.favoriteIconChecked} />
                                         </button>
                                     </div>
                                 </div>

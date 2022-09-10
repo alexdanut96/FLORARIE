@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 import { useLocalStorage } from "../../Hooks/useLocalStorage";
 
 
@@ -10,12 +10,55 @@ export function useModify() {
 
 export function AddToCartContext({ children }) {
 
+    const [addToFavorites, setAddToFavorite] = useState(false)
+    const [favoriteItems, setFavoriteItems] = useLocalStorage("favorite-items", [])
     const [cartItems, setCartItems] = useLocalStorage("shopping-cart", [])
 
     const cartQuantity = cartItems.reduce(
         (quantity, item) => item.quantity + quantity,
         0
     )
+
+    const favAmount = favoriteItems.reduce(
+        (amount, item) => item.amount + amount,
+        0
+    )
+
+    function addToWishlistButton() {
+        setAddToFavorite(true)
+    }
+
+    function removeFromWishlistButton() {
+        setAddToFavorite(false)
+    }
+
+    function getFavItemValue(productCode) {
+        return favoriteItems.find(item => item.productCode === productCode)?.value || false
+    }
+
+    function addToWishlist(productCode) {
+        setAddToFavorite(true)
+        setFavoriteItems(currItems => {
+            if (currItems.find(item => item.productCode === productCode) === undefined) {
+                return [...currItems, { productCode, value: true }]
+            } else {
+                return currItems.map(item => {
+                    if (item.productCode === productCode) {
+                        return { ...item }
+                    } else {
+                        return item
+                    }
+                })
+            }
+        })
+    }
+
+    function removeFromWishlist(productCode) {
+        setAddToFavorite(false)
+        setFavoriteItems(currItems => {
+            return currItems.filter(item => item.productCode !== productCode)
+        })
+    }
 
     function getItemQuantity(productCode) {
         return cartItems.find(item => item.productCode === productCode)?.quantity || 0
@@ -67,7 +110,15 @@ export function AddToCartContext({ children }) {
             increaseCartQuantity,
             decreaseCartQuantity,
             removeFromCart,
-            cartQuantity
+            addToWishlistButton,
+            removeFromWishlistButton,
+            addToWishlist,
+            removeFromWishlist,
+            getFavItemValue,
+            cartQuantity,
+            favAmount,
+            addToFavorites,
+            favoriteItems
         }}>
             {children}
         </Modify.Provider>

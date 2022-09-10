@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from "react";
-// import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
 import logo from "../../images/logo_white.jpg"
 import STYLE from "./Header.module.css"
@@ -19,6 +18,7 @@ import { useMenuValue, useOpenTheMenu } from "./Context/ShoppingCartContext";
 import { useModify } from "./Context/AddToCartContext";
 import { useAuth } from "./Context/AuthContext";
 import { useSendTerm, useButtonTerm, useInputText, useClickButton, useDeleteTerm } from "./Context/StateContext";
+
 
 export function Header() {
 
@@ -48,7 +48,6 @@ export function Header() {
     const [openSearchBar, setOpenSearchBar] = useState(false)
 
     const { cartQuantity } = useModify()
-    // const navigate = useNavigate()
 
     const getTerm = useSendTerm()
     const showButton = useButtonTerm()
@@ -117,7 +116,6 @@ export function Header() {
             setLoginSuccess("")
             setLoading(true)
             await login(singinEmailRef.current.value, singinPasswordRef.current.value)
-            // navigate("/")
             window.location.reload()
             setSingupSuccess("")
             setLoginBtnIsOpen(false)
@@ -126,7 +124,6 @@ export function Header() {
         } catch {
             setLoginError("Email și/sau parolă greșite!")
         }
-
         setLoading(false)
     }
 
@@ -140,7 +137,6 @@ export function Header() {
             hideEmail()
             setShowSingupForm(false)
             setShowSinginForm(false)
-            // navigate("/")
         } catch {
             if (logoutError) {
                 setLogoutError("Deconectarea a esuat")
@@ -465,13 +461,6 @@ export function Header() {
 
 
 
-
-
-
-
-
-
-
                             {!userEmail ?
                                 <div
                                     ref={accountFormRef}
@@ -679,23 +668,51 @@ export function Header() {
                                     <div className={STYLE.shape}></div>
                                     <div className={STYLE.title}>Contul meu</div>
                                     <div className={STYLE.myAccountContainer}>
-                                        <div className={STYLE.myProfile}>Profilul meu</div>
-                                        <div className={STYLE.favoriteList}>Lista de favorite</div>
+                                        <Link
+                                            onClick={() => setLoginBtnIsOpen(false)}
+                                            to="/account/profile" className={STYLE.myProfile}>Profilul meu
+                                        </Link>
+                                        <Link
+                                            onClick={() => setLoginBtnIsOpen(false)}
+                                            to="/account/addresses" className={STYLE.myProfile}>Adrese
+                                        </Link>
+                                        <Link
+                                            onClick={() => setLoginBtnIsOpen(false)}
+                                            to="/account/orders" className={STYLE.myProfile}>Comenzile mele
+                                        </Link>
+                                        <Link
+                                            onClick={() => setLoginBtnIsOpen(false)}
+                                            to="/account/cards" className={STYLE.myProfile}>Carduri de credit
+                                        </Link>
+                                        <Link
+                                            onClick={() => setLoginBtnIsOpen(false)}
+                                            to="/account/notification-settings" className={STYLE.myProfile}>Setari notificari</Link>
+                                        <Link
+                                            onClick={() => setLoginBtnIsOpen(false)}
+                                            to="/account/calendar" className={STYLE.myProfile}>Calendar
+                                        </Link>
+                                        <Link
+                                            onClick={() => setLoginBtnIsOpen(false)}
+                                            to="/account/authentication" className={STYLE.myProfile}>Autentificare
+                                        </Link>
+                                        <Link
+                                            onClick={() => setLoginBtnIsOpen(false)}
+                                            to="/account/Club" className={STYLE.myProfile}>Club
+                                        </Link>
+                                        <Link
+                                            onClick={() => setLoginBtnIsOpen(false)}
+                                            to="/account/my-companies" className={STYLE.myProfile}>Companiile mele
+                                        </Link>
+                                        <Link
+                                            onClick={() => setLoginBtnIsOpen(false)}
+                                            to="/account/wishlist" className={STYLE.myProfile}>Lista de favorite
+                                        </Link>
                                     </div>
                                     <button
                                         onClick={handleLogout}
                                         className={STYLE.logoutButton}>Deconecteaza-te</button>
                                 </div>
                             }
-
-
-
-
-
-
-
-
-
 
 
 

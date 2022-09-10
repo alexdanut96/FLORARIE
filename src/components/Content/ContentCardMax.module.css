@@ -127,7 +127,22 @@
     cursor: pointer;
 }
 
-.favoriteIcon {
+.favoriteIconChecked {
+    box-sizing: initial;
+    background-color: #fa7d7d;
+    width: 1.3rem;
+    height: 1.3rem;
+    background-repeat: no-repeat;
+    display: inline-block;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 1;
+    color: white;
+    padding: 9px 8px 8px 8px;
+    border-radius: 50%;
+}
+
+.favoriteIconUnchecked {
     box-sizing: initial;
     background-color: #fff;
     width: 1.3rem;
@@ -142,7 +157,12 @@
     border-radius: 50%;
 }
 
-.favoriteIcon:hover {
+.favoriteIconChecked:hover {
+    background-color: white;
+    color: #559137;
+}
+
+.favoriteIconUnchecked:hover {
     background-color: #fa7d7d;
     color: white;
 }

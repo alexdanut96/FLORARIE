@@ -101,6 +101,19 @@ import items from "./data/Items.json"
 import { useInputTerm } from "./components/Header/Context/StateContext"
 import { useAuth } from "./components/Header/Context/AuthContext"
 import { TopSliderDemo } from "./components/HomePage/Sliders/TopSliderDemo"
+import { UserProfile } from "./Pages/Profile/User Profile/UserProfile"
+import { UserProfileEdit } from "./Pages/Profile/User Profile/UserProfileEdit"
+import { Orders } from "./Pages/Profile/User Orders/Orders"
+import { PaymentCards } from "./Pages/Profile/User Cards/UserCards"
+import { NotificationSettings } from "./Pages/Profile/User Notifications Settings/UserNotificationSettings"
+import { Calendar } from "./Pages/Profile/User Calendar/UserCalendar"
+import { Authentication } from "./Pages/Profile/User Authentication/UserAuthentication"
+import { Club } from "./Pages/Profile/User Club/UserClub"
+import { UserCompanies } from "./Pages/Profile/User My Companies/UserCompanies"
+import { Wishlist } from "./Pages/Profile/User Wishlist/UserWishlist"
+import { UserAddress } from "./Pages/Profile/User Addresses/UserAddresses"
+import { UserAddressesEdit } from "./Pages/Profile/User Addresses/UserAddressesEdit"
+import { UserAccountContext } from "./components/Header/Context/UserAccountContext"
 
 
 export function App() {
@@ -111,126 +124,171 @@ export function App() {
 
             <ShoppingCartContext>
                 <AddToCartContext>
-                    <Top />
-                    <SidebarRight />
-                    <SidebarLeft />
-                    <Header />
-                    <Navbar />
-                    <Routes>
-                        <Route path="/" element={<HomePage />}></Route>
-                        {/*-------------> Buchete Flori <-------------*/}
-                        <Route path={navBarItems[0].path} element={<BucheteFlori />}></Route>
-                        {/*-------------> Buchete Flori -> SubCategory <-------------*/}
-                        <Route path={buchete_flori_column1[0].path} element={<BucheteDeOrhidee />}></Route>
-                        <Route path={buchete_flori_column1[1].path} element={<BucheteDeTrandafiri />}></Route>
-                        <Route path={buchete_flori_column1[2].path} element={<BucheteDeLalele />}></Route>
-                        <Route path={buchete_flori_column1[3].path} element={<BucheteDeMinirosa />}></Route>
-                        <Route path={buchete_flori_column1[4].path} element={<BucheteDeCrizanteme />}></Route>
-                        <Route path={buchete_flori_column1[5].path} element={<BucheteDeGaroafe />}></Route>
-                        <Route path={buchete_flori_column1[6].path} element={<BucheteCuHortensie />}></Route>
-                        <Route path={buchete_flori_column2[0].path} element={<BucheteDeGerbera />}></Route>
-                        <Route path={buchete_flori_column2[1].path} element={<BucheteDeCriniImperiali />}></Route>
-                        <Route path={buchete_flori_column2[2].path} element={<BucheteDeCriniAsiatici />}></Route>
-                        <Route path={buchete_flori_column2[3].path} element={<BucheteDeIris />}></Route>
-                        <Route path={buchete_flori_column2[4].path} element={<BucheteDeAlstromeria />}></Route>
-                        <Route path={buchete_flori_column2[5].path} element={<BucheteDeCale />}></Route>
-                        <Route path={buchete_flori_column2[6].path} element={<BucheteDeMireasa />}></Route>
-                        <Route path={buchete_flori_column3[0].path} element={<BucheteDeLisianthus />}></Route>
-                        <Route path={buchete_flori_column3[1].path} element={<FloriDePrimavara />}></Route>
-                        <Route path={buchete_flori_column3[2].path} element={<FloriDeVara />}></Route>
-                        <Route path={buchete_flori_column3[3].path} element={<FloriDeIarna />}></Route>
-                        <Route path={buchete_flori_column3[4].path} element={<BucheteAmbalateInCutie />}></Route>
-                        <Route path={buchete_flori_column3[5].path} element={<BucheteCuBujori />}></Route>
+                    <UserAccountContext>
+                        <Top />
+                        <SidebarRight />
+                        <SidebarLeft />
+                        <Header />
+                        <Navbar />
+                        <Routes>
+                            <Route path="/" element={<HomePage />}></Route>
+                            {/*-------------> Buchete Flori <-------------*/}
+                            <Route path={navBarItems[0].path} element={<BucheteFlori />}></Route>
+                            {/*-------------> Buchete Flori -> SubCategory <-------------*/}
+                            <Route path={buchete_flori_column1[0].path} element={<BucheteDeOrhidee />}></Route>
+                            <Route path={buchete_flori_column1[1].path} element={<BucheteDeTrandafiri />}></Route>
+                            <Route path={buchete_flori_column1[2].path} element={<BucheteDeLalele />}></Route>
+                            <Route path={buchete_flori_column1[3].path} element={<BucheteDeMinirosa />}></Route>
+                            <Route path={buchete_flori_column1[4].path} element={<BucheteDeCrizanteme />}></Route>
+                            <Route path={buchete_flori_column1[5].path} element={<BucheteDeGaroafe />}></Route>
+                            <Route path={buchete_flori_column1[6].path} element={<BucheteCuHortensie />}></Route>
+                            <Route path={buchete_flori_column2[0].path} element={<BucheteDeGerbera />}></Route>
+                            <Route path={buchete_flori_column2[1].path} element={<BucheteDeCriniImperiali />}></Route>
+                            <Route path={buchete_flori_column2[2].path} element={<BucheteDeCriniAsiatici />}></Route>
+                            <Route path={buchete_flori_column2[3].path} element={<BucheteDeIris />}></Route>
+                            <Route path={buchete_flori_column2[4].path} element={<BucheteDeAlstromeria />}></Route>
+                            <Route path={buchete_flori_column2[5].path} element={<BucheteDeCale />}></Route>
+                            <Route path={buchete_flori_column2[6].path} element={<BucheteDeMireasa />}></Route>
+                            <Route path={buchete_flori_column3[0].path} element={<BucheteDeLisianthus />}></Route>
+                            <Route path={buchete_flori_column3[1].path} element={<FloriDePrimavara />}></Route>
+                            <Route path={buchete_flori_column3[2].path} element={<FloriDeVara />}></Route>
+                            <Route path={buchete_flori_column3[3].path} element={<FloriDeIarna />}></Route>
+                            <Route path={buchete_flori_column3[4].path} element={<BucheteAmbalateInCutie />}></Route>
+                            <Route path={buchete_flori_column3[5].path} element={<BucheteCuBujori />}></Route>
 
-                        {/*-------------> Aranjamente Florale <-------------*/}
-                        <Route path={navBarItems[1].path} element={<AranjamenteFlorale />}></Route>
-                        {/*-------------> Aranjamente Florale -> SubCategory <-------------*/}
-                        <Route path={aranjamente_florale[0].path} element={<FloriInCutie />}></Route>
-                        <Route path={aranjamente_florale[1].path} element={<CosuriCuFlori />}></Route>
-                        <Route path={aranjamente_florale[2].path} element={<AranjamenteCorporate />}></Route>
-                        <Route path={aranjamente_florale[3].path} element={<Plante />}></Route>
-                        <Route path={aranjamente_florale[4].path} element={<TrandafiriCriogenati />}></Route>
-                        <Route path={aranjamente_florale[5].path} element={<CoroniteFlori />}></Route>
-                        <Route path={aranjamente_florale[6].path} element={<InimiFlorale />}></Route>
+                            {/*-------------> Aranjamente Florale <-------------*/}
+                            <Route path={navBarItems[1].path} element={<AranjamenteFlorale />}></Route>
+                            {/*-------------> Aranjamente Florale -> SubCategory <-------------*/}
+                            <Route path={aranjamente_florale[0].path} element={<FloriInCutie />}></Route>
+                            <Route path={aranjamente_florale[1].path} element={<CosuriCuFlori />}></Route>
+                            <Route path={aranjamente_florale[2].path} element={<AranjamenteCorporate />}></Route>
+                            <Route path={aranjamente_florale[3].path} element={<Plante />}></Route>
+                            <Route path={aranjamente_florale[4].path} element={<TrandafiriCriogenati />}></Route>
+                            <Route path={aranjamente_florale[5].path} element={<CoroniteFlori />}></Route>
+                            <Route path={aranjamente_florale[6].path} element={<InimiFlorale />}></Route>
 
-                        {/*-------------> Ocazii si evenimente <-------------*/}
-                        <Route path={navBarItems[2].path} element={<OcaziiSiEvenimente />}></Route>
-                        {/*-------------> Ocazii si evenimente -> SubCategory <-------------*/}
-                        <Route path={ocazii_si_evenimente_column1[0].path} element={<FloriOnomastica />}></Route>
-                        <Route path={ocazii_si_evenimente_column1[1].path} element={<BucheteLaMultiAni />}></Route>
-                        <Route path={ocazii_si_evenimente_column1[2].path} element={<OcaziiSpeciale />}></Route>
-                        <Route path={ocazii_si_evenimente_column1[3].path} element={<CoroaneFunerare />}></Route>
-                        <Route path={ocazii_si_evenimente_column1[4].path} element={<FloriPentruNunta />}></Route>
-                        <Route path={ocazii_si_evenimente_column1[5].path} element={<FloriHalloween />}></Route>
-                        <Route path={ocazii_si_evenimente_column1[6].path} element={<FloriSfantulAndrei />}></Route>
-                        <Route path={ocazii_si_evenimente_column1[7].path} element={<FloriSfantulStefan />}></Route>
-                        <Route path={ocazii_si_evenimente_column2[0].path} element={<FloriConstantinSiElena />}></Route>
-                        <Route path={ocazii_si_evenimente_column2[1].path} element={<FloriSfantulNicolae />}></Route>
-                        <Route path={ocazii_si_evenimente_column2[2].path} element={<FloriSfantulIoan />}></Route>
-                        <Route path={ocazii_si_evenimente_column2[3].path} element={<FloriSfantaMaria />}></Route>
-                        <Route path={ocazii_si_evenimente_column2[4].path} element={<FloriSfantulGheorghe />}></Route>
-                        <Route path={ocazii_si_evenimente_column2[5].path} element={<FloriSfantulAlexandru />}></Route>
-                        <Route path={ocazii_si_evenimente_column2[6].path} element={<FloriSfantaAna />}></Route>
-                        <Route path={ocazii_si_evenimente_column2[7].path} element={<FloriSfantulDumitru />}></Route>
-                        <Route path={ocazii_si_evenimente_column3[0].path} element={<FloriFlorii />}></Route>
-                        <Route path={ocazii_si_evenimente_column3[1].path} element={<SfintiiMihailSiGavril />}></Route>
-                        <Route path={ocazii_si_evenimente_column3[2].path} element={<FloriOptMartie />}></Route>
-                        <Route path={ocazii_si_evenimente_column3[3].path} element={<FloriUnuMartie />}></Route>
-                        <Route path={ocazii_si_evenimente_column3[4].path} element={<FloriValentinesDay />}></Route>
-                        <Route path={ocazii_si_evenimente_column3[5].path} element={<AranjamenteSiBraziDeCraciun />}></Route>
-                        <Route path={ocazii_si_evenimente_column3[6].path} element={<FloriDeDragobete />}></Route>
+                            {/*-------------> Ocazii si evenimente <-------------*/}
+                            <Route path={navBarItems[2].path} element={<OcaziiSiEvenimente />}></Route>
+                            {/*-------------> Ocazii si evenimente -> SubCategory <-------------*/}
+                            <Route path={ocazii_si_evenimente_column1[0].path} element={<FloriOnomastica />}></Route>
+                            <Route path={ocazii_si_evenimente_column1[1].path} element={<BucheteLaMultiAni />}></Route>
+                            <Route path={ocazii_si_evenimente_column1[2].path} element={<OcaziiSpeciale />}></Route>
+                            <Route path={ocazii_si_evenimente_column1[3].path} element={<CoroaneFunerare />}></Route>
+                            <Route path={ocazii_si_evenimente_column1[4].path} element={<FloriPentruNunta />}></Route>
+                            <Route path={ocazii_si_evenimente_column1[5].path} element={<FloriHalloween />}></Route>
+                            <Route path={ocazii_si_evenimente_column1[6].path} element={<FloriSfantulAndrei />}></Route>
+                            <Route path={ocazii_si_evenimente_column1[7].path} element={<FloriSfantulStefan />}></Route>
+                            <Route path={ocazii_si_evenimente_column2[0].path} element={<FloriConstantinSiElena />}></Route>
+                            <Route path={ocazii_si_evenimente_column2[1].path} element={<FloriSfantulNicolae />}></Route>
+                            <Route path={ocazii_si_evenimente_column2[2].path} element={<FloriSfantulIoan />}></Route>
+                            <Route path={ocazii_si_evenimente_column2[3].path} element={<FloriSfantaMaria />}></Route>
+                            <Route path={ocazii_si_evenimente_column2[4].path} element={<FloriSfantulGheorghe />}></Route>
+                            <Route path={ocazii_si_evenimente_column2[5].path} element={<FloriSfantulAlexandru />}></Route>
+                            <Route path={ocazii_si_evenimente_column2[6].path} element={<FloriSfantaAna />}></Route>
+                            <Route path={ocazii_si_evenimente_column2[7].path} element={<FloriSfantulDumitru />}></Route>
+                            <Route path={ocazii_si_evenimente_column3[0].path} element={<FloriFlorii />}></Route>
+                            <Route path={ocazii_si_evenimente_column3[1].path} element={<SfintiiMihailSiGavril />}></Route>
+                            <Route path={ocazii_si_evenimente_column3[2].path} element={<FloriOptMartie />}></Route>
+                            <Route path={ocazii_si_evenimente_column3[3].path} element={<FloriUnuMartie />}></Route>
+                            <Route path={ocazii_si_evenimente_column3[4].path} element={<FloriValentinesDay />}></Route>
+                            <Route path={ocazii_si_evenimente_column3[5].path} element={<AranjamenteSiBraziDeCraciun />}></Route>
+                            <Route path={ocazii_si_evenimente_column3[6].path} element={<FloriDeDragobete />}></Route>
 
-                        {/*-------------> Cadouri <-------------*/}
-                        <Route path={navBarItems[3].path} element={<Cadouri />}></Route>
-                        {/*-------------> Cadouri -> SubCategory <-------------*/}
-                        <Route path={cadouri[0].path} element={<CadouriSpeciale />}></Route>
-                        <Route path={cadouri[1].path} element={<Parfumuri />}></Route>
-                        <Route path={cadouri[2].path} element={<Dulciuri />}></Route>
-                        <Route path={cadouri[3].path} element={<Sampanie />}></Route>
-                        <Route path={cadouri[4].path} element={<JucariiSiCadouri />}></Route>
-                        <Route path={cadouri[5].path} element={<CosuriVazeSiAccesorii />}></Route>
+                            {/*-------------> Cadouri <-------------*/}
+                            <Route path={navBarItems[3].path} element={<Cadouri />}></Route>
+                            {/*-------------> Cadouri -> SubCategory <-------------*/}
+                            <Route path={cadouri[0].path} element={<CadouriSpeciale />}></Route>
+                            <Route path={cadouri[1].path} element={<Parfumuri />}></Route>
+                            <Route path={cadouri[2].path} element={<Dulciuri />}></Route>
+                            <Route path={cadouri[3].path} element={<Sampanie />}></Route>
+                            <Route path={cadouri[4].path} element={<JucariiSiCadouri />}></Route>
+                            <Route path={cadouri[5].path} element={<CosuriVazeSiAccesorii />}></Route>
 
-                        {/*-------------> Oferte si Promotii <-------------*/}
-                        <Route path={promo[0].path} element={<OfertsiPromotii />}></Route>
-                        <Route path={promo[1].path} element={<Abonamente />}></Route>
-                        <Route path={promo[2].path} element={<FloriDeVara />}></Route>
-                        <Route path={promo[3].path} element={<CoroaneFunerare />}></Route>
+                            {/*-------------> Oferte si Promotii <-------------*/}
+                            <Route path={promo[0].path} element={<OfertsiPromotii />}></Route>
+                            <Route path={promo[1].path} element={<Abonamente />}></Route>
+                            <Route path={promo[2].path} element={<FloriDeVara />}></Route>
+                            <Route path={promo[3].path} element={<CoroaneFunerare />}></Route>
 
-                        <Route path="*" element={<Error404 />}></Route>
+                            <Route path="*" element={<Error404 />}></Route>
 
-                        {/*-------------> Footer Category <-------------*/}
-                        <Route path={FooterCardComponents[0].path} element={<DespreNoi />}></Route>
-                        <Route path={FooterCardComponents[1].path} element={<AvantajeleClientilor />}></Route>
-                        <Route path={FooterCardComponents[2].path} element={<Confidentialitate />}></Route>
-                        <Route path={FooterCardComponents[3].path} element={<TermeniSiConditii />}></Route>
-                        <Route path={FooterCardComponents[4].path} element={<DetaliiContact />}></Route>
-                        <Route
-                            path={FooterCardComponents[5].path} element={!userEmail ? <CreeazaCont /> : <Navigate replace to="/" />}>
-                        </Route>
-                        <Route path={FooterCardComponents[6].path} element={<ProgramDeFidelitate />}></Route>
-                        <Route path={FooterCardComponents[5].path} element={<AmUitatParola />}></Route>
-                        <Route path={FooterCardComponents[8].path} element={<CumCumpar />}></Route>
-                        <Route path={FooterCardComponents[9].path} element={<CumPlatesc />}></Route>
-                        <Route path={FooterCardComponents[10].path} element={<FlorariileFloris />}></Route>
-                        <Route path={FooterCardComponents[11].path} element={<InformatiiDespreLivrare />}></Route>
-                        <Route path={FooterCardComponents[12].path} element={<PoliticaDeReturnare />}></Route>
-                        <Route path={FooterCardComponents[13].path} element={<FAQ />}></Route>
-                        <Route path={FooterCardComponents[16].path} element={<FiiPartener />}></Route>
-                        <Route path="/top-slider-demo" element={<TopSliderDemo />}></Route>
+                            {/*-------------> Footer Category <-------------*/}
+                            <Route path={FooterCardComponents[0].path} element={<DespreNoi />}></Route>
+                            <Route path={FooterCardComponents[1].path} element={<AvantajeleClientilor />}></Route>
+                            <Route path={FooterCardComponents[2].path} element={<Confidentialitate />}></Route>
+                            <Route path={FooterCardComponents[3].path} element={<TermeniSiConditii />}></Route>
+                            <Route path={FooterCardComponents[4].path} element={<DetaliiContact />}></Route>
+                            <Route
+                                path={FooterCardComponents[5].path} element={!userEmail ? <CreeazaCont /> : <Navigate replace to="/" />}>
+                            </Route>
+                            <Route path={FooterCardComponents[6].path} element={<ProgramDeFidelitate />}></Route>
+                            <Route path={FooterCardComponents[5].path} element={<AmUitatParola />}></Route>
+                            <Route path={FooterCardComponents[8].path} element={<CumCumpar />}></Route>
+                            <Route path={FooterCardComponents[9].path} element={<CumPlatesc />}></Route>
+                            <Route path={FooterCardComponents[10].path} element={<FlorariileFloris />}></Route>
+                            <Route path={FooterCardComponents[11].path} element={<InformatiiDespreLivrare />}></Route>
+                            <Route path={FooterCardComponents[12].path} element={<PoliticaDeReturnare />}></Route>
+                            <Route path={FooterCardComponents[13].path} element={<FAQ />}></Route>
+                            <Route path={FooterCardComponents[16].path} element={<FiiPartener />}></Route>
+                            <Route path="/top-slider-demo" element={<TopSliderDemo />}></Route>
+
+                            <Route
+                                path="/account" element={<Navigate replace to="/account/profile" />}>
+                            </Route>
+                            <Route
+                                path="/account/profile" element={userEmail ? <UserProfile /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+                            </Route>
+                            <Route
+                                path="/account/profile/edit" element={userEmail ? <UserProfileEdit /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+
+                            </Route>
+                            <Route
+                                path="/account/addresses" element={userEmail ? <UserAddress /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+
+                            </Route>
+                            <Route
+                                path="/account/addresses/edit" element={userEmail ? <UserAddressesEdit /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+
+                            </Route>
+                            <Route
+                                path="/account/orders" element={userEmail ? <Orders /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+                            </Route>
+                            <Route path="/account/cards" element={userEmail ? <PaymentCards /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+
+                            </Route>
+                            <Route
+                                path="/account/notification-settings" element={userEmail ? <NotificationSettings /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+
+                            </Route>
+                            <Route
+                                path="/account/calendar" element={!userEmail ? <Calendar /> : <Navigate replace to={FooterCardComponents[5].path} />}></Route>
+                            <Route path="/account/authentication" element={userEmail ? <Authentication /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+
+                            </Route>
+                            <Route
+                                path="/account/Club" element={<Club />}></Route>
+                            <Route path="/account/my-companies" element={userEmail ? <UserCompanies /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+
+                            </Route>
+                            <Route
+                                path="/account/wishlist" element={userEmail ? <Wishlist /> : <Navigate replace to={FooterCardComponents[5].path} />}>
+
+                            </Route>
 
 
-                        {/*-------------> Search Bar Category <-------------*/}
-                        <Route path={`/search/${term}`} element={<SearchBar />}></Route>
+                            {/*-------------> Search Bar Category <-------------*/}
+                            <Route path={`/search/${term}`} element={<SearchBar />}></Route>
 
 
-                        {items.map(item => (
-                            <Route key={item.id} path={item.path} element={<ProductPage  {...item} />}></Route>
-                        ))}
+                            {items.map(item => (
+                                <Route key={item.id} path={item.path} element={<ProductPage  {...item} />}></Route>
+                            ))}
 
 
 
-                    </Routes>
-                    <Footer />
+                        </Routes>
+                        <Footer />
+                    </UserAccountContext>
                 </AddToCartContext>
             </ShoppingCartContext>
         </div>
