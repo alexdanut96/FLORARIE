@@ -156,7 +156,7 @@
 }
 
 /* #loginButton {
-    border: solid;
+    gap: 10px;
 } */
 
 .googleButton:hover,
@@ -393,6 +393,16 @@
 
 .favoriteLink {
     text-decoration: none;
+    color: black;
+}
+
+.favoriteLink {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
 }
 
 .searchFormContainer {
@@ -701,11 +711,24 @@
     transition: 0.1s;
 }
 
+/* .favoriteLink:hover {
+    background-color: #dddddd;
+    transition: 0.1s;
+} */
+
 .formButton>* {
     font-size: 25px;
 }
 
+.favoriteLink>* {
+    font-size: 25px;
+}
+
 .formButton>:nth-child(2) {
+    font-size: 13px;
+}
+
+.favoriteLink>:nth-child(2) {
     font-size: 13px;
 }
 
