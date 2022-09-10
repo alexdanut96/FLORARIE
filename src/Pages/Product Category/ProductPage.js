@@ -47,9 +47,13 @@ export function ProductPage(
         getItemQuantity,
         increaseCartQuantity,
         decreaseCartQuantity,
-        removeFromCart
+        removeFromCart,
+        addToWishlist,
+        removeFromWishlist,
+        getFavItemValue
     } = useModify()
     const quantity = getItemQuantity(productCode)
+    const value = getFavItemValue(productCode)
 
     useEffect(() => {
         const bestSellerMaxSize = document.querySelectorAll(`.${STYLE.bestSellerMaxSize}>*`)
@@ -96,8 +100,17 @@ export function ProductPage(
                                 -{discount}%
                             </span>
                         </div>
-                        <div className={STYLE.favoriteButton}>
-                            <VscHeart />
+                        <div
+                            onClick={() => addToWishlist(productCode)}
+                            style={{ display: !value ? "block" : "none" }}
+                            className={STYLE.favoriteButton}>
+                            <VscHeart className={STYLE.favoriteIconUnchecked} />
+                        </div>
+                        <div
+                            onClick={() => removeFromWishlist(productCode)}
+                            style={{ display: value ? "block" : "none" }}
+                            className={STYLE.favoriteButton}>
+                            <VscHeart className={STYLE.favoriteIconChecked} />
                         </div>
                     </div>
                 </div>
