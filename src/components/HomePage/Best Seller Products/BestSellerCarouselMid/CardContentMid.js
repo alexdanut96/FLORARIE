@@ -5,9 +5,18 @@ import { TbTruckDelivery } from "react-icons/tb"
 import { VscHeart } from "react-icons/vsc"
 import CARD from "./CardContentMid.module.css"
 import { formatCurrency, newPrice } from "../../../../utilities/formatCurrency";
+import { useModify } from "../../../Header/Context/AddToCartContext";
 
 export function CardContentMid(
-    { id, discount, productImage, title, price, inStock, deliveryTime, path }) {
+    { id, discount, productImage, title, price, inStock, deliveryTime, path, productCode }) {
+
+    const {
+        addToWishlist,
+        removeFromWishlist,
+        getFavItemValue
+    } = useModify()
+    const value = getFavItemValue(productCode)
+
 
     return (
         <div className={CARD.cardContainer}>
@@ -25,11 +34,18 @@ export function CardContentMid(
                                             -{discount}%
                                         </span>
                                     </div>
-                                    <div
-                                        className={CARD.favorite}
-                                        onClick={(e) => { e.preventDefault() }}>
-                                        <button className={CARD.favoriteButton}>
-                                            <VscHeart className={CARD.favoriteIcon} />
+                                    <div className={CARD.favorite} onClick={(e) => { e.preventDefault() }}>
+                                        <button
+                                            onClick={() => addToWishlist(productCode)}
+                                            style={{ display: !value ? "block" : "none" }}
+                                            className={CARD.favoriteButton}>
+                                            <VscHeart className={CARD.favoriteIconUnchecked} />
+                                        </button>
+                                        <button
+                                            onClick={() => removeFromWishlist(productCode)}
+                                            style={{ display: value ? "block" : "none" }}
+                                            className={CARD.favoriteButton}>
+                                            <VscHeart className={CARD.favoriteIconChecked} />
                                         </button>
                                     </div>
                                 </div>

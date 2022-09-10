@@ -14,9 +14,13 @@ export function CardContent(
         getItemQuantity,
         increaseCartQuantity,
         decreaseCartQuantity,
-        removeFromCart
+        removeFromCart,
+        addToWishlist,
+        removeFromWishlist,
+        getFavItemValue
     } = useModify()
     const quantity = getItemQuantity(productCode)
+    const value = getFavItemValue(productCode)
 
     useEffect(() => {
 
@@ -50,8 +54,17 @@ export function CardContent(
                                         </span>
                                     </div>
                                     <div className={CARD.favorite} onClick={(e) => { e.preventDefault() }}>
-                                        <button className={CARD.favoriteButton}>
-                                            <VscHeart className={CARD.favoriteIcon} />
+                                        <button
+                                            onClick={() => addToWishlist(productCode)}
+                                            style={{ display: !value ? "block" : "none" }}
+                                            className={CARD.favoriteButton}>
+                                            <VscHeart className={CARD.favoriteIconUnchecked} />
+                                        </button>
+                                        <button
+                                            onClick={() => removeFromWishlist(productCode)}
+                                            style={{ display: value ? "block" : "none" }}
+                                            className={CARD.favoriteButton}>
+                                            <VscHeart className={CARD.favoriteIconChecked} />
                                         </button>
                                     </div>
                                 </div>

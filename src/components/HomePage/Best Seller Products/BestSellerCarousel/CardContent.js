@@ -15,21 +15,18 @@ export function CardContent(
         increaseCartQuantity,
         decreaseCartQuantity,
         removeFromCart,
-        addToWishlistButton,
-        removeFromWishlistButton,
-        addToFavorites
+        addToWishlist,
+        removeFromWishlist,
+        getFavItemValue
     } = useModify()
     const quantity = getItemQuantity(productCode)
-
-
+    const value = getFavItemValue(productCode)
 
 
     useEffect(() => {
 
         const addToCartButton = document.querySelectorAll(`.${CARD.addToCartButton}`)
-        // const plusButton = document.querySelectorAll(`.${CARD.plusButton}`)
-        // const minusButton = document.querySelectorAll(`.${CARD.minusButton}`)
-        // const removeButtom = document.querySelectorAll(`.${CARD.removeButtom}`)
+
 
         addToCartButton[0].addEventListener("click", () => {
             console.log("show")
@@ -54,8 +51,17 @@ export function CardContent(
                                         </span>
                                     </div>
                                     <div className={CARD.favorite} onClick={(e) => { e.preventDefault() }}>
-                                        <button className={CARD.favoriteButton}>
-                                            <VscHeart className={CARD.favoriteIcon} />
+                                        <button
+                                            onClick={() => addToWishlist(productCode)}
+                                            style={{ display: !value ? "block" : "none" }}
+                                            className={CARD.favoriteButton}>
+                                            <VscHeart className={CARD.favoriteIconUnchecked} />
+                                        </button>
+                                        <button
+                                            onClick={() => removeFromWishlist(productCode)}
+                                            style={{ display: value ? "block" : "none" }}
+                                            className={CARD.favoriteButton}>
+                                            <VscHeart className={CARD.favoriteIconChecked} />
                                         </button>
                                     </div>
                                 </div>
