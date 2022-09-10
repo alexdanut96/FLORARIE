@@ -6,6 +6,7 @@ import { VscHeart } from "react-icons/vsc"
 import STYLE from "./ContentCardMax.module.css"
 import { formatCurrency, newPrice } from "../../utilities/formatCurrency"
 import { useModify } from "../../components/Header/Context/AddToCartContext";
+import { useAuth } from "../Header/Context/AuthContext"
 
 export function ContentCardMax(
     { id, discount, productImage, title, price, inStock, deliveryTime, path, productCode }) {
@@ -21,6 +22,7 @@ export function ContentCardMax(
     } = useModify()
     const quantity = getItemQuantity(productCode)
     const value = getFavItemValue(productCode)
+    const { userEmail } = useAuth()
 
 
     return (
@@ -39,20 +41,29 @@ export function ContentCardMax(
                                             -{discount}%
                                         </span>
                                     </div>
-                                    <div className={STYLE.favorite} onClick={(e) => { e.preventDefault() }}>
-                                        <button
-                                            onClick={() => addToWishlist(productCode)}
-                                            style={{ display: !value ? "block" : "none" }}
-                                            className={STYLE.favoriteButton}>
-                                            <VscHeart className={STYLE.favoriteIconUnchecked} />
-                                        </button>
-                                        <button
-                                            onClick={() => removeFromWishlist(productCode)}
-                                            style={{ display: value ? "block" : "none" }}
-                                            className={STYLE.favoriteButton}>
-                                            <VscHeart className={STYLE.favoriteIconChecked} />
-                                        </button>
-                                    </div>
+                                    {userEmail ?
+                                        <div className={STYLE.favorite} onClick={(e) => { e.preventDefault() }}>
+                                            <button
+                                                onClick={() => addToWishlist(productCode)}
+                                                style={{ display: !value ? "block" : "none" }}
+                                                className={STYLE.favoriteButton}>
+                                                <VscHeart className={STYLE.favoriteIconUnchecked} />
+                                            </button>
+                                            <button
+                                                onClick={() => removeFromWishlist(productCode)}
+                                                style={{ display: value ? "block" : "none" }}
+                                                className={STYLE.favoriteButton}>
+                                                <VscHeart className={STYLE.favoriteIconChecked} />
+                                            </button>
+                                        </div> :
+                                        <div className={STYLE.favorite} onClick={(e) => { e.preventDefault() }}>
+                                            <button
+                                                className={STYLE.favoriteButton}>
+                                                <VscHeart className={STYLE.favoriteIconUnchecked} />
+                                            </button>
+                                        </div>
+                                    }
+
                                 </div>
                             </div>
                         </div>

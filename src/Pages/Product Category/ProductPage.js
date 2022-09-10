@@ -18,6 +18,7 @@ import { BestSellerCarouselMin } from "../../components/HomePage/Best Seller Pro
 import { formatCurrency, newPrice } from "../../utilities/formatCurrency"
 import bestSellerItems from "../../data/Best Seller Items/BestSellerItems.json"
 import { useModify } from "../../components/Header/Context/AddToCartContext"
+import { useAuth } from "../../components/Header/Context/AuthContext"
 
 
 export function ProductPage(
@@ -54,6 +55,7 @@ export function ProductPage(
     } = useModify()
     const quantity = getItemQuantity(productCode)
     const value = getFavItemValue(productCode)
+    const { userEmail } = useAuth()
 
     useEffect(() => {
         const bestSellerMaxSize = document.querySelectorAll(`.${STYLE.bestSellerMaxSize}>*`)
@@ -100,18 +102,30 @@ export function ProductPage(
                                 -{discount}%
                             </span>
                         </div>
-                        <div
-                            onClick={() => addToWishlist(productCode)}
-                            style={{ display: !value ? "block" : "none" }}
-                            className={STYLE.favoriteButton}>
-                            <VscHeart className={STYLE.favoriteIconUnchecked} />
-                        </div>
-                        <div
-                            onClick={() => removeFromWishlist(productCode)}
-                            style={{ display: value ? "block" : "none" }}
-                            className={STYLE.favoriteButton}>
-                            <VscHeart className={STYLE.favoriteIconChecked} />
-                        </div>
+
+                        {userEmail ?
+                            <div>
+                                <div
+                                    onClick={() => addToWishlist(productCode)}
+                                    style={{ display: !value ? "block" : "none" }}
+                                    className={STYLE.favoriteButton}>
+                                    <VscHeart className={STYLE.favoriteIconUnchecked} />
+                                </div>
+                                <div
+                                    onClick={() => removeFromWishlist(productCode)}
+                                    style={{ display: value ? "block" : "none" }}
+                                    className={STYLE.favoriteButton}>
+                                    <VscHeart className={STYLE.favoriteIconChecked} />
+                                </div>
+                            </div> :
+                            <div>
+                                <div
+                                    className={STYLE.favoriteButton}>
+                                    <VscHeart className={STYLE.favoriteIconUnchecked} />
+                                </div>
+                            </div>
+                        }
+
                     </div>
                 </div>
                 <div className={STYLE.rowOneColumnTwo}>

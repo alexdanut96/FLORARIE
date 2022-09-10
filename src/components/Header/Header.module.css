@@ -391,6 +391,10 @@
     text-overflow: ellipsis;
 }
 
+.favoriteLink {
+    text-decoration: none;
+}
+
 .searchFormContainer {
     display: flex;
     gap: 10px;

@@ -6,6 +6,7 @@ import { VscHeart } from "react-icons/vsc"
 import CARD from "./CardContent.module.css"
 import { formatCurrency, newPrice } from "../../../../utilities/formatCurrency";
 import { useModify } from "../../../Header/Context/AddToCartContext";
+import { useAuth } from "../../../Header/Context/AuthContext";
 
 
 export function CardContent(
@@ -22,20 +23,13 @@ export function CardContent(
     } = useModify()
     const quantity = getItemQuantity(productCode)
     const value = getFavItemValue(productCode)
+    const { userEmail } = useAuth()
 
     useEffect(() => {
-
         const addToCartButton = document.querySelectorAll(`.${CARD.addToCartButton}`)
-        // const plusButton = document.querySelectorAll(`.${CARD.plusButton}`)
-        // const minusButton = document.querySelectorAll(`.${CARD.minusButton}`)
-        // const removeButtom = document.querySelectorAll(`.${CARD.removeButtom}`)
-
         addToCartButton[0].addEventListener("click", () => {
             console.log("show")
         })
-
-
-
     })
 
     return (
@@ -54,20 +48,28 @@ export function CardContent(
                                             -{discount}%
                                         </span>
                                     </div>
-                                    <div className={CARD.favorite} onClick={(e) => { e.preventDefault() }}>
-                                        <button
-                                            onClick={() => addToWishlist(productCode)}
-                                            style={{ display: !value ? "block" : "none" }}
-                                            className={CARD.favoriteButton}>
-                                            <VscHeart className={CARD.favoriteIconUnchecked} />
-                                        </button>
-                                        <button
-                                            onClick={() => removeFromWishlist(productCode)}
-                                            style={{ display: value ? "block" : "none" }}
-                                            className={CARD.favoriteButton}>
-                                            <VscHeart className={CARD.favoriteIconChecked} />
-                                        </button>
-                                    </div>
+                                    {userEmail ?
+                                        <div className={CARD.favorite} onClick={(e) => { e.preventDefault() }}>
+                                            <button
+                                                onClick={() => addToWishlist(productCode)}
+                                                style={{ display: !value ? "block" : "none" }}
+                                                className={CARD.favoriteButton}>
+                                                <VscHeart className={CARD.favoriteIconUnchecked} />
+                                            </button>
+                                            <button
+                                                onClick={() => removeFromWishlist(productCode)}
+                                                style={{ display: value ? "block" : "none" }}
+                                                className={CARD.favoriteButton}>
+                                                <VscHeart className={CARD.favoriteIconChecked} />
+                                            </button>
+                                        </div> :
+                                        <div className={CARD.favorite} onClick={(e) => { e.preventDefault() }}>
+                                            <button
+                                                className={CARD.favoriteButton}>
+                                                <VscHeart className={CARD.favoriteIconUnchecked} />
+                                            </button>
+                                        </div>
+                                    }
                                 </div>
                             </div>
                         </div>

@@ -727,12 +727,24 @@ export function Header() {
 
 
                         </div>
+                        {userEmail ?
+                            <Link className={STYLE.favoriteLink} to="/account/wishlist">
+                                <button
+                                    className={STYLE.formButton}>
+                                    <FiHeart />
+                                    <div className={STYLE.iconText}>Favorite</div>
+                                </button>
+                            </Link> :
+                            <Link className={STYLE.favoriteLink} to="/login">
+                                <button
+                                    className={STYLE.formButton}>
+                                    <FiHeart />
+                                    <div className={STYLE.iconText}>Favorite</div>
+                                </button>
+                            </Link>
+                        }
 
-                        <button
-                            className={STYLE.formButton}>
-                            <FiHeart />
-                            <div className={STYLE.iconText}>Favorite</div>
-                        </button>
+
                         <button
                             onClick={openTheCartBox}
                             className={STYLE.cartFormButton}>
