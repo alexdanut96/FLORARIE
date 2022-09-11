@@ -100,7 +100,6 @@ import { SidebarLeft } from "./components/Sidebar/SidebarLeft"
 import items from "./data/Items.json"
 import { useInputTerm } from "./components/Header/Context/StateContext"
 import { useAuth } from "./components/Header/Context/AuthContext"
-import { TopSliderDemo } from "./components/HomePage/Sliders/TopSliderDemo"
 import { UserProfile } from "./Pages/Profile/User Profile/UserProfile"
 import { UserProfileEdit } from "./Pages/Profile/User Profile/UserProfileEdit"
 import { Orders } from "./Pages/Profile/User Orders/Orders"
@@ -230,7 +229,6 @@ export function App() {
                             <Route path={FooterCardComponents[12].path} element={<PoliticaDeReturnare />}></Route>
                             <Route path={FooterCardComponents[13].path} element={<FAQ />}></Route>
                             <Route path={FooterCardComponents[16].path} element={<FiiPartener />}></Route>
-                            <Route path="/top-slider-demo" element={<TopSliderDemo />}></Route>
 
                             <Route
                                 path="/account" element={<Navigate replace to="/account/profile" />}>
