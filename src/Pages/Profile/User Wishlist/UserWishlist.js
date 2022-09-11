@@ -9,11 +9,13 @@ import { ContentCardMin } from "../../../components/Content/ContentCardMin";
 import allItems from "../../../data/Items.json"
 import { useModify } from "../../../components/Header/Context/AddToCartContext";
 import { useAuth } from "../../../components/Header/Context/AuthContext";
+import { useUserAccount } from "../../../components/Header/Context/UserAccountContext";
 
 export function Wishlist() {
 
     const { logout, hideEmail } = useAuth()
     const [logoutError, setLogoutError] = useState("")
+    const { demo } = useUserAccount()
 
     const { favoriteItems } = useModify()
 
@@ -86,7 +88,12 @@ export function Wishlist() {
                         <div className={STYLE.columnOneContent}>
                             <div className={STYLE.profileTitle}>
                                 <ImUserTie className={STYLE.userIcon} />
-                                <div className={STYLE.title}>Salut!</div>
+                                {demo.lastName ?
+                                    <div className={STYLE.title}>Salut, {demo.lastName}!</div>
+                                    :
+                                    <div className={STYLE.title}>Salut!</div>
+                                }
+
                             </div>
                             <div className={STYLE.accountProps}>
 

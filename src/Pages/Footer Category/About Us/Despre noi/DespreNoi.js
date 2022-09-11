@@ -12,13 +12,13 @@ export function DespreNoi() {
 
     useEffect(() => {
 
-        const itemSlide = document.querySelectorAll(`.${STYLE.itemSlide}`)
+        const itemSlide = document.querySelectorAll(`.${STYLE.allSlides}`)
         const dotUne = document.querySelectorAll(`.${STYLE.dotUne}`)
         const dotTwo = document.querySelectorAll(`.${STYLE.dotTwo}`)
         const dotThree = document.querySelectorAll(`.${STYLE.dotThree}`)
         const dotQuatre = document.querySelectorAll(`.${STYLE.dotQuatre}`)
         const dotFive = document.querySelectorAll(`.${STYLE.dotFive}`)
-        const slideWidth1 = 14.2857
+        const slideWidth = 14.2857
         let x1
         let x2
         let startPoint
@@ -32,13 +32,13 @@ export function DespreNoi() {
             if (index1 === 6) {
                 itemSlide[0].style.transition = 'none'
                 index1 = 1
-                itemSlide[0].style.transform = `translateX(${-slideWidth1}%)`
+                itemSlide[0].style.transform = `translateX(${-slideWidth}%)`
                 currentDot()
             }
             if (index1 === 0) {
                 itemSlide[0].style.transition = 'none'
                 index1 = 5
-                itemSlide[0].style.transform = `translateX(${-(slideWidth1 * index1)}%)`
+                itemSlide[0].style.transform = `translateX(${-(slideWidth * index1)}%)`
                 currentDot()
             }
         })
@@ -47,7 +47,7 @@ export function DespreNoi() {
             if (index1 >= 6) return
             index1++
             itemSlide[0].style.transition = '.50s ease'
-            itemSlide[0].style.transform = `translateX(${-(slideWidth1 * index1)}%)`
+            itemSlide[0].style.transform = `translateX(${-(slideWidth * index1)}%)`
             currentDot()
         }
 
@@ -55,7 +55,7 @@ export function DespreNoi() {
             if (index1 <= 0) return
             index1--
             itemSlide[0].style.transition = '.50s ease'
-            itemSlide[0].style.transform = `translateX(${-(slideWidth1 * index1)}%)`
+            itemSlide[0].style.transform = `translateX(${-(slideWidth * index1)}%)`
             currentDot()
         }
 
@@ -95,34 +95,34 @@ export function DespreNoi() {
         dotUne[0].addEventListener('click', () => {
             index1 = 1
             itemSlide[0].style.transition = '.50s ease'
-            itemSlide[0].style.transform = `translateX(${-(slideWidth1 * index1)}%)`
+            itemSlide[0].style.transform = `translateX(${-(slideWidth * index1)}%)`
             currentDot()
         })
 
         dotTwo[0].addEventListener('click', () => {
             index1 = 2
             itemSlide[0].style.transition = '.50s ease'
-            itemSlide[0].style.transform = `translateX(${-(slideWidth1 * index1)}%)`
+            itemSlide[0].style.transform = `translateX(${-(slideWidth * index1)}%)`
             currentDot()
         })
 
         dotThree[0].addEventListener('click', () => {
             index1 = 3
             itemSlide[0].style.transition = '.50s ease'
-            itemSlide[0].style.transform = `translateX(${-(slideWidth1 * index1)}%)`
+            itemSlide[0].style.transform = `translateX(${-(slideWidth * index1)}%)`
             currentDot()
         })
 
         dotQuatre[0].addEventListener('click', () => {
             index1 = 4
             itemSlide[0].style.transition = '.50s ease-out'
-            itemSlide[0].style.transform = `translateX(${-(slideWidth1 * index1)}%)`
+            itemSlide[0].style.transform = `translateX(${-(slideWidth * index1)}%)`
             currentDot()
         })
         dotFive[0].addEventListener('click', () => {
             index1 = 5
             itemSlide[0].style.transition = '.50s ease'
-            itemSlide[0].style.transform = `translateX(${-(slideWidth1 * index1)}%)`
+            itemSlide[0].style.transform = `translateX(${-(slideWidth * index1)}%)`
             currentDot()
         })
 
@@ -319,7 +319,7 @@ export function DespreNoi() {
                         </div>
                         <div className={STYLE.rowFour}>
                             <div className={STYLE.slider}>
-                                <div className={STYLE.slides}>
+                                <div className={STYLE.allSlides}>
                                     <div className={STYLE.itemSlide}>
                                         <div className={STYLE.top}>
                                             <ImUserTie className={STYLE.icon} />

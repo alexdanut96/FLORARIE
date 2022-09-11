@@ -2,6 +2,16 @@ body.active-modal {
     overflow-y: hidden;
 }
 
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
 .btn-modal {
     display: flex;
     justify-content: center;
@@ -50,6 +60,12 @@ body.active-modal {
     right: 0;
     bottom: 0;
     position: fixed;
+
+}
+
+.modal {
+    animation: fade-in 400ms forwards;
+    z-index: 3;
 }
 
 .overlay {

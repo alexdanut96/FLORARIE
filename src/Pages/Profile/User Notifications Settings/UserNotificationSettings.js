@@ -4,11 +4,13 @@ import STYLE from "../User.module.css"
 import { ImUserTie } from "react-icons/im"
 import { BsArrowLeftShort } from "react-icons/bs"
 import { useAuth } from "../../../components/Header/Context/AuthContext";
+import { useUserAccount } from "../../../components/Header/Context/UserAccountContext";
 
 export function NotificationSettings() {
 
     const { logout, hideEmail } = useAuth()
     const [logoutError, setLogoutError] = useState("")
+    const { demo } = useUserAccount()
 
     const profileRef = useRef()
     const addressRef = useRef()
@@ -51,7 +53,12 @@ export function NotificationSettings() {
                         <div className={STYLE.columnOneContent}>
                             <div className={STYLE.profileTitle}>
                                 <ImUserTie className={STYLE.userIcon} />
-                                <div className={STYLE.title}>Salut!</div>
+                                {demo.lastName ?
+                                    <div className={STYLE.title}>Salut, {demo.lastName}!</div>
+                                    :
+                                    <div className={STYLE.title}>Salut!</div>
+                                }
+
                             </div>
                             <div className={STYLE.accountProps}>
 

@@ -155,7 +155,7 @@
         border-top-right-radius: 20px;
     }
 
-    .slides {
+    .allSlides {
         display: flex;
         width: 700%;
         transform: translateX(-14.2857%);
@@ -443,7 +443,7 @@
         border-top-right-radius: 20px;
     }
 
-    .slides {
+    .allSlides {
         display: flex;
         width: 700%;
         transform: translateX(-14.2857%);
@@ -739,7 +739,7 @@
         border-top-right-radius: 20px;
     }
 
-    .slides {
+    .allSlides {
         display: flex;
         width: 700%;
         transform: translateX(-14.2857%);

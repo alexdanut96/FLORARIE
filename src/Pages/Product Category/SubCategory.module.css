@@ -9,6 +9,7 @@
     .bestSellerMidSize,
     .bestSellerMinSize {
         display: block;
+        margin-top: 50px;
     }
 
     .rowOne {
@@ -658,5 +659,12 @@
 
     .promotionInfo>a {
         color: #559137;
+    }
+
+    .bestSellerMaxSize,
+    .bestSellerMidSize,
+    .bestSellerMinSize {
+        /* display: block; */
+        margin-top: 50px;
     }
 }

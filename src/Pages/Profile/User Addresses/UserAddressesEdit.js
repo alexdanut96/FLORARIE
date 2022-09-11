@@ -180,7 +180,12 @@ export function UserAddressesEdit() {
                         <div className={STYLE.columnOneContent}>
                             <div className={STYLE.profileTitle}>
                                 <ImUserTie className={STYLE.userIcon} />
-                                <div className={STYLE.title}>Salut!</div>
+                                {demo.lastName ?
+                                    <div className={STYLE.title}>Salut, {demo.lastName}!</div>
+                                    :
+                                    <div className={STYLE.title}>Salut!</div>
+                                }
+
                             </div>
                             <div className={STYLE.accountProps}>
 
