@@ -79,7 +79,6 @@ export function NewSalesMin() {
             x1 = e.touches[0].clientX
             slide[0].style.transition = 'none'
             slide[0].style.left = `${slide[0].offsetLeft - x2}px`
-            console.log(x2)
         }
 
         function dragEnd() {
