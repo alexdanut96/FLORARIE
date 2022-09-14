@@ -154,21 +154,6 @@
         display: block;
     }
 
-    .faclitiesTabMax {
-        margin-top: 37.55px;
-        margin-left: auto;
-        margin-right: auto;
-        max-width: 85rem;
-        padding-right: 1rem;
-        padding-left: 1rem;
-    }
-
-    .faclitiesTabMax>div>article>h2 {
-        padding-top: 10px;
-        padding-bottom: 10px;
-        background-color: #f7f7f7;
-    }
-
     .faclitiesTabMin {
         display: none;
     }
@@ -213,10 +198,6 @@
         justify-content: center;
         padding: 10px 20px;
         border-radius: 20px;
-    }
-
-    .faclitiesTabMax {
-        display: none;
     }
 
     .faclitiesTabMin {

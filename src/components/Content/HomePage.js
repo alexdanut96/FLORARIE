@@ -1,11 +1,9 @@
 import React from "react"
 import { TopSlider } from "../HomePage/Sliders/TopSlider";
-import { FacilitiesTab } from "../HomePage/FacilitiesTab/FacilitiesTab";
 import { SearchForm } from "../HomePage/SearchForm/SearchForm";
 import { BestSellerCarousel } from "../HomePage/Best Seller Products/BestSellerCarousel/BestSellerCarousel";
 import { BestSellerCarouselMid } from "../HomePage/Best Seller Products/BestSellerCarouselMid/BestSellerCarouselMid";
 import { BestSellerCarouselMin } from "../HomePage/Best Seller Products/BestSellerCarouselMin/BestSellerCarouselMin";
-import { FacilitiesTabCarousel } from "../HomePage/FacilitiesTab/FacilitiesTabCarousel";
 import { Presentation1 } from "../HomePage/Presentation1/Presentation1";
 import { Presentation2 } from "../HomePage/Presentation2/Presentation2";
 import { Presentation3 } from "../HomePage/Presentation3/Presentation3";
@@ -20,19 +18,25 @@ import { QandA } from "../HomePage/Q&A/QandA";
 import { FreeDelivery } from "../HomePage/FreeDelivery/FreeDelivery";
 import STYLE from "./HomePage.module.css"
 import bestSellerItems from "../../data/Best Seller Items/BestSellerItems.json"
+import { FacilitiesItemsTwo } from "../HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesCarousel } from "../HomePage/Facilities/FacilitiesCarousel";
+import { FacilitiesMax } from "../HomePage/FacilitiesTab/FacilitiesMax";
+
 
 export function HomePage() {
+
     return (
         <div className={STYLE.cadouri}>
             <TopSlider />
             <div className={STYLE.maxSize}>
                 <SearchForm />
-                <FacilitiesTab />
             </div>
             <div className={STYLE.minSize}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
                 <SearchForm />
             </div>
+
+            <FacilitiesMax />
 
             <BestSellerCarousel
                 items={bestSellerItems} />

@@ -2,7 +2,7 @@
     width: 100%;
     overflow: hidden;
     background-color: white;
-    margin: 40px 0;
+    /* margin: 40px 0; */
     display: block;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .slides {
-    width: 400%;
+    /* width: 400%; */
     display: flex;
     padding-top: 15px;
     padding-bottom: 15px;

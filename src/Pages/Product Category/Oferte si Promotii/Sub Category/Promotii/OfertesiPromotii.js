@@ -6,9 +6,10 @@ import { TbAdjustmentsHorizontal } from "react-icons/tb"
 import { ContentCardMax } from "../../../../../components/Content/ContentCardMax"
 import { ContentCardMid } from "../../../../../components/Content/ContentCardMid"
 import { ContentCardMin } from "../../../../../components/Content/ContentCardMin"
-import { FacilitiesTab } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTab"
-import { FacilitiesTabCarousel } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTabCarousel"
 import { FreeDelivery } from "../../../../../components/HomePage/FreeDelivery/FreeDelivery"
+import { FacilitiesCarousel } from "../../../../../components/HomePage/Facilities/FacilitiesCarousel";
+import { FacilitiesItemsTwo } from "../../../../../components/HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesMax } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesMax";
 import items from "../../../../../data/Items.json"
 
 export function OfertsiPromotii() {
@@ -107,12 +108,11 @@ export function OfertsiPromotii() {
                     </div>
                 </div> */}
             </div>
-            <div className={STYLE.faclitiesTabMax}>
-                <FacilitiesTab />
-            </div>
             <div className={STYLE.faclitiesTabMin}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
             </div>
+
+            <FacilitiesMax />
             <SearchForm />
             <FreeDelivery />
         </div>

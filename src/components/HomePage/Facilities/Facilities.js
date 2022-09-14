@@ -9,6 +9,7 @@ export function Facilities(props) {
     }
 
     return (
+
         <article className={STYLE.container}>
             <h2 className={STYLE.facility} >
                 {props.icon}
@@ -24,5 +25,7 @@ export function Facilities(props) {
                 <div>{props.content}</div>
             </h3>
         </article>
+
+
     )
 }

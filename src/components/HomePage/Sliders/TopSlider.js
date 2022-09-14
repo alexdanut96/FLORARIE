@@ -79,17 +79,21 @@ export function TopSlider() {
         })
 
         function moveToNextSlide() {
+            if (index >= slidesNumber - 1) return
             index++
             slide[0].style.transition = "0.35s ease"
             slide[0].style.transform = `translateX(${-slideWidth * index}%)`
             currentDot()
+            console.log(index)
         }
 
         function moveToPreviousSlide() {
+            if (index <= 0) return
             index--
             slide[0].style.transition = "0.35s ease"
             slide[0].style.transform = `translateX(${-slideWidth * index}%)`
             currentDot()
+            console.log(index)
         }
 
         const startSlide = () => {
@@ -137,6 +141,7 @@ export function TopSlider() {
                 startSlide()
                 distance = null
             }
+            distance = 0
             document.onmouseup = null
             document.onmousemove = null
         }
@@ -184,7 +189,7 @@ export function TopSlider() {
             }
         }
 
-    })
+    }, [])
 
     return (
         <div className={STYLE.container}>

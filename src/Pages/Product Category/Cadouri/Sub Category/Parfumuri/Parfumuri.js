@@ -6,8 +6,9 @@ import { TbAdjustmentsHorizontal } from "react-icons/tb"
 import { ContentCardMax } from "../../../../../components/Content/ContentCardMax"
 import { ContentCardMid } from "../../../../../components/Content/ContentCardMid"
 import { ContentCardMin } from "../../../../../components/Content/ContentCardMin"
-import { FacilitiesTab } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTab"
-import { FacilitiesTabCarousel } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTabCarousel"
+import { FacilitiesCarousel } from "../../../../../components/HomePage/Facilities/FacilitiesCarousel";
+import { FacilitiesItemsTwo } from "../../../../../components/HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesMax } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesMax";
 import { FreeDelivery } from "../../../../../components/HomePage/FreeDelivery/FreeDelivery"
 import allItems from "../../../../../data/Items.json"
 import items from "../../../../../data/Cadouri/Parfumuri/Parfumuri.json"
@@ -112,12 +113,11 @@ export function Parfumuri() {
                         Parfumurile nu se pot comanda individual, ci doar se pot adauga unui buchet de flori, unui aranjament sau unei plante in ghiveci. In limita stocului disponibile, acestea se livreaza in doua ore, oriunde in tara.                    </div>
                 </div>
             </div>
-            <div className={STYLE.faclitiesTabMax}>
-                <FacilitiesTab />
-            </div>
             <div className={STYLE.faclitiesTabMin}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
             </div>
+
+            <FacilitiesMax />
             <SearchForm />
             <FreeDelivery />
         </div>

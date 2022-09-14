@@ -1,8 +1,7 @@
 import React, { useEffect } from "react";
 import STYLE from "./FacilitiesCarousel.module.css"
-import { FacilitiesItems } from "./FacilitiesItems";
 
-export function FacilitiesCarousel() {
+export function FacilitiesCarousel(props) {
 
     useEffect(() => {
 
@@ -11,6 +10,8 @@ export function FacilitiesCarousel() {
         const slidesNumber = slides.length
         const slideWidth = 100 / slidesNumber
         var index = 0
+
+        slide[0].style.width = `${props.items.length * 100}%`
 
         slide[0].addEventListener("transitionend", () => {
             if (index === slidesNumber - 1) {
@@ -21,6 +22,7 @@ export function FacilitiesCarousel() {
         })
 
         function moveToNextSlide() {
+            if (index >= slidesNumber - 1) return
             index++
             slide[0].style.transition = "0.35s ease"
             slide[0].style.transform = `translateX(${-slideWidth * index}%)`
@@ -33,28 +35,38 @@ export function FacilitiesCarousel() {
         }
 
         startSlide()
-    })
+    }, [])
 
     return (
         <div className={STYLE.container}>
             <div className={STYLE.slides}>
-                <div className={STYLE.slide}>
-                    {FacilitiesItems[0].icon}
-                    <span className={STYLE.title}>{FacilitiesItems[0].title}</span>
-                </div>
-                <div className={STYLE.slide}>
-                    {FacilitiesItems[1].icon}
-                    <span className={STYLE.title}>{FacilitiesItems[1].title}</span>
-                </div>
-                <div className={STYLE.slide}>
-                    {FacilitiesItems[2].icon}
-                    <span className={STYLE.title}>{FacilitiesItems[2].title}</span>
-                </div>
-                <div className={STYLE.slide}>
-                    {FacilitiesItems[0].icon}
-                    <span className={STYLE.title}>{FacilitiesItems[0].title}</span>
-                </div>
+                {props.items.map((item, index) => {
+                    return (
+                        <div key={index} className={STYLE.slide}>
+                            {item.icon}
+                            <span className={STYLE.title}>{item.title}</span>
+                        </div>
+                    )
+                })}
             </div>
         </div>
     )
 }
+
+
+{/* <div className={STYLE.slide}>
+{FacilitiesItems[0].icon}
+<span className={STYLE.title}>{FacilitiesItems[0].title}</span>
+</div>
+<div className={STYLE.slide}>
+{FacilitiesItems[1].icon}
+<span className={STYLE.title}>{FacilitiesItems[1].title}</span>
+</div>
+<div className={STYLE.slide}>
+{FacilitiesItems[2].icon}
+<span className={STYLE.title}>{FacilitiesItems[2].title}</span>
+</div>
+<div className={STYLE.slide}>
+{FacilitiesItems[0].icon}
+<span className={STYLE.title}>{FacilitiesItems[0].title}</span>
+</div> */}

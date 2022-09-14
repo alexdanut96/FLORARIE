@@ -90,6 +90,7 @@ export function NewSummerSalesMin() {
             } else {
                 slide[0].style.left = `${0}px`
             }
+            distance = 0
             document.onmouseup = null
             document.onmousemove = null
         }
@@ -377,7 +378,7 @@ export function NewSummerSalesMin() {
                 dotTen[0].style.borderColor = "#559137"
             }
         }
-    })
+    }, [])
 
     return (
         <>

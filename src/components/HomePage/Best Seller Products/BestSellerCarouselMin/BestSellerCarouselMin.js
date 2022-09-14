@@ -91,6 +91,7 @@ export function BestSellerCarouselMin() {
             } else {
                 slide[0].style.left = `${0}px`
             }
+            distance = 0
             document.onmouseup = null
             document.onmousemove = null
         }
@@ -378,7 +379,7 @@ export function BestSellerCarouselMin() {
                 dotTen[0].style.borderColor = "#559137"
             }
         }
-    })
+    }, [])
 
     return (
         <>

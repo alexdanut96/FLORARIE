@@ -128,6 +128,8 @@ export function BestSellerCarousel() {
             }
         }
 
+
+
         slide[0].addEventListener("touchstart", dragStart)
         slide[0].addEventListener("touchmove", dragMove)
         slide[0].addEventListener("touchend", dragEnd)
@@ -137,6 +139,7 @@ export function BestSellerCarousel() {
             startPoint = e.touches[0].clientX
             document.onmousemove = dragMove
             document.onmouseup = dragEnd
+
         }
 
         function dragMove(e) {
@@ -148,6 +151,7 @@ export function BestSellerCarousel() {
         }
 
         function dragEnd() {
+
             if (distance < -44) {
                 slide[0].style.left = `${0}px`
                 moveToPreviousSlide()
@@ -157,10 +161,11 @@ export function BestSellerCarousel() {
             } else {
                 slide[0].style.left = `${0}px`
             }
+            distance = 0
             document.onmouseup = null
             document.onmousemove = null
         }
-    })
+    }, [])
 
     return (
         <>

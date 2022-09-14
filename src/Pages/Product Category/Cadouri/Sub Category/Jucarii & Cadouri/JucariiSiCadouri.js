@@ -6,8 +6,9 @@ import { TbAdjustmentsHorizontal } from "react-icons/tb"
 import { ContentCardMax } from "../../../../../components/Content/ContentCardMax"
 import { ContentCardMid } from "../../../../../components/Content/ContentCardMid"
 import { ContentCardMin } from "../../../../../components/Content/ContentCardMin"
-import { FacilitiesTab } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTab"
-import { FacilitiesTabCarousel } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTabCarousel"
+import { FacilitiesCarousel } from "../../../../../components/HomePage/Facilities/FacilitiesCarousel";
+import { FacilitiesItemsTwo } from "../../../../../components/HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesMax } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesMax";
 import { FreeDelivery } from "../../../../../components/HomePage/FreeDelivery/FreeDelivery"
 import allItems from "../../../../../data/Items.json"
 import items from "../../../../../data/Cadouri/Jucarii si Cadouri/JocuriSiCadouri.json"
@@ -112,12 +113,11 @@ export function JucariiSiCadouri() {
                         Cosurile sunt, de asemenea, un cadou potrivit pentru un nou nascut. Alaturi de acestea poti opta si pentru ceva dulce care sa incante papilele gustative ale parintilor. In plus, daca vei achizitiona ursuletul WWF alaturi de un buchet de flori, vom dona intreaga suma de bani pentru protejarea habitatului ursilor bruni din Romania. Floria alaturi de WWF Romania au lansat campanie "Gentlemen cu natura", prin care Floria va dona 1% din valoarea buchetelor de flori catre WWF Romania, pentru protejarea naturii. Indiferent de ocazie, un buchet de flori alaturi de un ursulet poate fi un cadou potrivit. Alege flori online realizate cu atentie de designerii de la Floria, pentru a face ziua mai frumoasa cuiva drag tie!                    </div>
                 </div>
             </div>
-            <div className={STYLE.faclitiesTabMax}>
-                <FacilitiesTab />
-            </div>
             <div className={STYLE.faclitiesTabMin}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
             </div>
+
+            <FacilitiesMax />
             <SearchForm />
             <FreeDelivery />
         </div>

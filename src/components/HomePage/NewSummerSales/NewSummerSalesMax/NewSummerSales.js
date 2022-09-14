@@ -157,10 +157,11 @@ export function NewSummerSalesMax() {
             } else {
                 slide[0].style.left = `${0}px`
             }
+            distance = 0
             document.onmouseup = null
             document.onmousemove = null
         }
-    })
+    }, [])
 
     return (
         <>

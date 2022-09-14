@@ -8,8 +8,9 @@ import items from "../../../data/Items.json"
 import { FreeDelivery } from "../../HomePage/FreeDelivery/FreeDelivery";
 import { IoIosArrowDown } from "react-icons/io"
 import { TbAdjustmentsHorizontal } from "react-icons/tb"
-import { FacilitiesTab } from "../../HomePage/FacilitiesTab/FacilitiesTab";
-import { FacilitiesTabCarousel } from "../../HomePage/FacilitiesTab/FacilitiesTabCarousel";
+import { FacilitiesCarousel } from "../../HomePage/Facilities/FacilitiesCarousel";
+import { FacilitiesItemsTwo } from "../../HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesMax } from "../../HomePage/FacilitiesTab/FacilitiesMax";
 import { useInputTerm } from "../Context/StateContext";
 import { NewSalesMax } from "../../HomePage/New sales/New Sales Max/NewSalesMax"
 import { NewSalesMid } from "../../HomePage/New sales/New Sales Mid/NewSalesMid"
@@ -168,12 +169,11 @@ export function SearchBar() {
             <div className={STYLE.newSales}>
                 <NewSalesMin />
             </div>
-            <div className={STYLE.faclitiesTabMax}>
-                <FacilitiesTab />
-            </div>
             <div className={STYLE.faclitiesTabMin}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
             </div>
+
+            <FacilitiesMax />
             <SearchForm />
             <FreeDelivery />
         </div>

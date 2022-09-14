@@ -3,8 +3,6 @@ import STYLE from "./OcaziiSiEvenimente.module.css"
 import { Link } from "react-router-dom";
 import { ocazii_si_evenimente_column1, ocazii_si_evenimente_column3 } from "./Ocazii_si_evenimente_items";
 import { SearchForm } from "../../../components/HomePage/SearchForm/SearchForm";
-import { FacilitiesTab } from "../../../components/HomePage/FacilitiesTab/FacilitiesTab";
-import { FacilitiesTabCarousel } from "../../../components/HomePage/FacilitiesTab/FacilitiesTabCarousel";
 import { BestSellerCarousel } from "../../../components/HomePage/Best Seller Products/BestSellerCarousel/BestSellerCarousel";
 import { BestSellerCarouselMid } from "../../../components/HomePage/Best Seller Products/BestSellerCarouselMid/BestSellerCarouselMid";
 import { BestSellerCarouselMin } from "../../../components/HomePage/Best Seller Products/BestSellerCarouselMin/BestSellerCarouselMin";
@@ -14,6 +12,9 @@ import { ContentCardMin } from "../../../components/Content/ContentCardMin"
 import { FreeDelivery } from "../../../components/HomePage/FreeDelivery/FreeDelivery";
 import { IoIosArrowDown } from "react-icons/io"
 import { TbAdjustmentsHorizontal } from "react-icons/tb"
+import { FacilitiesCarousel } from "../../../components/HomePage/Facilities/FacilitiesCarousel";
+import { FacilitiesItemsTwo } from "../../../components/HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesMax } from "../../../components/HomePage/FacilitiesTab/FacilitiesMax";
 import allItems from "../../../data/Items.json"
 import items1 from "../../../data/Ocazii si Evenimente/Aranjamente si Brazi de Craciun/AranjamenteSiBraziDeCraciun.json"
 import items2 from "../../../data/Ocazii si Evenimente/Buchete La Multi Ani/BucheteLaMultiAni.json"
@@ -170,12 +171,11 @@ export function OcaziiSiEvenimente() {
                     </Link>
                 </div>
             </div>
-            <div className={STYLE.faclitiesTabMax}>
-                <FacilitiesTab />
-            </div>
             <div className={STYLE.faclitiesTabMin}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
             </div>
+
+            <FacilitiesMax />
             <div className={STYLE.bestSellerProducts}>
                 <BestSellerCarousel />
             </div>

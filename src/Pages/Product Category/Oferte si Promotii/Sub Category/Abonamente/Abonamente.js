@@ -6,8 +6,9 @@ import { TbAdjustmentsHorizontal } from "react-icons/tb"
 import { ContentCardMax } from "../../../../../components/Content/ContentCardMax"
 import { ContentCardMid } from "../../../../../components/Content/ContentCardMid"
 import { ContentCardMin } from "../../../../../components/Content/ContentCardMin"
-import { FacilitiesTab } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTab"
-import { FacilitiesTabCarousel } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTabCarousel"
+import { FacilitiesCarousel } from "../../../../../components/HomePage/Facilities/FacilitiesCarousel";
+import { FacilitiesItemsTwo } from "../../../../../components/HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesMax } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesMax";
 import { FreeDelivery } from "../../../../../components/HomePage/FreeDelivery/FreeDelivery"
 import { BestSellerCarousel } from "../../../../../components/HomePage/Best Seller Products/BestSellerCarousel/BestSellerCarousel";
 import { BestSellerCarouselMid } from "../../../../../components/HomePage/Best Seller Products/BestSellerCarouselMid/BestSellerCarouselMid"
@@ -60,12 +61,11 @@ export function Abonamente() {
                 <div className={STYLE.title}>ABONAMENTE</div>
                 <div className={STYLE.box}></div>
             </div>
-            <div className={STYLE.faclitiesTabMax}>
-                <FacilitiesTab />
-            </div>
             <div className={STYLE.faclitiesTabMin}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
             </div>
+
+            <FacilitiesMax />
             <div className={STYLE.bestSellerBigSize}>
                 <BestSellerCarousel />
             </div>

@@ -6,8 +6,9 @@ import { TbAdjustmentsHorizontal } from "react-icons/tb"
 import { ContentCardMax } from "../../../../../components/Content/ContentCardMax"
 import { ContentCardMid } from "../../../../../components/Content/ContentCardMid"
 import { ContentCardMin } from "../../../../../components/Content/ContentCardMin"
-import { FacilitiesTab } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTab"
-import { FacilitiesTabCarousel } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTabCarousel"
+import { FacilitiesCarousel } from "../../../../../components/HomePage/Facilities/FacilitiesCarousel";
+import { FacilitiesItemsTwo } from "../../../../../components/HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesMax } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesMax";
 import { FreeDelivery } from "../../../../../components/HomePage/FreeDelivery/FreeDelivery"
 import allItems from "../../../../../data/Items.json"
 import items from "../../../../../data/Ocazii si Evenimente/Aranjamente si Brazi de Craciun/AranjamenteSiBraziDeCraciun.json"
@@ -112,12 +113,11 @@ export function AranjamenteSiBraziDeCraciun() {
                     </div>
                 </div> */}
             </div>
-            <div className={STYLE.faclitiesTabMax}>
-                <FacilitiesTab />
-            </div>
             <div className={STYLE.faclitiesTabMin}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
             </div>
+
+            <FacilitiesMax />
             <SearchForm />
             <FreeDelivery />
         </div>

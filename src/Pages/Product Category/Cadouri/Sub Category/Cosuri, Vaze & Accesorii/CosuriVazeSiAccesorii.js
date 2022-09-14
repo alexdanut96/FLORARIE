@@ -6,8 +6,9 @@ import { TbAdjustmentsHorizontal } from "react-icons/tb"
 import { ContentCardMax } from "../../../../../components/Content/ContentCardMax"
 import { ContentCardMid } from "../../../../../components/Content/ContentCardMid"
 import { ContentCardMin } from "../../../../../components/Content/ContentCardMin"
-import { FacilitiesTab } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTab"
-import { FacilitiesTabCarousel } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTabCarousel"
+import { FacilitiesCarousel } from "../../../../../components/HomePage/Facilities/FacilitiesCarousel";
+import { FacilitiesItemsTwo } from "../../../../../components/HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesMax } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesMax";
 import { FreeDelivery } from "../../../../../components/HomePage/FreeDelivery/FreeDelivery"
 import allItems from "../../../../../data/Items.json"
 import items from "../../../../../data/Cadouri/Cosuri Vaze si Accesorii/CadouriVazeSiAccesorii.json"
@@ -112,12 +113,11 @@ export function CosuriVazeSiAccesorii() {
                         Acestea vor fi insotite de o felicitare personalizata de tine, cu un mesaj special, prin care sa-ti exprimi sentimentele de dragoste si prietenie. Floris este o florarie online profesionista care asigura gratuit transportul oricarui buchet si se asigura ca destinatarul are parte de o surpriza veritabila. Trimite flori online premium, mereu proaspete, cu livrare rapida, prin curier propriu, in maximum doua ore in Bucuresti si cele mai importante orase din tara si in 24 de ore oriunde in strainatate. Produsele Floris sunt importate de la cei mai mari producatori din lume si sunt transportate in cele mai bune conditii, in camere frigorifice, cu temperaturi cuprinse intre 4 si 6 grade Celsius. Accesorizeaza aceste flori online cu vaze si cosuri de rachita cu burete OASIS, de diferite dimensiuni pentru un plus de efect si pentru o pastrare mai indelungata a prospetimii florilor. Trimite un gand de dragoste acelor persoane deosebite din viata ta prin serviciul de livrare flori online de la Floris si vei avea parte de recunostinta si bucuria lor.                    </div>
                 </div>
             </div>
-            <div className={STYLE.faclitiesTabMax}>
-                <FacilitiesTab />
-            </div>
             <div className={STYLE.faclitiesTabMin}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
             </div>
+
+            <FacilitiesMax />
             <SearchForm />
             <FreeDelivery />
         </div>

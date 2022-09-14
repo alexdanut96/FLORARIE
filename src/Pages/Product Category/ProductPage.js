@@ -227,7 +227,7 @@ export function ProductPage(
                         />
                     </div>
                     <div className={STYLE.facilitiesMinSize}>
-                        <FacilitiesCarousel />
+                        <FacilitiesCarousel items={FacilitiesItems} />
                     </div>
                 </div>
             </div>

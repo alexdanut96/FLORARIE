@@ -83,6 +83,7 @@ export function Feedback() {
             } else {
                 slide[0].style.left = `${0}px`
             }
+            distance = 0
             document.onmouseup = null
             document.onmousemove = null
         }
@@ -179,7 +180,7 @@ export function Feedback() {
                 dotFive[0].style.borderColor = "#559137"
             }
         }
-    })
+    }, [])
 
     return (
         <div className={STYLE.container}>

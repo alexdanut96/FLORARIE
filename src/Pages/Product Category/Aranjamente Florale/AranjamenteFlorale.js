@@ -3,8 +3,9 @@ import STYLE from "./AranjamenteFlorale.module.css"
 import { Link } from "react-router-dom";
 import { aranjamente_florale } from "./Aranjamente-florale_items";
 import { SearchForm } from "../../../components/HomePage/SearchForm/SearchForm";
-import { FacilitiesTab } from "../../../components/HomePage/FacilitiesTab/FacilitiesTab";
-import { FacilitiesTabCarousel } from "../../../components/HomePage/FacilitiesTab/FacilitiesTabCarousel";
+import { FacilitiesMax } from "../../../components/HomePage/FacilitiesTab/FacilitiesMax";
+import { FacilitiesItemsTwo } from "../../../components/HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesCarousel } from "../../../components/HomePage/Facilities/FacilitiesCarousel";
 import { BestSellerCarousel } from "../../../components/HomePage/Best Seller Products/BestSellerCarousel/BestSellerCarousel";
 import { BestSellerCarouselMid } from "../../../components/HomePage/Best Seller Products/BestSellerCarouselMid/BestSellerCarouselMid";
 import { BestSellerCarouselMin } from "../../../components/HomePage/Best Seller Products/BestSellerCarouselMin/BestSellerCarouselMin";
@@ -154,12 +155,13 @@ export function AranjamenteFlorale() {
                     </Link>
                 </div>
             </div>
-            <div className={STYLE.faclitiesTabMax}>
-                <FacilitiesTab />
-            </div>
+
             <div className={STYLE.faclitiesTabMin}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
             </div>
+
+            <FacilitiesMax />
+
             <div className={STYLE.bestSellerProducts}>
                 <BestSellerCarousel />
             </div>

@@ -61,6 +61,7 @@ export function NewSalesMin() {
             currentDot()
         }
 
+
         slide[0].addEventListener("touchstart", dragStart)
         slide[0].addEventListener("touchmove", dragMove)
         slide[0].addEventListener("touchend", dragEnd)
@@ -78,6 +79,7 @@ export function NewSalesMin() {
             x1 = e.touches[0].clientX
             slide[0].style.transition = 'none'
             slide[0].style.left = `${slide[0].offsetLeft - x2}px`
+            console.log(x2)
         }
 
         function dragEnd() {
@@ -90,9 +92,11 @@ export function NewSalesMin() {
             } else {
                 slide[0].style.left = `${0}px`
             }
+            distance = 0
             document.onmouseup = null
             document.onmousemove = null
         }
+
 
         dotOne[0].addEventListener('click', () => {
             index = 0
@@ -377,7 +381,7 @@ export function NewSalesMin() {
                 dotTen[0].style.borderColor = "#559137"
             }
         }
-    })
+    }, [])
 
     return (
         <>

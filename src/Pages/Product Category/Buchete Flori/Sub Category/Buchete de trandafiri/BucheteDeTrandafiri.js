@@ -6,8 +6,9 @@ import { TbAdjustmentsHorizontal } from "react-icons/tb"
 import { ContentCardMax } from "../../../../../components/Content/ContentCardMax"
 import { ContentCardMid } from "../../../../../components/Content/ContentCardMid"
 import { ContentCardMin } from "../../../../../components/Content/ContentCardMin"
-import { FacilitiesTab } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTab"
-import { FacilitiesTabCarousel } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTabCarousel"
+import { FacilitiesCarousel } from "../../../../../components/HomePage/Facilities/FacilitiesCarousel";
+import { FacilitiesItemsTwo } from "../../../../../components/HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesMax } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesMax";
 import { FreeDelivery } from "../../../../../components/HomePage/FreeDelivery/FreeDelivery"
 import allItems from "../../../../../data/Items.json"
 import items from "../../../../../data/Buchete flori/Buchete de trandafiri/BucheteDeTrandafiri.json"
@@ -113,12 +114,11 @@ export function BucheteDeTrandafiri() {
                         Imagineaza-ti cat de surprinsa va fi atunci cand va primi de la tine un buchet de trandafiri colorati si veseli. Desigur, trandafirii rosii sunt perfecti pentru a-ti arata iubirea in orice zi a anului. Aniversare, zi de nastere, Ziua Indragostitilor sunt doar cateva ocazii in care un buchet de trandafiri rosii este un cadou potrivit. Trandafirii pot fi, de asemenea, combinati si cu alte flori minunate, cum ar fi crinii, garoafele sau irisii, care pot adauga rafinament oricarui aranjament. Fie ca esti in cautarea unui buchet clasic cu trandafiri rosii sau a unui aranjament mai modern, noi te putem ajuta sa faci alegerea potrivita, care sa aduca zambetul pe buze celei care il va primi! La noi gasesti buchete de trandafiri exceptionale!                    </div>
                 </div>
             </div>
-            <div className={STYLE.faclitiesTabMax}>
-                <FacilitiesTab />
-            </div>
             <div className={STYLE.faclitiesTabMin}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
             </div>
+
+            <FacilitiesMax />
             <SearchForm />
             <FreeDelivery />
         </div>

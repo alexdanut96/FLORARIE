@@ -6,8 +6,9 @@ import { TbAdjustmentsHorizontal } from "react-icons/tb"
 import { ContentCardMax } from "../../../../../components/Content/ContentCardMax"
 import { ContentCardMid } from "../../../../../components/Content/ContentCardMid"
 import { ContentCardMin } from "../../../../../components/Content/ContentCardMin"
-import { FacilitiesTab } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTab"
-import { FacilitiesTabCarousel } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesTabCarousel"
+import { FacilitiesCarousel } from "../../../../../components/HomePage/Facilities/FacilitiesCarousel";
+import { FacilitiesItemsTwo } from "../../../../../components/HomePage/Facilities/FacilitiesItemsTwo";
+import { FacilitiesMax } from "../../../../../components/HomePage/FacilitiesTab/FacilitiesMax";
 import { FreeDelivery } from "../../../../../components/HomePage/FreeDelivery/FreeDelivery"
 import allItems from "../../../../../data/Items.json"
 import items from "../../../../../data/Buchete flori/Flori de Vara/FloriDeVara.json"
@@ -112,12 +113,11 @@ export function FloriDeVara() {
                         Poti alege nuante calde de roz sau galben, sau nuante puternice de rosu si portocaliu. Lasa-te pe mana specialistilor de la Flori si buchetul tau va fi cu siguranta unul deosebit! Pentru a gasi cele mai frumoase flori de vara trebuie doar sa cauti online! Floris.ro are o selectie bogata de flori si culori, dar si servicii pe masura! Ne gasesti in toata tara si ajungem la tine, sau la cei dragi, intr-un maxim de doua ore! Nu mai astepta sa faci o surpriza cuiva drag! Poti incepe acum! Noi iti recomandam mai ales buchetele de Hortensia, care sunt cu adevarat deosebite! In plus, de aceasta floare ne putem bucura doar vara, cand este in plin sezon, asa ca ai un motiv in plus sa oferi flori! Asteptam comada ta online! Nu mai sta pe ganduri! Fa un gest frumos pentru cineva astazi!                    </div>
                 </div>
             </div>
-            <div className={STYLE.faclitiesTabMax}>
-                <FacilitiesTab />
-            </div>
             <div className={STYLE.faclitiesTabMin}>
-                <FacilitiesTabCarousel />
+                <FacilitiesCarousel items={FacilitiesItemsTwo} />
             </div>
+
+            <FacilitiesMax />
             <SearchForm />
             <FreeDelivery />
         </div>

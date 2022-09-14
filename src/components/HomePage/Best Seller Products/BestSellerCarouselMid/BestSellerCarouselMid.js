@@ -84,6 +84,7 @@ export function BestSellerCarouselMid() {
             } else {
                 slide[0].style.left = `${0}px`
             }
+            distance = 0
             document.onmouseup = null
             document.onmousemove = null
         }
@@ -180,7 +181,7 @@ export function BestSellerCarouselMid() {
                 dotFive[0].style.borderColor = "#559137"
             }
         }
-    })
+    }, [])
 
     return (
         <>
