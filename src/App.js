@@ -93,12 +93,11 @@ import { PoliticaDeReturnare } from "./Pages/Footer Category/Shopping Help/Polit
 import { FAQ } from "./Pages/Footer Category/Helpful Links/F.A.Q/FAQ"
 import { FiiPartener } from "./Pages/Footer Category/Helpful Links/Fii partener Floris/FiiPartener"
 import { SearchBar } from "./components/Header/Search Bar/SearchBar"
-import { ShoppingCartContext } from "./components/Header/Context/ShoppingCartContext"
 import { AddToCartContext } from "./components/Header/Context/AddToCartContext"
+import { ShoppingCartProvider } from "./components/Header/Context/ShoppingCartContext"
 import { SidebarRight } from "./components/Sidebar/SidebarRight"
 import { SidebarLeft } from "./components/Sidebar/SidebarLeft"
 import items from "./data/Items.json"
-import { useInputTerm } from "./components/Header/Context/StateContext"
 import { useAuth } from "./components/Header/Context/AuthContext"
 import { UserProfile } from "./Pages/Profile/User Profile/UserProfile"
 import { UserProfileEdit } from "./Pages/Profile/User Profile/UserProfileEdit"
@@ -113,15 +112,16 @@ import { Wishlist } from "./Pages/Profile/User Wishlist/UserWishlist"
 import { UserAddress } from "./Pages/Profile/User Addresses/UserAddresses"
 import { UserAddressesEdit } from "./Pages/Profile/User Addresses/UserAddressesEdit"
 import { UserAccountContext } from "./components/Header/Context/UserAccountContext"
+import { useSearch } from "./components/Header/Context/SearchContext"
 
 
 export function App() {
     const { userEmail } = useAuth()
-    const term = useInputTerm()
+    const { searchTerm } = useSearch()
     return (
         <div className="container">
 
-            <ShoppingCartContext>
+            <ShoppingCartProvider>
                 <AddToCartContext>
                     <UserAccountContext>
                         <Top />
@@ -272,7 +272,7 @@ export function App() {
 
 
                             {/*-------------> Search Bar Category <-------------*/}
-                            <Route path={`/search/${term}`} element={<SearchBar />}></Route>
+                            <Route path="/search" element={searchTerm ? <SearchBar /> : <Error404 />}></Route>
 
 
                             {items.map(item => (
@@ -285,7 +285,7 @@ export function App() {
                         <Footer />
                     </UserAccountContext>
                 </AddToCartContext>
-            </ShoppingCartContext>
+            </ShoppingCartProvider>
         </div>
     )
 }

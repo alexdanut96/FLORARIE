@@ -10,7 +10,6 @@ export function FacilitiesMax() {
         <div className={STYLE.facilitiesMax}>
             {FacilitiesItemsTwo.map((item, index) => {
                 if (index !== FacilitiesItemsTwo.length - 1) {
-                    console.log(index)
                     return (
                         < Facilities
                             key={index}

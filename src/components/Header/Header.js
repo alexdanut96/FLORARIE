@@ -13,15 +13,20 @@ import { BsSearch } from "react-icons/bs"
 import { VscClose } from "react-icons/vsc"
 import { AiOutlineMenu } from "react-icons/ai"
 import { MdOutlineArrowForward } from "react-icons/md"
-import { useCartValue, useOpenTheCart } from "./Context/ShoppingCartContext";
-import { useMenuValue, useOpenTheMenu } from "./Context/ShoppingCartContext";
+import { useShoppingCart } from "./Context/ShoppingCartContext";
 import { useModify } from "./Context/AddToCartContext";
 import { useAuth } from "./Context/AuthContext";
-import { useSendTerm, useButtonTerm, useInputText, useClickButton, useDeleteTerm } from "./Context/StateContext";
+import { useSearch } from "./Context/SearchContext";
 
 
 export function Header() {
 
+
+
+
+    const minInputRef = useRef()
+    const maxInputRef = useRef()
+    const maxSearchBtnRef = useRef()
     const accountFormRef = useRef()
     const searchContainerMinSizeRef = useRef()
     const singupEmailRef = useRef()
@@ -30,7 +35,7 @@ export function Header() {
     const singinEmailRef = useRef()
     const singinPasswordRef = useRef()
     const resetPasswordRef = useRef()
-    const { signup, login, logout, currentUser, userEmail, showEmail, hideEmail, resetPassword } = useAuth()
+    let InputContainerRef = useRef()
 
     const [windowWidth, setWindowWidth] = useState(window.innerWidth)
     const [singupError, setSingupError] = useState("")
@@ -48,17 +53,10 @@ export function Header() {
     const [openSearchBar, setOpenSearchBar] = useState(false)
 
     const { cartQuantity } = useModify()
+    const { deleteTerm, handleSearch, deleteSearchText, showCloseBtn } = useSearch()
+    const { openTheCart, openTheMenu, isOpen, menuIsOpen } = useShoppingCart()
+    const { signup, login, logout, currentUser, userEmail, showEmail, hideEmail, resetPassword } = useAuth()
 
-    const getTerm = useSendTerm()
-    const showButton = useButtonTerm()
-    const inputTerm = useInputText()
-    const clickButton = useClickButton()
-    const deleteTerm = useDeleteTerm()
-    const openTheCartBox = useOpenTheCart()
-    const openTheMenuBox = useOpenTheMenu()
-    const isOpen = useCartValue()
-    const isOpenMenu = useMenuValue()
-    let InputContainerRef = useRef()
 
     function backToSingup() {
         setShowSingupForm(!showSingupForm)
@@ -97,8 +95,7 @@ export function Header() {
             setShowSingupForm(false)
             setShowSinginForm(true)
             setSingupSuccess("Contul a fost creat cu succes!")
-            console.log(singinEmailRef.current.value)
-            console.log(singinPasswordRef.current.value)
+
             singinEmailRef.current.value = ""
             singinPasswordRef.current.value = ""
         } catch {
@@ -162,8 +159,6 @@ export function Header() {
 
         const searchFormContainer = document.querySelectorAll(`.${STYLE.searchFormContainer}`)
         const searchBoxContent = document.querySelectorAll(`.${STYLE.searchBoxContent}`)
-        const deleteSearchInput = document.querySelectorAll(`.${STYLE.deleteSearchInput}`)
-        const searchInput = document.querySelectorAll(`.${STYLE.searchInput}`)
         const searchInputMinSize = document.querySelectorAll(`.${STYLE.searchInputMinSize}`)
         const cartFormButton = document.querySelectorAll(`.${STYLE.cartFormButton}`)
         const background = document.querySelectorAll(`#${STYLE.absoluteBackground}`)
@@ -174,9 +169,8 @@ export function Header() {
         document.addEventListener("click", click)
         searchFormContainer[0].addEventListener("mouseenter", enter)
         searchFormContainer[0].addEventListener("mouseleave", leave)
-        deleteSearchInput[0].addEventListener("click", deleteSearchText)
         cartFormButton[0].addEventListener("click", setBackground(isOpen))
-        menuButton[0].addEventListener("click", setBackgroundMenu(isOpenMenu))
+        menuButton[0].addEventListener("click", setBackgroundMenu(menuIsOpen))
 
         searchInputMinSize[0].focus()
 
@@ -190,9 +184,9 @@ export function Header() {
             }
         }
 
-        function setBackgroundMenu(isOpenMenu) {
+        function setBackgroundMenu(menuIsOpen) {
             cartFormButton[0].removeEventListener("click", setBackground(isOpen))
-            if (isOpenMenu) {
+            if (menuIsOpen) {
                 body[0].style.overflow = "hidden"
                 backgroundMenu[0].style.display = "flex"
             } else {
@@ -208,9 +202,8 @@ export function Header() {
         }
 
         function leave() {
-            if (!inputTerm) {
+            if (!showCloseBtn) {
                 searchBoxContent[0].style.transform = "translateX(-100%)"
-
             }
         }
 
@@ -219,32 +212,12 @@ export function Header() {
                 searchFormContainer[0].removeEventListener("mouseenter", enter)
                 searchFormContainer[0].removeEventListener("mouseleave", leave)
             } else if (!InputContainerRef.current.contains(event.target)) {
-                if (showButton) {
-                    searchBoxContent[0].style.transform = "translateX(-100%)"
-                    searchFormContainer[0].addEventListener("mouseenter", enter)
-                    searchFormContainer[0].addEventListener("mouseleave", leave)
-                }
+                searchBoxContent[0].style.transform = "translateX(-100%)"
+                searchFormContainer[0].addEventListener("mouseenter", enter)
+                searchFormContainer[0].addEventListener("mouseleave", leave)
             }
         }
 
-        function deleteSearchText() {
-            searchInput[0].focus()
-            searchInput[0].value = ""
-            deleteSearchInput[0].style.color = "transparent"
-            deleteSearchInput[0].style.cursor = "default"
-        }
-
-        if (!inputTerm) {
-            deleteSearchInput[0].style.color = "transparent"
-            deleteSearchInput[0].style.cursor = "default"
-        } else {
-            deleteSearchInput[0].style.color = "black"
-            deleteSearchInput[0].style.cursor = "pointer"
-        }
-
-        if (window.innerWidth >= 1024) {
-            searchInputMinSize[0].value = searchInput[0].value
-        }
     })
 
     useEffect(() => {
@@ -314,11 +287,11 @@ export function Header() {
     return (
         <div className={STYLE.container}>
             <div
-                onClick={openTheCartBox}
+                onClick={openTheCart}
                 id={STYLE.absoluteBackground}>
             </div>
             <div
-                onClick={openTheMenuBox}
+                onClick={openTheMenu}
                 id={STYLE.absoluteBackgroundMenu}>
             </div>
             <div
@@ -326,44 +299,37 @@ export function Header() {
             </div>
 
             <div className={STYLE.middle}>
-                <div
+                <form
                     ref={searchContainerMinSizeRef}
                     style={{ display: openSearchBar ? "flex" : "none" }}
                     className={STYLE.searchContainerMinSize}>
+
                     <div className={STYLE.searchContentMinSize}>
                         <input
+                            ref={minInputRef}
                             className={STYLE.searchInputMinSize}
                             type="text"
                             placeholder="Ce flori cauti?"
-                            onChange={getTerm}
-                            onKeyDown={showButton}
                         />
 
-
-                        <Link
-                            to={`/search/${inputTerm}`}
-                            className={STYLE.enterButtonDiv}
-                            style={{ display: inputTerm === "" ? "none" : "flex" }}
-                            onClick={clickButton}>
-                            <button className={STYLE.enterButton}>
-                                <MdOutlineArrowForward />
-                            </button>
-                        </Link>
-
-
                         <button
+                            onClick={(e) => {
+                                e.preventDefault()
+                                handleSearch(minInputRef)
+                            }}
                             className={STYLE.enterButton}
-                            style={{ display: inputTerm === "" ? "inline-block" : "none" }}>
+                        >
                             <MdOutlineArrowForward />
                         </button>
 
+
                     </div>
-                </div>
+                </form>
                 <div className={STYLE.middleContent}>
 
                     <div className={STYLE.searchFormMinSize}>
                         <button
-                            onClick={openTheMenuBox}
+                            onClick={openTheMenu}
                             className={STYLE.menuButton}>
                             <AiOutlineMenu />
                         </button>
@@ -376,27 +342,18 @@ export function Header() {
                     </div>
 
 
-                    <div
+                    <form
                         ref={InputContainerRef}
                         className={STYLE.searchFormContainer}>
 
-
-
                         <div className={STYLE.searchIconContainer}>
 
-                            <Link
-                                to={`/search/${inputTerm}`}
-                                style={{ display: inputTerm === "" ? "none" : "inline-block", textDecoration: "none" }}>
+                            <div >
                                 <button
-                                    className={STYLE.formButton}
-                                    onClick={clickButton}>
-                                    <BsSearch />
-                                    <div className={STYLE.iconText}>Cauta</div>
-                                </button>
-                            </Link>
-
-                            <div style={{ display: inputTerm === "" ? "inline-block" : "none" }}>
-                                <button
+                                    onClick={(e) => {
+                                        e.preventDefault()
+                                        handleSearch(maxInputRef)
+                                    }}
                                     className={STYLE.formButton}>
                                     <BsSearch />
                                     <div className={STYLE.iconText}>Cauta</div>
@@ -404,27 +361,28 @@ export function Header() {
                             </div>
                         </div>
 
-
                         <div className={STYLE.inputContainer}>
                             <div className={STYLE.searchBoxContent}>
                                 <input
-
+                                    ref={maxInputRef}
                                     className={STYLE.searchInput}
                                     type="text"
                                     placeholder="Ce flori cauti?"
-                                    onChange={getTerm}
-                                    onKeyDown={showButton}
+                                    onChange={() => deleteSearchText(maxInputRef)}
                                 />
 
-                                <button
+                                <div
+                                    style={{ color: showCloseBtn ? "black" : "transparent" }}
+                                    ref={maxSearchBtnRef}
                                     className={STYLE.deleteSearchInput}
-                                    onClick={deleteTerm}
+                                    onClick={() => deleteTerm(maxInputRef)}
+
                                 >
                                     <VscClose />
-                                </button>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    </form>
 
                     <div className={STYLE.logoContainer}>
                         <Link to="/"><img className={STYLE.logo} src={logo} alt="logo" /></Link>
@@ -748,7 +706,7 @@ export function Header() {
 
 
                         <button
-                            onClick={openTheCartBox}
+                            onClick={openTheCart}
                             className={STYLE.cartFormButton}>
                             <div className={STYLE.cartItemContainer}>
                                 <BiShoppingBag />

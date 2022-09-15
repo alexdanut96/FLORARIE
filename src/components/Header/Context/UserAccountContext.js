@@ -1,20 +1,24 @@
 import React, { useContext, useState } from "react";
 import { useLocalStorage } from "../../Hooks/useLocalStorage";
 
-
 const UserAccount = React.createContext()
-
 export function useUserAccount() {
     return useContext(UserAccount)
 }
 
+
 export function UserAccountContext({ children }) {
 
     const [firstNameError, setFirstNameError] = useState("")
+
     const [lastNameError, setLastNameError] = useState("")
+
     const [streetError, setStreetError] = useState("")
+
     const [streetNumberError, setStreetNumberError] = useState("")
+
     const [receiverPhoneNumberError, setReceiverPhoneNumberError] = useState("")
+
     const [receiverError, setReceiverError] = useState("")
 
     const [demo, setDemo] = useLocalStorage("accountDemo",
@@ -34,7 +38,6 @@ export function UserAccountContext({ children }) {
         }
     )
 
-
     const [editFormData, setEditFormData] = useLocalStorage("accountInfo",
         {
             firstName: "",
@@ -51,7 +54,6 @@ export function UserAccountContext({ children }) {
             receiver: ""
         }
     )
-
 
     function removeAddress() {
         setDemo(prevState => {
@@ -146,7 +148,6 @@ export function UserAccountContext({ children }) {
 
 
     return (
-
         <UserAccount.Provider value={{
             setDemoData,
             setFormData,
@@ -175,6 +176,5 @@ export function UserAccountContext({ children }) {
         }}>
             {children}
         </UserAccount.Provider>
-
     )
 }

@@ -1,9 +1,7 @@
 import React, { useContext, useState } from "react";
 import { useLocalStorage } from "../../Hooks/useLocalStorage";
 
-
 const Modify = React.createContext()
-
 export function useModify() {
     return useContext(Modify)
 }
@@ -11,7 +9,9 @@ export function useModify() {
 export function AddToCartContext({ children }) {
 
     const [addToFavorites, setAddToFavorite] = useState(false)
+
     const [favoriteItems, setFavoriteItems] = useLocalStorage("favorite-items", [])
+
     const [cartItems, setCartItems] = useLocalStorage("shopping-cart", [])
 
     const cartQuantity = cartItems.reduce(
@@ -95,6 +95,7 @@ export function AddToCartContext({ children }) {
             }
         })
     }
+
     function removeFromCart(productCode) {
         setCartItems(currItems => {
             return currItems.filter(item => item.productCode !== productCode)

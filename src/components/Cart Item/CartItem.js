@@ -5,10 +5,10 @@ import { Link } from "react-router-dom";
 import { formatCurrency, newPrice } from "../../utilities/formatCurrency";
 import items from "../../data/Items.json"
 import { useModify } from "../Header/Context/AddToCartContext";
-import { useOpenTheCart } from "../Header/Context/ShoppingCartContext";
+import { useShoppingCart } from "../Header/Context/ShoppingCartContext";
 
 export function CartItem({ productCode, quantity }) {
-    const isOpen = useOpenTheCart()
+    const { openTheCart } = useShoppingCart()
     const { removeFromCart, increaseCartQuantity, decreaseCartQuantity } = useModify()
     const item = items.find(i => i.productCode === productCode)
     if (item === undefined) return null
@@ -17,7 +17,7 @@ export function CartItem({ productCode, quantity }) {
         <div className={STYLE.container}>
             <div className={STYLE.itemContainer}>
                 <Link
-                    onClick={isOpen}
+                    onClick={openTheCart}
                     to={item.path}>
                     <img
                         className={STYLE.image}

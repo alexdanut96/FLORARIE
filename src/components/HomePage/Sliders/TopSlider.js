@@ -84,7 +84,6 @@ export function TopSlider() {
             slide[0].style.transition = "0.35s ease"
             slide[0].style.transform = `translateX(${-slideWidth * index}%)`
             currentDot()
-            console.log(index)
         }
 
         function moveToPreviousSlide() {
@@ -93,7 +92,6 @@ export function TopSlider() {
             slide[0].style.transition = "0.35s ease"
             slide[0].style.transform = `translateX(${-slideWidth * index}%)`
             currentDot()
-            console.log(index)
         }
 
         const startSlide = () => {

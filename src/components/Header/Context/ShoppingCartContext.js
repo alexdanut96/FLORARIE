@@ -1,38 +1,16 @@
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 
-const OpenTheCartFunction = React.createContext()
-const OpenTheMenuFunction = React.createContext()
-const CartValue = React.createContext()
-const MenuValue = React.createContext()
-const WindowWidthCheck = React.createContext()
-
-export function useOpenTheCart() {
-    return useContext(OpenTheCartFunction)
+const ShoppingCartContext = React.createContext()
+export function useShoppingCart() {
+    return useContext(ShoppingCartContext)
 }
 
-export function useOpenTheMenu() {
-    return useContext(OpenTheMenuFunction)
-}
 
-export function useCartValue() {
-    return useContext(CartValue)
-}
+export function ShoppingCartProvider({ children }) {
 
-export function useMenuValue() {
-    return useContext(MenuValue)
-}
+    const [isOpen, setIsOpen] = useState(false)
 
-export function useWindowWidthCart() {
-    return useContext(WindowWidthCheck)
-}
-
-export function ShoppingCartContext({ children }) {
-
-    window.addEventListener("resize", checkWindowWidth)
-
-
-    const [isOpen, setIsOpen] = React.useState(false)
-    const [menuIsOpen, setMenuIsOpen] = React.useState(false)
+    const [menuIsOpen, setMenuIsOpen] = useState(false)
 
     function openTheMenu() {
         setMenuIsOpen(!menuIsOpen)
@@ -42,24 +20,17 @@ export function ShoppingCartContext({ children }) {
         setIsOpen(!isOpen)
     }
 
-    function checkWindowWidth() {
-        if (window.innerWidth >= 1024) {
-            setMenuIsOpen(false)
-        }
+    const value = {
+        openTheCart,
+        openTheMenu,
+        isOpen,
+        menuIsOpen
     }
 
 
     return (
-        <OpenTheCartFunction.Provider value={openTheCart}>
-            <OpenTheMenuFunction.Provider value={openTheMenu}>
-                <CartValue.Provider value={isOpen}>
-                    <MenuValue.Provider value={menuIsOpen}>
-                        <WindowWidthCheck.Provider value={checkWindowWidth}>
-                            {children}
-                        </WindowWidthCheck.Provider>
-                    </MenuValue.Provider>
-                </CartValue.Provider>
-            </OpenTheMenuFunction.Provider>
-        </OpenTheCartFunction.Provider>
+        <ShoppingCartContext.Provider value={value}>
+            {children}
+        </ShoppingCartContext.Provider>
     )
 }

@@ -1,7 +1,7 @@
 import React from "react"
 import STYLE from "./SidebarRight.module.css"
 import { VscClose } from "react-icons/vsc"
-import { useCartValue, useOpenTheCart } from "../Header/Context/ShoppingCartContext"
+import { useShoppingCart } from "../Header/Context/ShoppingCartContext"
 import { useModify } from "../Header/Context/AddToCartContext"
 import { CartItem } from "../Cart Item/CartItem"
 import { formatCurrency, newPrice } from "../../utilities/formatCurrency"
@@ -9,9 +9,8 @@ import items from "../../data/Items.json"
 
 export function SidebarRight() {
 
+    const { openTheCart, isOpen } = useShoppingCart()
     const { cartItems } = useModify()
-    const closeTheCartBox = useOpenTheCart()
-    const isOpen = useCartValue()
 
     return (
         <>
@@ -21,7 +20,7 @@ export function SidebarRight() {
                 <div className={STYLE.title}>
                     <div>Cos de cumparaturi</div>
                     <VscClose
-                        onClick={closeTheCartBox}
+                        onClick={openTheCart}
                         className={STYLE.closeButton} />
                 </div>
 

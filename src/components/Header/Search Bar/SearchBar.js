@@ -11,16 +11,18 @@ import { TbAdjustmentsHorizontal } from "react-icons/tb"
 import { FacilitiesCarousel } from "../../HomePage/Facilities/FacilitiesCarousel";
 import { FacilitiesItemsTwo } from "../../HomePage/Facilities/FacilitiesItemsTwo";
 import { FacilitiesMax } from "../../HomePage/FacilitiesTab/FacilitiesMax";
-import { useInputTerm } from "../Context/StateContext";
 import { NewSalesMax } from "../../HomePage/New sales/New Sales Max/NewSalesMax"
 import { NewSalesMid } from "../../HomePage/New sales/New Sales Mid/NewSalesMid"
 import { NewSalesMin } from "../../HomePage/New sales/New Sales Min/NewSalesMin"
+import { useSearch } from "../Context/SearchContext";
+
 
 export function SearchBar() {
 
-    const term = useInputTerm()
+    const { searchTerm } = useSearch()
 
     useEffect(() => {
+
         const productMaxSize = document.querySelectorAll(`.${STYLE.productMaxSize}>*`)
         const productMidSize = document.querySelectorAll(`.${STYLE.productMidSize}>*`)
         const productMinSize = document.querySelectorAll(`.${STYLE.productMinSize}>*`)
@@ -32,10 +34,9 @@ export function SearchBar() {
         const noResult = document.querySelectorAll(`.${STYLE.noResult}`)
         const titleContent = document.querySelectorAll(`.${STYLE.titleContent}`)
 
-        console.log(term)
-
         let i
         let index = 11
+
 
         function showMore() {
             for (i = 0; i <= productMaxSize.length - 1; i++) {
@@ -95,7 +96,7 @@ export function SearchBar() {
             <div className={STYLE.titleContent}>
                 <div className={STYLE.titleContainer}>
                     <div className={STYLE.title}>Rezultate pentru:</div>
-                    <div className={STYLE.title}>" {term} "</div>
+                    <div className={STYLE.title}>" {searchTerm} "</div>
                 </div>
             </div>
             <div className={STYLE.searchForm}>
@@ -103,7 +104,7 @@ export function SearchBar() {
             </div>
             <div className={STYLE.noResult}>
                 <div>
-                    Nu s-au gasit rezultate pentru: " <span>{term}</span> "
+                    Nu s-au gasit rezultate pentru: " <span>{searchTerm}</span> "
                 </div>
             </div>
             <div className={STYLE.productSearchFilter}>
@@ -121,24 +122,24 @@ export function SearchBar() {
             <div className={STYLE.productMaxSize}>
 
                 {items.map((val) => {
-                    if (val.title.toLowerCase().includes(term.toLowerCase())) {
-                        return <ContentCardMax key={val.id} {...val} />
+                    if (!searchTerm) {
+                        return null
+                    }
+                    else if (val.title.toLowerCase().includes(searchTerm.trim().toLowerCase())) {
+                        return <ContentCardMax key={val.productCode} {...val} />
                     }
                     return null
                 })}
-
-
-
-
 
             </div>
             <div className={STYLE.productMidSize}>
 
                 {items.map((val) => {
-                    if (term === "") {
+                    if (!searchTerm) {
                         return null
-                    } else if (val.title.toLowerCase().includes(term.toLowerCase())) {
-                        return <ContentCardMid key={val.id} {...val} />
+                    }
+                    else if (val.title.toLowerCase().includes(searchTerm.trim().toLowerCase())) {
+                        return <ContentCardMid key={val.productCode} {...val} />
                     }
                     return null
                 })}
@@ -147,10 +148,11 @@ export function SearchBar() {
             <div className={STYLE.productMinSize}>
 
                 {items.map((val) => {
-                    if (term === "") {
+                    if (!searchTerm) {
                         return null
-                    } else if (val.title.toLowerCase().includes(term.toLowerCase())) {
-                        return <ContentCardMin key={val.id} {...val} />
+                    }
+                    else if (val.title.toLowerCase().includes(searchTerm.trim().toLowerCase())) {
+                        return <ContentCardMin key={val.productCode} {...val} />
                     }
                     return null
                 })}
@@ -179,20 +181,7 @@ export function SearchBar() {
         </div>
 
     )
-
 }
-
-
-// {items.filter((val) => {
-//     if (term === "") {
-//         return null
-//     } else if (val.title.toLowerCase().includes(term.toLowerCase())) {
-//         return val
-//     }
-//     return null
-// }).map(item => (
-//     <ContentCardMax key={item.id} {...item} />
-// ))}
 
 
 

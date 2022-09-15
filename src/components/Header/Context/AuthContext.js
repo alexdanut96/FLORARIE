@@ -3,14 +3,16 @@ import { auth } from "../../Firebase/Firebase"
 import { useLocalStorage } from "../../Hooks/useLocalStorage"
 
 const AuthContext = React.createContext()
-
 export function useAuth() {
     return useContext(AuthContext)
 }
 
+
 export function AuthProvider({ children }) {
     const [currentUser, setCurrentUser] = useState()
+
     const [userEmail, setUserEmail] = useLocalStorage("currentUser", false)
+
     const [loading, setLoading] = useState(true)
 
     function showEmail() {
