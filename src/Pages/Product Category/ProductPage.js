@@ -21,7 +21,7 @@ import { useModify } from "../../components/Header/Context/AddToCartContext"
 import { useAuth } from "../../components/Header/Context/AuthContext"
 
 
-export function ProductPage(
+export default function ProductPage(
     { id, productCode, discount, productImageBs, title, price, inStock, deliveryTime, path, accountBenefitsDescription, aboutProduct, furtherInformation }) {
     // function zoom() {
     //     const container = document.querySelector(`#${containerimage}`)
@@ -66,7 +66,8 @@ export function ProductPage(
         bestSellerMaxSize[0].innerHTML = "Cele mai vandute"
         bestSellerMidSize[0].innerHTML = "Cele mai vandute"
         bestSellerMinSize[0].innerHTML = "Cele mai vandute"
-    })
+
+    }, [])
 
 
 

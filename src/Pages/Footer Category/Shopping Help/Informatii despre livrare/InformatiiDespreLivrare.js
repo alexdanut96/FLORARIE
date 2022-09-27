@@ -59,10 +59,10 @@ export function InformatiiDespreLivrare() {
                                 Comandă Online Flori cu Livrare la Domiciliu
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                Floria.ro a revolutionat intregul concept de a comanda flori online prin introducerea sistemului de livrare prin curieri proprii, care garanteaza ca buchetele sunt livrate de catre o persoana, florile sunt oferite din mana unei persoana care zambeste si buchetul este pus in valoare din primul moment.
+                                Floris.ro a revolutionat intregul concept de a comanda flori online prin introducerea sistemului de livrare prin curieri proprii, care garanteaza ca buchetele sunt livrate de catre o persoana, florile sunt oferite din mana unei persoana care zambeste si buchetul este pus in valoare din primul moment.
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                Comanda de flori online prin Floria asigura prospetimea buchetelor care ajung la destinatar, pentru ca livrarea se realizeaza in 2 ore de la comanda, fara ca florile sa fie puse intr-o cutie pana a doua zi.
+                                Comanda de flori online prin Floris asigura prospetimea buchetelor care ajung la destinatar, pentru ca livrarea se realizeaza in 2 ore de la comanda, fara ca florile sa fie puse intr-o cutie pana a doua zi.
                             </div>
 
 
@@ -76,7 +76,7 @@ export function InformatiiDespreLivrare() {
                                 Comanda flori online pentru ca este simplu si pentru ca florile sunt livrate rapid, in 2 ore de la comanda, oriunde in tara.
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                Comanda flori online prin Floria, pentru ca buchetele sunt splendide iar intregul ansamblu pentru livrare asigura o experienta senzoriala uluitoare, la doar 2 ore de la comanda florilor online.
+                                Comanda flori online prin Floris, pentru ca buchetele sunt splendide iar intregul ansamblu pentru livrare asigura o experienta senzoriala uluitoare, la doar 2 ore de la comanda florilor online.
                             </div>
 
 
@@ -84,10 +84,10 @@ export function InformatiiDespreLivrare() {
                                 Comanda flori online oriunde in tara
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                Prin Floria, poti comanda flori online care sa fie livrate oriunde in tara, prin intermediul partenerilor nostri, alaturi de care ne asiguram ca buchetul poate ajunge la destinatie in 2 ore de la comanda. Transportul este gratuit in Bucuresti si in alte 130 orase din Romania.
+                                Prin Floris, poti comanda flori online care sa fie livrate oriunde in tara, prin intermediul partenerilor nostri, alaturi de care ne asiguram ca buchetul poate ajunge la destinatie in 2 ore de la comanda. Transportul este gratuit in Bucuresti si in alte 130 orase din Romania.
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                Comanda flori online in Bucuresti prin Floria si vei primi pe mail fotografia buchetului livrat, pentru a gusta din frumusetea lui si din bucuria pe care o va genera.
+                                Comanda flori online in Bucuresti prin Floris si vei primi pe mail fotografia buchetului livrat, pentru a gusta din frumusetea lui si din bucuria pe care o va genera.
                             </div>
 
 
@@ -106,7 +106,7 @@ export function InformatiiDespreLivrare() {
                                 Comanda flori online si semneaza Anonim
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                Floria iti da posibilitatea sa faci o comanda de flori online fara ca persoana careia ii sunt destinate florile sa afle cine I le-a trimis. Ramai anonim cat timp doresti, chiar si pentru totdeauna, Floria.ro garanteaza ca nu va divulga identitatea clientului, in ciuda insistentelor destinatarelor, care uneori sunt ating cote impresionante.
+                                Floris iti da posibilitatea sa faci o comanda de flori online fara ca persoana careia ii sunt destinate florile sa afle cine I le-a trimis. Ramai anonim cat timp doresti, chiar si pentru totdeauna, Floris.ro garanteaza ca nu va divulga identitatea clientului, in ciuda insistentelor destinatarelor, care uneori sunt ating cote impresionante.
                             </div>
 
 
@@ -120,10 +120,10 @@ export function InformatiiDespreLivrare() {
                                 Comanda flori online pentru orice persoana draga, cu livrare oriunde in tara, pentru a-i insenina ziua printr-o surpriza care o va emotiona pana la lacrimi.
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                Alege din cele peste 2500 de buchetele create de designerii Floria si disponibile pentru comanda online, combinatia de flori si culori care va uimi si va impresiona intreaga familie.
+                                Alege din cele peste 2500 de buchetele create de designerii Floris si disponibile pentru comanda online, combinatia de flori si culori care va uimi si va impresiona intreaga familie.
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                In cazul in care livrarea nu se poate finaliza la primul transport, Floria garanteaza un al doilea transport gratuit in aceeasi zi, la adresa mentionata in comanda initiala sau la alta adresa din orasul respectiv. In cazul in care nici a doua livrare nu se finalizeaza cu succes, clientul va achita o taxa de transport de 50 ron daca se opteaza pentru relivrarea aceluiasi buchet in alta zi. Floria nu isi asuma raspunderea pentru prospetimea florilor relivrate, insa clientul poate opta pentru comandarea aceluiasi tip de buchet cu 50% discount, buchet care va fi livrat in orice alta zi.
+                                In cazul in care livrarea nu se poate finaliza la primul transport, Floris garanteaza un al doilea transport gratuit in aceeasi zi, la adresa mentionata in comanda initiala sau la alta adresa din orasul respectiv. In cazul in care nici a doua livrare nu se finalizeaza cu succes, clientul va achita o taxa de transport de 50 ron daca se opteaza pentru relivrarea aceluiasi buchet in alta zi. Floris nu isi asuma raspunderea pentru prospetimea florilor relivrate, insa clientul poate opta pentru comandarea aceluiasi tip de buchet cu 50% discount, buchet care va fi livrat in orice alta zi.
                             </div>
 
 

@@ -11,6 +11,10 @@ export function SearchProvider({ children }) {
 
     const [searchParams, setSearchParams] = useSearchParams()
 
+    const [isRender, setIsRender] = useState(false)
+
+    const [progress, setProgress] = React.useState(0)
+
     const searchTerm = searchParams.get('filter') || ''
 
     const navigate = useNavigate()
@@ -31,6 +35,13 @@ export function SearchProvider({ children }) {
         }
     }
 
+    function setLoadingProgress100() {
+        setProgress(100)
+    }
+    function setLoadingProgress0() {
+        setProgress(10)
+    }
+
     function deleteTerm(ref) {
         ref.current.value = ""
         setShowCloseBtn(false)
@@ -49,6 +60,14 @@ export function SearchProvider({ children }) {
         }
     }
 
+    function trueRender() {
+        setIsRender(true)
+    }
+
+    function falseRender() {
+        setIsRender(false)
+    }
+
     const value = {
         deleteTerm,
         CheckTheTruethness,
@@ -56,7 +75,14 @@ export function SearchProvider({ children }) {
         deleteSearchText,
         searchTerm,
         showCloseBtn,
-        isOpen
+        isOpen,
+        trueRender,
+        falseRender,
+        isRender,
+
+        setLoadingProgress100,
+        setLoadingProgress0,
+        progress
     }
 
 

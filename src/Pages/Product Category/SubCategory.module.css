@@ -1,4 +1,5 @@
 @media all and (min-width: 1024px) {
+
     .container {
         grid-area: c;
         display: block;

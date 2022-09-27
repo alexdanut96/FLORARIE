@@ -49,7 +49,7 @@ export function OcaziiSiEvenimente() {
         const categoryFour = document.querySelectorAll(`.${STYLE.categoryFour}`)
         const categoryFive = document.querySelectorAll(`.${STYLE.categoryFive}`)
         const categorySix = document.querySelectorAll(`.${STYLE.categorySix}`)
-        const imageBackgroundUne = document.querySelectorAll(`.${STYLE.imageBackgroundUne}`)
+        const imageBackgroundUnu = document.querySelectorAll(`.${STYLE.imageBackgroundUnu}`)
         const imageBackgroundTwo = document.querySelectorAll(`.${STYLE.imageBackgroundTwo}`)
         const imageBackgroundThree = document.querySelectorAll(`.${STYLE.imageBackgroundThree}`)
         const imageBackgroundFour = document.querySelectorAll(`.${STYLE.imageBackgroundFour}`)
@@ -87,14 +87,16 @@ export function OcaziiSiEvenimente() {
         }
         showMore()
 
+        console.log(imageBackgroundUnu[0])
+
         button[0].addEventListener("click", showMore)
 
         categoryOne[0].addEventListener("mouseenter", () => {
-            imageBackgroundUne[0].style.transform = "scale(1.1)"
+            imageBackgroundUnu[0].style.transform = "scale(1.1)"
         })
 
         categoryOne[0].addEventListener("mouseleave", () => {
-            imageBackgroundUne[0].style.transform = "scale(1)"
+            imageBackgroundUnu[0].style.transform = "scale(1)"
         })
         categoryTwo[0].addEventListener("mouseenter", () => {
             imageBackgroundTwo[0].style.transform = "scale(1.1)"
@@ -132,7 +134,7 @@ export function OcaziiSiEvenimente() {
             imageBackgroundSeize[0].style.transform = "scale(1)"
         })
 
-    })
+    }, [])
 
     return (
         <div className={STYLE.container}>
@@ -146,7 +148,7 @@ export function OcaziiSiEvenimente() {
             <div className={STYLE.categoryContainer}>
                 <div className={STYLE.categoryContent}>
                     <Link to={ocazii_si_evenimente_column1[0].path} className={STYLE.categoryOne}>
-                        <div className={STYLE.imageBackgroundUne}></div>
+                        <div className={STYLE.imageBackgroundUnu}></div>
                         <div className={STYLE.categoryTitle}><div>Flori onomastica</div></div>
                     </Link>
                     <Link to={ocazii_si_evenimente_column1[2].path} className={STYLE.categoryTwo}>
@@ -704,11 +706,11 @@ export function OcaziiSiEvenimente() {
                 <div className={STYLE.informationTitle}>Comanda Online Buchete de Flori Superbe cu Livrare la Domiciliu</div>
                 <div className={STYLE.informationContent}>
                     <div className={STYLE.informationContentOne}>
-                        Avem flori proaspete care creeaza buchete deosebite, accesibile ca pret, tocmai pentru a te ajuta sa faci un cadou deosebit. Iar daca esti departe de ea, poti comanda online, iar in 2 ore ea va tine in brate buchetul de flori ales de tine. La Floria gasesti buchete de flori potrivite pentru orice ocazie.
+                        Avem flori proaspete care creeaza buchete deosebite, accesibile ca pret, tocmai pentru a te ajuta sa faci un cadou deosebit. Iar daca esti departe de ea, poti comanda online, iar in 2 ore ea va tine in brate buchetul de flori ales de tine. La Floris gasesti buchete de flori potrivite pentru orice ocazie.
                         Fie ca vrei sa-ti surprinzi persoana iubita cu un buchet de flori sau să sa faci o surpriza mamei, surorii sau unei prietene, alege buchetul de flori potrivit ocaziei. Un buchet de flori poate transmite cat de mult o iubesti, cat de mult iti lipseste sau poate spune un sincer "multumesc" atunci cand tu nu poti.
                     </div>
                     <div className={STYLE.informationContentTwo}>
-                        Buchete flori deosebite de la Floria- cauti un buchet de flori? - in floraria noastra vei gasi cu siguranta buchete de flori deosebite pentru orice ocazie speciala din viata ta! Iti oferim consultanta de luni pana duminica pentru a alege cele mai potrivite buchete flori pentru zi de nastere, pentru a multumi cuiva, pentru la multi ani, buchete cu flori exotice sau romantice, buchete cu flori de sezon, buchete de marimi mici, mari sau impresionante.
+                        Buchete flori deosebite de la Floris- cauti un buchet de flori? - in floraria noastra vei gasi cu siguranta buchete de flori deosebite pentru orice ocazie speciala din viata ta! Iti oferim consultanta de luni pana duminica pentru a alege cele mai potrivite buchete flori pentru zi de nastere, pentru a multumi cuiva, pentru la multi ani, buchete cu flori exotice sau romantice, buchete cu flori de sezon, buchete de marimi mici, mari sau impresionante.
                     </div>
                 </div>
             </div>

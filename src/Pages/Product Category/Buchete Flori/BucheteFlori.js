@@ -36,8 +36,15 @@ import items17 from "../../../data/Buchete flori/Buchete de trandafiri/BucheteDe
 import items18 from "../../../data/Buchete flori/Flori de Iarna/FloriDeIarna.json"
 import items19 from "../../../data/Buchete flori/Flori de Primavara/FloriDePrimavara.json"
 import items20 from "../../../data/Buchete flori/Flori de Vara/FloriDeVara.json"
+import { useSearch } from "../../../components/Header/Context/SearchContext";
+// import TopBarProgress from "react-topbar-progress-indicator";
+// import { useLoadingContext } from "react-router-loading";
 
-export function BucheteFlori() {
+export default function BucheteFlori() {
+
+    const { setLoadingProgress100, setLoadingProgress0 } = useSearch()
+    setLoadingProgress0()
+    // const loadingContext = useLoadingContext();
 
     useEffect(() => {
         const categoryUne = document.querySelectorAll(`.${STYLE.categoryUne}`)
@@ -122,9 +129,12 @@ export function BucheteFlori() {
             imageBackgroundSix[0].style.transform = "scale(1)"
         })
 
-    })
+        // loadingContext.done()
+
+    }, [])
 
     return (
+
         <div className={STYLE.container}>
             <div className={STYLE.searchForm}>
                 <SearchForm />
@@ -626,18 +636,21 @@ export function BucheteFlori() {
                 <div className={STYLE.informationTitle}>Comanda Online Buchete de Flori Superbe cu Livrare la Domiciliu</div>
                 <div className={STYLE.informationContent}>
                     <div className={STYLE.informationContentOne}>
-                        Avem flori proaspete care creeaza buchete deosebite, accesibile ca pret, tocmai pentru a te ajuta sa faci un cadou deosebit. Iar daca esti departe de ea, poti comanda online, iar in 2 ore ea va tine in brate buchetul de flori ales de tine. La Floria gasesti buchete de flori potrivite pentru orice ocazie.
+                        Avem flori proaspete care creeaza buchete deosebite, accesibile ca pret, tocmai pentru a te ajuta sa faci un cadou deosebit. Iar daca esti departe de ea, poti comanda online, iar in 2 ore ea va tine in brate buchetul de flori ales de tine. La Floris gasesti buchete de flori potrivite pentru orice ocazie.
                         Fie ca vrei sa-ti surprinzi persoana iubita cu un buchet de flori sau să sa faci o surpriza mamei, surorii sau unei prietene, alege buchetul de flori potrivit ocaziei. Un buchet de flori poate transmite cat de mult o iubesti, cat de mult iti lipseste sau poate spune un sincer "multumesc" atunci cand tu nu poti.
                     </div>
                     <div className={STYLE.informationContentTwo}>
-                        Buchete flori deosebite de la Floria- cauti un buchet de flori? - in floraria noastra vei gasi cu siguranta buchete de flori deosebite pentru orice ocazie speciala din viata ta! Iti oferim consultanta de luni pana duminica pentru a alege cele mai potrivite buchete flori pentru zi de nastere, pentru a multumi cuiva, pentru la multi ani, buchete cu flori exotice sau romantice, buchete cu flori de sezon, buchete de marimi mici, mari sau impresionante.
+                        Buchete flori deosebite de la Floris- cauti un buchet de flori? - in floraria noastra vei gasi cu siguranta buchete de flori deosebite pentru orice ocazie speciala din viata ta! Iti oferim consultanta de luni pana duminica pentru a alege cele mai potrivite buchete flori pentru zi de nastere, pentru a multumi cuiva, pentru la multi ani, buchete cu flori exotice sau romantice, buchete cu flori de sezon, buchete de marimi mici, mari sau impresionante.
                     </div>
                 </div>
             </div>
             <SearchForm />
             <FreeDelivery />
+
         </div>
+
     )
+
 }
 
 

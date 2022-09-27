@@ -56,21 +56,21 @@ export function FAQ() {
 
 
                             <div className={STYLE.rowOneTitles}>
-                                1. Pot veni la sediul Floria pentru a plati comanda in numerar?
+                                1. Pot veni la sediul Floris pentru a plati comanda in numerar?
 
 
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                <strong>R: </strong>Plata produselor comandate de pe site-ul www.floria.ro se poate face doar online prin una dintre modalitatile de plata puse la dispozitie de Floria. Vezi mai multe detalii despre modalitatile de plata pe Floria.ro AICI.
+                                <strong>R: </strong>Plata produselor comandate de pe site-ul www.floris.ro se poate face doar online prin una dintre modalitatile de plata puse la dispozitie de Floris. Vezi mai multe detalii despre modalitatile de plata pe Floris.ro AICI.
                             </div>
 
 
                             <div className={STYLE.rowOneTitles}>
-                                2. Pot ridica buchetul comandat de la sediu Floria?
+                                2. Pot ridica buchetul comandat de la sediu Floris?
 
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                <strong>R: </strong>Livrarea comenzilor de pe www.floria.ro se face doar prin curieri proprii si doar dupa ce s-a facut dovada platii.
+                                <strong>R: </strong>Livrarea comenzilor de pe www.floris.ro se face doar prin curieri proprii si doar dupa ce s-a facut dovada platii.
                             </div>
 
 
@@ -79,7 +79,7 @@ export function FAQ() {
 
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                <strong>R: </strong>Da, Floria livreaza flori si international in 24 ore dupa ce s-a facut dovada platii.
+                                <strong>R: </strong>Da, Floris livreaza flori si international in 24 ore dupa ce s-a facut dovada platii.
                             </div>
 
 

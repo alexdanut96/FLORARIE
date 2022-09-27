@@ -6,12 +6,12 @@ import ScrollToTop from "./components/Scroll To Top/ScrollToTop"
 import { SearchProvider } from "./components/Header/Context/SearchContext"
 import { AuthProvider } from "./components/Header/Context/AuthContext"
 
-
 createRoot(document.getElementById("root")).render(
+
     <Router>
-        <ScrollToTop />
-        <div id="absolute-background"></div>
         <SearchProvider>
+            <ScrollToTop />
+            <div id="absolute-background"></div>
             <AuthProvider>
                 <App />
             </AuthProvider>

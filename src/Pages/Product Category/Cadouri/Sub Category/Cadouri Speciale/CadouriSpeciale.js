@@ -108,7 +108,7 @@ export function CadouriSpeciale() {
                 <div className={STYLE.informationTitle}>Comanda Online Cadouri Speciale Superbe cu Livrare la Domiciliu</div>
                 <div className={STYLE.informationContent}>
                     <div className={STYLE.informationContentOne}>
-                        Esti in cautare de cadouri speciale? Stii sa alegi dintr-o intreaga lista de cadouri flori? Surprinde-ti jumatatea cu flori si cadouri cu orice ocazie! Am creat pentru tine o colectie speciala. Floria este cea mai la indemana optiune, daca esti in cautare de flori sau cadouri speciale.                    </div>
+                        Esti in cautare de cadouri speciale? Stii sa alegi dintr-o intreaga lista de cadouri flori? Surprinde-ti jumatatea cu flori si cadouri cu orice ocazie! Am creat pentru tine o colectie speciala. Floris este cea mai la indemana optiune, daca esti in cautare de flori sau cadouri speciale.                    </div>
                     <div className={STYLE.informationContentTwo}>
                         Alege dintr-o gama variata de buchete de flori si aranjamente, carora le-am adaugat parfumuri, sampanie sau o experienta inedita. Online este cel mai simplu, daca vrei sa oferi flori cadou. Fiecare dintre aceste pachete speciale beneficiaza de livrare gratuita in tara.                    </div>
                 </div>

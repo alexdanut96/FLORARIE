@@ -18,7 +18,7 @@ import items from "../../../../../data/Items.json"
 export function Abonamente() {
 
     useEffect(() => {
-        const productMaximumSize = document.querySelectorAll(`.${STYLE.productMaximumSize}>*`)
+        const prodMaxSize = document.querySelectorAll(`.${STYLE.prodMaxSize}>*`)
         const productMediumSize = document.querySelectorAll(`.${STYLE.productMediumSize}>*`)
         const productMin = document.querySelectorAll(`.${STYLE.productMin}>*`)
         const button = document.querySelectorAll(`.${STYLE.button}`)
@@ -29,28 +29,37 @@ export function Abonamente() {
         let i
         let index = 11
 
+        console.log(prodMaxSize[0])
+        console.log(productMediumSize[0])
+        console.log(productMin[0])
+        console.log(button[0])
+        console.log(showMoreItems[0])
+        console.log(bestSellerBigSize[0])
+        console.log(bestSellerMidSize[0])
+        console.log(bestSellerMinSize[0])
+
         bestSellerBigSize[0].innerHTML = "Cele mai cumparate flori"
         bestSellerMidSize[0].innerHTML = "Cele mai cumparate flori"
         bestSellerMinSize[0].innerHTML = "Cele mai cumparate flori"
 
         function showMore() {
-            for (i = 0; i <= productMaximumSize.length - 1; i++) {
+            for (i = 0; i <= prodMaxSize.length - 1; i++) {
                 if (i <= index) {
-                    productMaximumSize[i].style.display = "flex"
+                    prodMaxSize[i].style.display = "flex"
                     productMediumSize[i].style.display = "flex"
                     productMin[i].style.display = "flex"
                 }
             }
-            if (index >= productMaximumSize.length - 1) {
-                index = productMaximumSize.length - 1
+            if (index >= prodMaxSize.length - 1) {
+                index = prodMaxSize.length - 1
             }
-            showMoreItems[0].innerHTML = `Afiseaza ${index + 1} din ${productMaximumSize.length}`
+            showMoreItems[0].innerHTML = `Afiseaza ${index + 1} din ${prodMaxSize.length}`
             index = index + 12
         }
         showMore()
         button[0].addEventListener("click", showMore)
 
-    })
+    }, [])
 
     return (
         <div className={STYLE.container}>
@@ -87,7 +96,7 @@ export function Abonamente() {
                     </button>
                 </div>
             </div>
-            <div className={STYLE.productMaximumSize}>
+            <div className={STYLE.prodMaxSize}>
                 {items.filter((val) => {
                     if (val.productCode.includes("ABON")) {
                         return val
@@ -126,7 +135,7 @@ export function Abonamente() {
                 <div className={STYLE.informationContent}>
                     <div className={STYLE.informationContentOne}>
                         <div>
-                            Fie ca iti doresti sa iti rasplatesti sau sa iti motivezi angajatii sau pur si simplu vrei ca atmosfera de la birou sa fie completata de un aranjament deosebit, alege sa iti faci un abonament la Floria, iar noi vom avea grija sa nu duci lipsa de flori proaspete! Avem experienta de peste 5 ani in livrarea de flori online oriunde in Romania si am aratat calitatea serviciilor noastre de Craciun, 1 si 8 Martie, Ziua Indragostitilor sau orice alta ocazie.
+                            Fie ca iti doresti sa iti rasplatesti sau sa iti motivezi angajatii sau pur si simplu vrei ca atmosfera de la birou sa fie completata de un aranjament deosebit, alege sa iti faci un abonament la Floris, iar noi vom avea grija sa nu duci lipsa de flori proaspete! Avem experienta de peste 5 ani in livrarea de flori online oriunde in Romania si am aratat calitatea serviciilor noastre de Craciun, 1 si 8 Martie, Ziua Indragostitilor sau orice alta ocazie.
                         </div>
                         <div>
                             Iti doresti sa impresionezi pe cineva cu flori livrate la usa in fiecare saptamana sau luna? Nimic mai simplu! Poti alege unul din abonamentele noastre, iar noi vom avea grija ca florile tale sa fie livrate proaspete la usa destinatarei atunci cand doresti. Buchetul sau aranjamentul de flori vor fi livrate cu grija de curierii nostri, alaturi de o felicitare pe care putem scrie un mesaj ales de tine.
@@ -136,10 +145,10 @@ export function Abonamente() {
                         <div>
                             Livram flori online oriunde in Romania in numai 2 ore!                        </div>
                         <div>
-                            Poate iti doresti sa bucuri pe cineva aflat la distanta? Pentru florarie online Floria nu este nicio problema sa livram buchete de flori la mii de kilometrii distanta. Intra pe pagina noastra ""Livrari flori internationale"" si vezi orasele in care livram flori gratuit, in numai 24 de ore!
+                            Poate iti doresti sa bucuri pe cineva aflat la distanta? Pentru florarie online Floris nu este nicio problema sa livram buchete de flori la mii de kilometrii distanta. Intra pe pagina noastra ""Livrari flori internationale"" si vezi orasele in care livram flori gratuit, in numai 24 de ore!
                         </div>
                         <div>
-                            Cu Floria este mai simplu ca niciodata sa le faci surprize celor dragi sau sa le multumesti partenerilor de afaceri! Comanda usor flori online sau alege un abonament, daca doresti sa trimiti flori regulat, iar noi iti garantam ca acestea vor ajunge la destinatie in stare impecabila!
+                            Cu Floris este mai simplu ca niciodata sa le faci surprize celor dragi sau sa le multumesti partenerilor de afaceri! Comanda usor flori online sau alege un abonament, daca doresti sa trimiti flori regulat, iar noi iti garantam ca acestea vor ajunge la destinatie in stare impecabila!
                         </div>
                     </div>
                 </div>

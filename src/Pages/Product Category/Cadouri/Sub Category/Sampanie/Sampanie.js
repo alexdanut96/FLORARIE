@@ -108,10 +108,10 @@ export function Sampanie() {
                 <div className={STYLE.informationTitle}>Comanda Online Sampanie Superbe cu Livrare la Domiciliu</div>
                 <div className={STYLE.informationContent}>
                     <div className={STYLE.informationContentOne}>
-                        Multumeste, spune “La multi ani” sau, pur si simplu fa o surpriza frumoasa cuiva! Adauga o sticla de sampanie buchetului de flori sau aranjamentului floral ales de tine. La Floria, am creat o pagina speciala, de unde poti alege tipul de sampanie preferat, pe care il poti adauga cadoului. Am ales tipuri diferite de sampanie, in functie de preferintele si bugetul tau.                    </div>
+                        Multumeste, spune “La multi ani” sau, pur si simplu fa o surpriza frumoasa cuiva! Adauga o sticla de sampanie buchetului de flori sau aranjamentului floral ales de tine. La Floris, am creat o pagina speciala, de unde poti alege tipul de sampanie preferat, pe care il poti adauga cadoului. Am ales tipuri diferite de sampanie, in functie de preferintele si bugetul tau.                    </div>
                     <div className={STYLE.informationContentTwo}>
                         <div>
-                            Astfel, la Floria gasesti sampanie Asti Martini, sampanie Moet sau sampanie Dom Perignon.
+                            Astfel, la Floris gasesti sampanie Asti Martini, sampanie Moet sau sampanie Dom Perignon.
                         </div>
                         <div>
                             *Sampania Asti Martini, sampania Moet sau sampania Don Perignon poate fi adaugata in cos numai impreuna cu un buchet de flori, un aranjament floral sau o floare in ghiveci.

@@ -1,7 +1,7 @@
 export const QandAitems = [
     {
         id: 1,
-        question: "Pot veni la sediul Floria pentru a plati comanda in numerar?",
+        question: "Pot veni la sediul Floris pentru a plati comanda in numerar?",
         answer: "Poti comanda si plati exclusiv online, folosind una dintre modalitatile de plata disponibile in site. Mai multe detalii despre plati gasesti "
     },
     {

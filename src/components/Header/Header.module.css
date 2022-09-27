@@ -156,8 +156,8 @@
 }
 
 /* #loginButton {
-    gap: 10px;
-} */
+        gap: 10px;
+    } */
 
 .googleButton:hover,
 .facebookButton:hover,
@@ -712,9 +712,9 @@
 }
 
 /* .favoriteLink:hover {
-    background-color: #dddddd;
-    transition: 0.1s;
-} */
+        background-color: #dddddd;
+        transition: 0.1s;
+    } */
 
 .formButton>* {
     font-size: 25px;

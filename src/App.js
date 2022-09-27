@@ -5,10 +5,13 @@ import { HomePage } from "./components/Content/HomePage"
 import { Footer } from "./components/Footer/Footer"
 import { Header } from "./components/Header/Header"
 import { Navbar } from "./components/Navbar/Navbar"
-import { Route, Routes, Navigate } from "react-router-dom"
+import { Route, Routes } from "react-router-dom"
+// import { Route, Routes } from "react-router-loading"
+import { Navigate } from "react-router-dom"
 import { navBarItems } from "./navbar-components/NavBarItems"
 import { AranjamenteFlorale } from "./Pages/Product Category/Aranjamente Florale/AranjamenteFlorale"
-import { BucheteFlori } from "./Pages/Product Category/Buchete Flori/BucheteFlori"
+// import { BucheteFlori } from "./Pages/Product Category/Buchete Flori/BucheteFlori"
+import BucheteFlori from "./Pages/Product Category/Buchete Flori/BucheteFlori"
 import { OcaziiSiEvenimente } from "./Pages/Product Category/Ocazii si Evenimente/OcaziiSiEvenimente"
 import { Cadouri } from "./Pages/Product Category/Cadouri/Cadouri"
 import { Error404 } from "./Pages/Product Category/ERROR Page/Error404"
@@ -75,7 +78,7 @@ import { CosuriVazeSiAccesorii } from "./Pages/Product Category/Cadouri/Sub Cate
 import { promo } from "./Pages/Product Category/Oferte si Promotii/Promo_items"
 import { OfertsiPromotii } from "./Pages/Product Category/Oferte si Promotii/Sub Category/Promotii/OfertesiPromotii"
 import { Abonamente } from "./Pages/Product Category/Oferte si Promotii/Sub Category/Abonamente/Abonamente"
-import { ProductPage } from "./Pages/Product Category/ProductPage"
+import ProductPage from "./Pages/Product Category/ProductPage"
 import { FooterCardComponents } from "./Pages/Footer Category/Footer Card Components/FooterCardComponents"
 import { DespreNoi } from "./Pages/Footer Category/About Us/Despre noi/DespreNoi"
 import { AvantajeleClientilor } from "./Pages/Footer Category/About Us/Avantajele clientilor/AvantajeleClientilor"
@@ -113,11 +116,16 @@ import { UserAddress } from "./Pages/Profile/User Addresses/UserAddresses"
 import { UserAddressesEdit } from "./Pages/Profile/User Addresses/UserAddressesEdit"
 import { UserAccountContext } from "./components/Header/Context/UserAccountContext"
 import { useSearch } from "./components/Header/Context/SearchContext"
+// import TopBarProgress from "react-topbar-progress-indicator"
+// import LoadingPage from "./components/Content/LoadingPage"
+// import LoadingBar from "react-top-loading-bar"
 
 
 export function App() {
+
     const { userEmail } = useAuth()
     const { searchTerm } = useSearch()
+
     return (
         <div className="container">
 
@@ -129,13 +137,14 @@ export function App() {
                         <SidebarLeft />
                         <Header />
                         <Navbar />
-                        <Routes>
+                        <Routes >
                             <Route path="/" element={<HomePage />}></Route>
                             {/*-------------> Buchete Flori <-------------*/}
                             <Route path={navBarItems[0].path} element={<BucheteFlori />}></Route>
+
                             {/*-------------> Buchete Flori -> SubCategory <-------------*/}
                             <Route path={buchete_flori_column1[0].path} element={<BucheteDeOrhidee />}></Route>
-                            <Route path={buchete_flori_column1[1].path} element={<BucheteDeTrandafiri />}></Route>
+                            <Route path={buchete_flori_column1[1].path} element={<BucheteDeTrandafiri />} ></Route>
                             <Route path={buchete_flori_column1[2].path} element={<BucheteDeLalele />}></Route>
                             <Route path={buchete_flori_column1[3].path} element={<BucheteDeMinirosa />}></Route>
                             <Route path={buchete_flori_column1[4].path} element={<BucheteDeCrizanteme />}></Route>
@@ -286,6 +295,7 @@ export function App() {
                     </UserAccountContext>
                 </AddToCartContext>
             </ShoppingCartProvider>
-        </div>
+
+        </div >
     )
 }

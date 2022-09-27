@@ -60,7 +60,7 @@ export function PoliticaDeReturnare() {
                                     Conform OUG 34/2014, florile constituie produse care sunt susceptibile a se deteriora sau a expira rapid și sunt exceptate de la dreptul de retragere.
                                 </div>
                                 <div>
-                                    Jucăriile sau vazele și alte produse neperisabile comercializate de Floria Digital se pot returna după următoarea procedură:
+                                    Jucăriile sau vazele și alte produse neperisabile comercializate de Floris Digital se pot returna după următoarea procedură:
                                 </div>
                             </div>
 
@@ -75,13 +75,13 @@ export function PoliticaDeReturnare() {
                                 2. Returnarea se face prin trimiterea produselor la adresa: Bucuresti, sector 1, Soseaua Pipera, nr. 4, etaj 2, prin orice curier doriti.
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                3. Transportul coletului de retur va fi platit de catre <Link className={STYLE.linkRef} to="/"> www.floria.ro</Link>.
+                                3. Transportul coletului de retur va fi platit de catre <Link className={STYLE.linkRef} to="/"> www.floris.ro</Link>.
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
                                 4. In colet se vor afla toate documentele primite initial, precum si o adresa scrisa, semnata de persoana care a initiat si platit comanda, care notifica denuntarea contractului si solicita returnarea sumei platite, indicand contul si banca unde se vor returna banii.
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
-                                5. Coletul trebuie trimis la sediul Floria.ro in maxim 14 zile calendaristice din momentul primirii comenzii.
+                                5. Coletul trebuie trimis la sediul Floris.ro in maxim 14 zile calendaristice din momentul primirii comenzii.
                             </div>
                             <div className={STYLE.rowOneTitlesContent}>
                                 6. Suma platita va fi rambursata integral in 14 de zile calendaristice de la primirea notificarii de retragere.
