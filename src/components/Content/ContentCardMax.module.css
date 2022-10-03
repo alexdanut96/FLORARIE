@@ -6,6 +6,61 @@
     animation: fade-in 500ms forwards;
 }
 
+.loader,
+.secondLoader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    height: 25px;
+}
+
+.loader:after {
+    content: " ";
+    display: block;
+    width: 25px;
+    height: 25px;
+    margin: 1px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    border-color: #fff transparent #fff transparent;
+    animation: loader 1.2s linear infinite;
+}
+
+.secondLoader:after {
+    content: " ";
+    display: block;
+    width: 25px;
+    height: 25px;
+    margin: 1px;
+    border-radius: 50%;
+    border: 3px solid #6363d9;
+    border-color: #6363d9 transparent #6363d9 transparent;
+    animation: loader 1.2s linear infinite;
+}
+
+
+
+@keyframes loader {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes secondLoader {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
 @keyframes fade-in {
     0% {
         opacity: 0;
@@ -346,8 +401,10 @@
 }
 
 .itemNumber {
-    font-size: 25px;
+    font-size: 22px;
+    width: 25px;
     font-weight: bold;
+
 }
 
 .plusButton,

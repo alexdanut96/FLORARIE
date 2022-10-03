@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState, useEffect } from "react"
 import { Link } from "react-router-dom"
 import { HiOutlineCheck } from "react-icons/hi"
 import { TbTruckDelivery } from "react-icons/tb"
@@ -7,6 +7,55 @@ import STYLE from "./ContentCardMax.module.css"
 import { formatCurrency, newPrice } from "../../utilities/formatCurrency"
 import { useModify } from "../../components/Header/Context/AddToCartContext";
 import { useAuth } from "../Header/Context/AuthContext"
+// import { lazy, Suspense } from "react"
+
+//   function AddToCart({ id, discount, productImage, title, price, inStock, deliveryTime, path, productCode }) {
+
+//     const {
+//         getItemQuantity,
+//         increaseCartQuantity,
+//         decreaseCartQuantity,
+//         removeFromCart,
+//         addToWishlist,
+//         removeFromWishlist,
+//         getFavItemValue,
+//     } = useModify()
+//     const quantity = getItemQuantity(productCode)
+//     const value = getFavItemValue(productCode)
+//     const { userEmail } = useAuth()
+
+//     return (
+//         <div
+//             style={{ display: quantity !== 0 ? "block" : "none" }}
+//         >
+//             <div className={STYLE.addOrRemoveItem}>
+//                 <button
+//                     onClick={() => decreaseCartQuantity(productCode)}
+//                     className={STYLE.minusButton}>
+//                     -
+//                 </button>
+//                 <div className={STYLE.countText}>
+//                     <div className={STYLE.itemNumber}>
+//                         {quantity}
+//                     </div>
+//                     <div>in cos</div>
+//                 </div>
+//                 <button
+//                     onClick={() => increaseCartQuantity(productCode)}
+//                     className={STYLE.plusButton}>
+//                     +
+//                 </button>
+//             </div>
+//             <div>
+//                 <button
+//                     onClick={() => removeFromCart(productCode)}
+//                     className={STYLE.removeButtom}>
+//                     goleste cosul
+//                 </button>
+//             </div>
+//         </div>
+//     )
+// }
 
 export function ContentCardMax(
     { id, discount, productImage, title, price, inStock, deliveryTime, path, productCode }) {
@@ -18,11 +67,35 @@ export function ContentCardMax(
         removeFromCart,
         addToWishlist,
         removeFromWishlist,
-        getFavItemValue
+        getFavItemValue,
     } = useModify()
     const quantity = getItemQuantity(productCode)
     const value = getFavItemValue(productCode)
     const { userEmail } = useAuth()
+    const [increaseIsLoading, setIncreaseIsLoading] = useState(false)
+    const [decreaseIsLoading, setDecreaseIsLoading] = useState(false)
+    const [removeLoading, setRemoveLoading] = useState(false)
+    const [isDisabled, setIsDisabled] = useState(false)
+
+
+    useEffect(() => {
+        if (increaseIsLoading) {
+            increaseCartQuantity(productCode)
+            setIncreaseIsLoading(false)
+        } else if (decreaseIsLoading) {
+            decreaseCartQuantity(productCode)
+            setDecreaseIsLoading(false)
+        } else if (removeLoading) {
+            removeFromCart(productCode)
+            setRemoveLoading(false)
+        }
+    }, [increaseIsLoading, decreaseIsLoading, removeLoading])
+
+    useEffect(() => {
+        if (isDisabled) {
+            setIsDisabled(false)
+        }
+    }, [isDisabled])
 
 
     return (
@@ -113,40 +186,54 @@ export function ContentCardMax(
                             <div onClick={(e) => { e.preventDefault() }}>
                                 <button
                                     className={STYLE.addToCartButton}
-                                    onClick={() => increaseCartQuantity(productCode)}
+                                    onClick={() => setIncreaseIsLoading(true)}
+                                    disabled={increaseIsLoading}
                                     style={{ display: quantity === 0 ? "flex" : "none" }}
                                 >
-                                    <span className={STYLE.addToCartButtonText}>Adauga in cos</span>
+                                    {!increaseIsLoading && <span className={STYLE.addToCartButtonText}>Adauga in cos</span>}
+                                    {increaseIsLoading && <span className={STYLE.loader}></span>}
                                 </button>
+
+
                                 <div
                                     style={{ display: quantity !== 0 ? "block" : "none" }}
                                 >
                                     <div className={STYLE.addOrRemoveItem}>
                                         <button
-                                            onClick={() => decreaseCartQuantity(productCode)}
+                                            disabled={isDisabled}
+                                            onClick={() => { setIsDisabled(true); setDecreaseIsLoading(true) }}
                                             className={STYLE.minusButton}>
-                                            -
+                                            <div>-</div>
+
                                         </button>
                                         <div className={STYLE.countText}>
                                             <div className={STYLE.itemNumber}>
-                                                {quantity}
+                                                {(!increaseIsLoading && !decreaseIsLoading) && quantity}
+                                                {(increaseIsLoading || decreaseIsLoading) && <span className={STYLE.secondLoader}></span>}
                                             </div>
                                             <div>in cos</div>
                                         </div>
+
+
                                         <button
-                                            onClick={() => increaseCartQuantity(productCode)}
+                                            disabled={isDisabled}
+                                            onClick={() => { setIsDisabled(true); setIncreaseIsLoading(true) }}
                                             className={STYLE.plusButton}>
                                             +
                                         </button>
+
                                     </div>
                                     <div>
                                         <button
-                                            onClick={() => removeFromCart(productCode)}
+                                            onClick={() => setRemoveLoading(true)}
                                             className={STYLE.removeButtom}>
-                                            goleste cosul
+                                            {!removeLoading && <div>goleste cosul</div>}
+                                            {removeLoading && <span className={STYLE.loader}></span>}
+
                                         </button>
                                     </div>
                                 </div>
+
                             </div>
                         </div>
                     </article>

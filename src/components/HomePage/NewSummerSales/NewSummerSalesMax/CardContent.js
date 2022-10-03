@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { HiOutlineCheck } from "react-icons/hi"
 import { TbTruckDelivery } from "react-icons/tb"
@@ -24,6 +24,29 @@ export function CardContent(
     const quantity = getItemQuantity(productCode)
     const value = getFavItemValue(productCode)
     const { userEmail } = useAuth()
+    const [increaseIsLoading, setIncreaseIsLoading] = useState(false)
+    const [decreaseIsLoading, setDecreaseIsLoading] = useState(false)
+    const [removeLoading, setRemoveLoading] = useState(false)
+    const [isDisabled, setIsDisabled] = useState(false)
+
+    useEffect(() => {
+        if (increaseIsLoading) {
+            increaseCartQuantity(productCode)
+            setIncreaseIsLoading(false)
+        } else if (decreaseIsLoading) {
+            decreaseCartQuantity(productCode)
+            setDecreaseIsLoading(false)
+        } else if (removeLoading) {
+            removeFromCart(productCode)
+            setRemoveLoading(false)
+        }
+    }, [increaseIsLoading, decreaseIsLoading, removeLoading])
+
+    useEffect(() => {
+        if (isDisabled) {
+            setIsDisabled(false)
+        }
+    }, [isDisabled])
 
     useEffect(() => {
         const addToCartButton = document.querySelectorAll(`.${CARD.addToCartButton}`)
@@ -119,37 +142,41 @@ export function CardContent(
                             <div onClick={(e) => { e.preventDefault() }}>
                                 <button
                                     className={CARD.addToCartButton}
-                                    onClick={() => increaseCartQuantity(productCode)}
+                                    onClick={() => setIncreaseIsLoading(true)}
                                     style={{ display: quantity === 0 ? "flex" : "none" }}
                                 >
-                                    <span className={CARD.addToCartButtonText}>Adauga in cos</span>
-                                </button>
+                                    {!increaseIsLoading && <span className={CARD.addToCartButtonText}>Adauga in cos</span>}
+                                    {increaseIsLoading && <span className={CARD.loader}></span>}                                </button>
                                 <div
                                     style={{ display: quantity !== 0 ? "block" : "none" }}
                                 >
                                     <div className={CARD.addOrRemoveItem}>
                                         <button
-                                            onClick={() => decreaseCartQuantity(productCode)}
+                                            disabled={isDisabled}
+                                            onClick={() => { setIsDisabled(true); setDecreaseIsLoading(true) }}
                                             className={CARD.minusButton}>
                                             -
                                         </button>
                                         <div className={CARD.countText}>
                                             <div className={CARD.itemNumber}>
-                                                {quantity}
+                                                {(!increaseIsLoading && !decreaseIsLoading) && quantity}
+                                                {(increaseIsLoading || decreaseIsLoading) && <span className={CARD.secondLoader}></span>}
                                             </div>
                                             <div>in cos</div>
                                         </div>
                                         <button
-                                            onClick={() => increaseCartQuantity(productCode)}
+                                            disabled={isDisabled}
+                                            onClick={() => { setIsDisabled(true); setIncreaseIsLoading(true) }}
                                             className={CARD.plusButton}>
                                             +
                                         </button>
                                     </div>
                                     <div>
                                         <button
-                                            onClick={() => removeFromCart(productCode)}
+                                            onClick={() => setRemoveLoading(true)}
                                             className={CARD.removeButtom}>
-                                            goleste cosul
+                                            {!removeLoading && <div>goleste cosul</div>}
+                                            {removeLoading && <span className={CARD.loader}></span>}
                                         </button>
                                     </div>
                                 </div>

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import STYLE from "./CartItem.module.css"
 import { HiOutlineTrash } from "react-icons/hi"
 import { Link } from "react-router-dom";
@@ -11,6 +11,30 @@ export function CartItem({ productCode, quantity }) {
     const { openTheCart } = useShoppingCart()
     const { removeFromCart, increaseCartQuantity, decreaseCartQuantity } = useModify()
     const item = items.find(i => i.productCode === productCode)
+    const [increaseIsLoading, setIncreaseIsLoading] = useState(false)
+    const [decreaseIsLoading, setDecreaseIsLoading] = useState(false)
+    const [removeLoading, setRemoveLoading] = useState(false)
+    const [isDisabled, setIsDisabled] = useState(false)
+
+    useEffect(() => {
+        if (increaseIsLoading) {
+            increaseCartQuantity(productCode)
+            setIncreaseIsLoading(false)
+        } else if (decreaseIsLoading) {
+            decreaseCartQuantity(productCode)
+            setDecreaseIsLoading(false)
+        } else if (removeLoading) {
+            removeFromCart(productCode)
+            setRemoveLoading(false)
+        }
+    }, [increaseIsLoading, decreaseIsLoading, removeLoading])
+
+    useEffect(() => {
+        if (isDisabled) {
+            setIsDisabled(false)
+        }
+    }, [isDisabled])
+
     if (item === undefined) return null
 
     return (
@@ -33,18 +57,34 @@ export function CartItem({ productCode, quantity }) {
                     </div>
                     <div className={STYLE.buttons}>
                         <div className={STYLE.addOrRemove}>
-                            <button onClick={() => decreaseCartQuantity(productCode)}>-</button>
-                            <button onClick={() => increaseCartQuantity(productCode)}>+</button>
+                            <button
+                                disabled={isDisabled}
+                                onClick={() => { setIsDisabled(true); setDecreaseIsLoading(true) }}>
+                                -
+                            </button>
+                            <button
+                                disabled={isDisabled}
+                                onClick={() => { setIsDisabled(true); setIncreaseIsLoading(true) }}>
+                                +
+                            </button>
                         </div>
                         <div className={STYLE.removeButton}>
-                            <button onClick={() => removeFromCart(productCode)}><HiOutlineTrash className={STYLE.bin} /></button>
+                            <button
+                                onClick={() => setRemoveLoading(true)}
+                            >
+                                {!removeLoading && <HiOutlineTrash className={STYLE.bin} />}
+                                {removeLoading && <span className={STYLE.secondLoader}></span>}
+                            </button>
                         </div>
                     </div>
                     <div className={STYLE.quantityAndFinalPrice}>
                         <div className={STYLE.itemQuantity}>
                             {quantity > 0 && (
-                                <div>
-                                    x{quantity}
+                                <div style={{ display: "flex", width: "25px", height: "25px" }}>
+
+                                    {(!increaseIsLoading && !decreaseIsLoading) && <div>x{quantity}</div>}
+                                    {(increaseIsLoading || decreaseIsLoading) && <span className={STYLE.secondLoader}></span>}
+                                    {/* x{quantity} */}
                                 </div>
                             )}
                         </div>

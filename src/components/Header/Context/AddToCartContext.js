@@ -64,6 +64,7 @@ export function AddToCartContext({ children }) {
         return cartItems.find(item => item.productCode === productCode)?.quantity || 0
     }
 
+
     function increaseCartQuantity(productCode) {
         setCartItems(currItems => {
             if (currItems.find(item => item.productCode === productCode) === undefined) {
@@ -119,7 +120,7 @@ export function AddToCartContext({ children }) {
             cartQuantity,
             favAmount,
             addToFavorites,
-            favoriteItems
+            favoriteItems,
         }}>
             {children}
         </Modify.Provider>

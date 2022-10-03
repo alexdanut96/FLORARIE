@@ -23,6 +23,7 @@ import { useAuth } from "../../components/Header/Context/AuthContext"
 
 export default function ProductPage(
     { id, productCode, discount, productImageBs, title, price, inStock, deliveryTime, path, accountBenefitsDescription, aboutProduct, furtherInformation }) {
+
     // function zoom() {
     //     const container = document.querySelector(`#${containerimage}`)
     //     const image = document.querySelector(`#${imageZoom}`)
