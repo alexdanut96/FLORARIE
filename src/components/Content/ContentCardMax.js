@@ -68,6 +68,8 @@ export function ContentCardMax(
         addToWishlist,
         removeFromWishlist,
         getFavItemValue,
+        addToCartNotify,
+        removeFromCartNotify
     } = useModify()
     const quantity = getItemQuantity(productCode)
     const value = getFavItemValue(productCode)
@@ -78,16 +80,26 @@ export function ContentCardMax(
     const [isDisabled, setIsDisabled] = useState(false)
 
 
+
     useEffect(() => {
         if (increaseIsLoading) {
             increaseCartQuantity(productCode)
             setIncreaseIsLoading(false)
+            if (quantity === 0) {
+                addToCartNotify()
+            }
         } else if (decreaseIsLoading) {
             decreaseCartQuantity(productCode)
             setDecreaseIsLoading(false)
+            if (quantity === 1) {
+                removeFromCartNotify()
+            }
         } else if (removeLoading) {
             removeFromCart(productCode)
             setRemoveLoading(false)
+            if (quantity !== 0) {
+                removeFromCartNotify()
+            }
         }
     }, [increaseIsLoading, decreaseIsLoading, removeLoading])
 
@@ -186,7 +198,7 @@ export function ContentCardMax(
                             <div onClick={(e) => { e.preventDefault() }}>
                                 <button
                                     className={STYLE.addToCartButton}
-                                    onClick={() => setIncreaseIsLoading(true)}
+                                    onClick={() => { setIncreaseIsLoading(true) }}
                                     disabled={increaseIsLoading}
                                     style={{ display: quantity === 0 ? "flex" : "none" }}
                                 >

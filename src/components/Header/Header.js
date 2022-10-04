@@ -21,9 +21,6 @@ import { useSearch } from "./Context/SearchContext";
 
 export function Header() {
 
-
-
-
     const minInputRef = useRef()
     const maxInputRef = useRef()
     const maxSearchBtnRef = useRef()

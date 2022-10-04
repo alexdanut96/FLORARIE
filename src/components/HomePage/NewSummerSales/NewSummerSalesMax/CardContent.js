@@ -19,7 +19,9 @@ export function CardContent(
         removeFromCart,
         addToWishlist,
         removeFromWishlist,
-        getFavItemValue
+        getFavItemValue,
+        addToCartNotify,
+        removeFromCartNotify
     } = useModify()
     const quantity = getItemQuantity(productCode)
     const value = getFavItemValue(productCode)
@@ -33,12 +35,21 @@ export function CardContent(
         if (increaseIsLoading) {
             increaseCartQuantity(productCode)
             setIncreaseIsLoading(false)
+            if (quantity === 0) {
+                addToCartNotify()
+            }
         } else if (decreaseIsLoading) {
             decreaseCartQuantity(productCode)
             setDecreaseIsLoading(false)
+            if (quantity === 1) {
+                removeFromCartNotify()
+            }
         } else if (removeLoading) {
             removeFromCart(productCode)
             setRemoveLoading(false)
+            if (quantity !== 0) {
+                removeFromCartNotify()
+            }
         }
     }, [increaseIsLoading, decreaseIsLoading, removeLoading])
 

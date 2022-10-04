@@ -9,7 +9,12 @@ import { useShoppingCart } from "../Header/Context/ShoppingCartContext";
 
 export function CartItem({ productCode, quantity }) {
     const { openTheCart } = useShoppingCart()
-    const { removeFromCart, increaseCartQuantity, decreaseCartQuantity } = useModify()
+    const { removeFromCart,
+        increaseCartQuantity,
+        decreaseCartQuantity,
+        addToCartNotify,
+        removeFromCartNotify
+    } = useModify()
     const item = items.find(i => i.productCode === productCode)
     const [increaseIsLoading, setIncreaseIsLoading] = useState(false)
     const [decreaseIsLoading, setDecreaseIsLoading] = useState(false)
@@ -20,12 +25,21 @@ export function CartItem({ productCode, quantity }) {
         if (increaseIsLoading) {
             increaseCartQuantity(productCode)
             setIncreaseIsLoading(false)
+            if (quantity === 0) {
+                addToCartNotify()
+            }
         } else if (decreaseIsLoading) {
             decreaseCartQuantity(productCode)
             setDecreaseIsLoading(false)
+            if (quantity === 1) {
+                removeFromCartNotify()
+            }
         } else if (removeLoading) {
             removeFromCart(productCode)
             setRemoveLoading(false)
+            if (quantity !== 0) {
+                removeFromCartNotify()
+            }
         }
     }, [increaseIsLoading, decreaseIsLoading, removeLoading])
 

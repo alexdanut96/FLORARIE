@@ -119,6 +119,7 @@ import { useSearch } from "./components/Header/Context/SearchContext"
 // import TopBarProgress from "react-topbar-progress-indicator"
 // import LoadingPage from "./components/Content/LoadingPage"
 // import LoadingBar from "react-top-loading-bar"
+import { Toaster } from 'react-hot-toast';
 
 
 export function App() {
@@ -126,8 +127,22 @@ export function App() {
     const { userEmail } = useAuth()
     const { searchTerm } = useSearch()
 
+
     return (
         <div className="container">
+
+            <Toaster
+                toastOptions={{
+                    className: '',
+                    style: {
+                        padding: '10px',
+                        color: 'black',
+                        background: "white",
+                        fontSize: "16px",
+                        position: "bottom-center"
+                    },
+                }}
+            />
 
             <ShoppingCartProvider>
                 <AddToCartContext>

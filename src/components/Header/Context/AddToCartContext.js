@@ -1,5 +1,7 @@
 import React, { useContext, useState } from "react";
 import { useLocalStorage } from "../../Hooks/useLocalStorage";
+import { toast } from "react-hot-toast";
+import { Checkmark } from 'react-checkmark'
 
 const Modify = React.createContext()
 export function useModify() {
@@ -52,6 +54,20 @@ export function AddToCartContext({ children }) {
             }
         })
     }
+
+    const addToCartNotify = () => toast(
+        <div>
+            <Checkmark size="20px" />
+            <div>Produsul a fost adaugat in cos!</div>
+        </div>, { position: "top-center" }
+    )
+
+    const removeFromCartNotify = () => toast(
+        <div>
+            <Checkmark size="20px" color="red" />
+            <div>Produsul a fost eliminat din cos!</div>
+        </div>, { position: "top-center" }
+    )
 
     function removeFromWishlist(productCode) {
         setAddToFavorite(false)
@@ -121,6 +137,8 @@ export function AddToCartContext({ children }) {
             favAmount,
             addToFavorites,
             favoriteItems,
+            addToCartNotify,
+            removeFromCartNotify
         }}>
             {children}
         </Modify.Provider>

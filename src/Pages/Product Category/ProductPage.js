@@ -52,7 +52,9 @@ export default function ProductPage(
         removeFromCart,
         addToWishlist,
         removeFromWishlist,
-        getFavItemValue
+        getFavItemValue,
+        addToCartNotify,
+        removeFromCartNotify
     } = useModify()
     const quantity = getItemQuantity(productCode)
     const value = getFavItemValue(productCode)
@@ -165,7 +167,7 @@ export default function ProductPage(
                         <div >
                             <button
                                 className={STYLE.addToCartButton}
-                                onClick={() => increaseCartQuantity(productCode)}
+                                onClick={() => { increaseCartQuantity(productCode); quantity === 0 && addToCartNotify() }}
                                 style={{ display: quantity === 0 ? "flex" : "none" }}
                             >
                                 <span className={STYLE.addToCartButtonText}>Adauga in cos</span>
@@ -175,7 +177,7 @@ export default function ProductPage(
                             >
                                 <div className={STYLE.addOrRemoveItem}>
                                     <button
-                                        onClick={() => decreaseCartQuantity(productCode)}
+                                        onClick={() => { decreaseCartQuantity(productCode); quantity === 1 && removeFromCartNotify() }}
                                         className={STYLE.minusButton}>
                                         -
                                     </button>
@@ -193,7 +195,7 @@ export default function ProductPage(
                                 </div>
                                 <div>
                                     <button
-                                        onClick={() => removeFromCart(productCode)}
+                                        onClick={() => { removeFromCart(productCode); quantity !== 0 && removeFromCartNotify() }}
                                         className={STYLE.removeButtom}>
                                         goleste cosul
                                     </button>
